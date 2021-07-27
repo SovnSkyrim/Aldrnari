@@ -82,9 +82,9 @@ Disclaimer: Any questions regarding the specs and performance of the list will b
 #### Size on Drive
 Aldrnari is a big list, it requires:
   - Over 130GB for the Downloads folder
-  - Over 220GB for the Installation folder
+  - Over 180GB for the Installation folder
 
-So 350GB **minimum** is required. I cannot stress how much a SSD is needed for **atleast** the game and the list. You can put your downloads in an HDD and it will only slow your installation process.
+So 315GB **minimum** is required. I cannot stress how much a SSD is needed for **atleast** the game and the list. You can put your downloads in an HDD and it will only slow your installation process.
 
 ### Pre-Installation
 
