@@ -37,7 +37,7 @@
 # Preamble
 
 Aldrnari (ᚨᛚᛞᚱᚾᚨᚱᛁ) is my project to make a Skyrim **I** want to play.
-It is an ode to my love for folk music altogether, in fact, the idea came when I got curious into [Yggdrasil Music and SoundFX Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/21578) and started listening to folk music altogether.
+It is an ode to my love for folk music, in fact, the idea came when I got curious into [Yggdrasil Music and SoundFX Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/21578) and started listening to folk music altogether.
 
 Aldrnari means "the nourisher of life", it is one of the many ways to translate fire in old norse.
 The idea came from the Heilung track [Elddansurin](https://www.youtube.com/watch?v=Xph2Phcj0LA) (it means [The fire dancer](https://lyricstranslate.com/en/elddansurin-fire-dancer.html)) because it represents how folk helped healing my soul and how in Dark Souls, fire is extremely important.
