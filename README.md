@@ -240,29 +240,29 @@ Please Note: Do NOT change sex or race with showracemenu after first confirming 
 
 ## FAQ
 
-## Removing the Modlist
+### Removing the Modlist
 
 You can just remove the MO2 folder and be done with it. SKSE and ENB files will still be in your game folder so I recommend using [ENB and ReShade Manager](https://www.nexusmods.com/skyrimspecialedition/mods/4143) if you want to remove the ENB.
 
-## Ultrawide Options
+### Ultrawide Options
 
 I have an ultra-wide, it's just not worth it in my opinion. Skyrim isn't made for it; if you disagree, check [this guide](https://docs.google.com/document/d/1D3Yapmu_IkTWSszJ4h9wpNxgNLCi46f7XiJknpdMb6E/edit?usp=sharing) by my friend Mantis for compatibility with such screens.
 
-## I have a question
+### I have a question
 
 Ask it in my Discord, link [here](https://discord.gg/ZgjVrXp). The support channel in the Wabbajack Discord is for Installation questions, not support over in game stuff or suggestions.
 
-## I have a bug
+### I have a bug
 
 Report it in my Discord, link [here](https://discord.gg/ZgjVrXp). The support channel in the Wabbajack Discord is for Installation questions, not bug reports.
 
-## A face part is crashing me! | Some hair/facial hair clips!
+### A face part is crashing me! | Some hair/facial hair clips!
 
 The 5th Facepart is a lie. Known and unsolvable. | Make sure to have selected a High Poly Head under Face Part, some hairstyle will remain bugged but it is known and I do not know how to fix them. The mod they're from doesn't only offer those bugged hairstyles so it remains for the rest of what it proposes.
 
 Some NPCs have a neck seam, that's known, I'm waiting for an update of [EasyNPC](https://www.nexusmods.com/skyrimspecialedition/mods/52313?tab=description) to solve them, I talk to the author so don't worry, it'll come. Play with them for now.
 
-## What perk does the new weapons use?
+### What perk does the new weapons use?
 - Rapiers get Sword perks
 - Pikes get great sword perks
 - Halberds get two handed axe perks
@@ -270,11 +270,11 @@ Some NPCs have a neck seam, that's known, I'm waiting for an update of [EasyNPC]
 - Claws get dagger perks
 - Whips get mace perks
 
-## My character T-Poses!
+### My character T-Poses!
 
 Cap your framerate, either with BethINI, SSE Display Tweaks, or ENB.
 
-## "I am bothered by the way NPCs look in the game!" and "How do NPCs look?? Are they rugged? Are they supermodels? Are they vanilla?"
+### "I am bothered by the way NPCs look in the game!" and "How do NPCs look?? Are they rugged? Are they supermodels? Are they vanilla?"
 
 I really do not care and won't take your opinion into account. I've scoured a lot of NPC overhauls (from Eeekies', Northbourne, to Bijin, Pandorable or the Re-imagined Series) and handpicked them for the list so it fits MY tastes.
 
@@ -284,7 +284,7 @@ If you do not find someone, they're either from [Pride of Skyrim AIO](https://ww
 
 Any criticism on that is NOT welcome, and it is, in fact, the only aspect of the game I do not take ANY criticism from. Hearing complaints about this stuff gives me an instant headache. I cannot please everybody, so I decided to please myself.
 
-## Creation Club (CC Content) Support?
+### Creation Club (CC Content) Support?
 
 Never gonna happen. I don't like paid mods at all, I don't think they're that high quality, and maintaining two profiles is already painful, so two more (EnaiRim CC and SimonRim CC) would be extremely annoying (we're talking running Synthesis eight times, DynDOLOD and Occlusion four times each).
 
@@ -296,10 +296,9 @@ Using them with QWEST! would be like installing your own mods: Support is forfei
 
 - _YOU_ for actually reading the readme. Thanks a ton!!
 - Halgari and everyone in the WJ Team - Wabbajack is awesome and so are you
-- Xanza and Jdsmith inspiring me to make this, y'all are neat.
-- Luca for all the testing, feedback and recommendations, you are amazing.
 - Althro for being such a resourceful person and helping with the Discord and development a lot.
-- zino for testing 2.0 and onwards updates, allowing for accurate feedback on performance for 2GB GPUs.
+- Chri3i for all the help during development, you are and keep being, a never ending help which is loved.
+- TheSpaniard for all the support you're doing in the discord.
 - Every each of my Patreons for supporting me, and with the Special Folks of my discord, for helping with the development.
 
 ## Contact
