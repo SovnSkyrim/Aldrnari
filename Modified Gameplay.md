@@ -53,5 +53,5 @@ Enemies will be drastically changed; I have made a very thorough merge of many p
 - [High Level Enemies](https://www.nexusmods.com/skyrimspecialedition/mods/3231) which, instead of the usual more variants, adds level 60+ enemies into leveled lists. 
 - [Real Bosses](https://www.nexusmods.com/skyrimspecialedition/mods/18183) because Skyrim Revamped does not touch bosses, for some reason, so it overhauls those, to make sure the minions aren't stronger than the actual boss.
 - [SkyTEST](https://www.nexusmods.com/skyrimspecialedition/mods/1104) for animals only, so they are an actual threat passed level 5.
-- [Splendor](https://www.nexusmods.com/skyrimspecialedition/mods/9670) and [Diverse Dragons Collection] are what brings diversity to Dragons so every encounter is a new challenge.
+- [Dragon War](https://www.nexusmods.com/skyrimspecialedition/mods/51310) and it's Variants addon are what brings diversity and difficulty to Dragons so every encounter is a new challenge.
 - My very own **Sovn's Enchanted Spheres - Porting Requiem Enemies to Vanilla Skyrim** to bring some actual bosses in dwarven ruins.
