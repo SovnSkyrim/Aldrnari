@@ -1,3 +1,5 @@
+![Logo](https://i.imgur.com/qOPBy7D.png)
+
 # Aldrnari
 
 - [Preamble](#preamble)
