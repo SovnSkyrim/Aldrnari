@@ -50,7 +50,7 @@ If you have any questions regarding the list, you're free to ask in the [Wabbaja
 
 This project started as a collaboration between Althro and I on Tinvaak 2, we went in our own ways when we realised that our goals were different. Aldrnari still woudldn't have existed without Althro and Tinvaak 2.
 
-The art for the list was made by [Crithion/m.vlad](https://mvlad.design/), a fellow Modlist Author (author of [Narsil](https://mvlad.design/narsil/), a VR list), and artist. I commissioned him and he did an amazing job!
+The art for the list was made by [Crithion/m.vlad](https://mvlad.design/), a fellow Modlist Developper (author of [Narsil](https://mvlad.design/narsil/), a VR list), and artist. I commissioned him and he did an amazing job!
 
 # Disclaimer
 
