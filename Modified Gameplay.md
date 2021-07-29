@@ -30,7 +30,7 @@ Unique Mechanics:
 - Off-hand: By default, if you have a Sword and a spell on your off-hand, using your left hand key will block and not use the spell. This allows dual wield blocking (which is needed in Aldrnari). To use the spell in your off-hand, press shift (by default) and your left hand key at the same time.
 - Enemies actually use stamina, so if they spam power attacks, play defensively and wait for the moment to strike!
 - Weapons have different ranges depending on what type they are.
-- Armors have resistances based on their keywords, if you use a dagger against steel armor, it obviously wont penetrate the steel. The same system applies to you tho, so play smart!
+- Armors have resistances based on their keywords, if you use a dagger against steel armor, it obviously wont penetrate the steel. The same system applies to you though, so play smart!
 - Dodging is extremely important, the default key is C (when following my MCM Setup) and will only work when weapons are drawn. The iFrames are generous and it'll get you out of trouble a lot.
 
 ### Gameplay - Combat | Other Combat Overhauls
