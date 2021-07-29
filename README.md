@@ -50,6 +50,8 @@ If you have any questions regarding the list, you're free to ask in the [Wabbaja
 
 This project started as a collaboration between Althro and I on Tinvaak 2, we went in our own ways when we realised that our goals were different. Aldrnari still woudldn't have existed without Althro and Tinvaak 2.
 
+The art for the list was made by [Crithion/m.vlad](https://mvlad.design/), a fellow Modlist Author (author of [Narsil](https://mvlad.design/narsil/), a VR list), and artist. I commissioned him and he did an amazing job!
+
 # Disclaimer
 
 ### READING THIS README IN ITS ENTIRETY IS REQUIRED FOR THE LIST TO WORK. IT WILL NOT WORK IF YOU DON'T READ. THIS ISN'T ROCKET SCIENCE SO BE PATIENT AND READ CAREFULLY. THE README DOESN'T END AT "HOW TO START UP THE LIST". 
@@ -299,7 +301,8 @@ Using them with QWEST! would be like installing your own mods: Support is forfei
 - Halgari and everyone in the WJ Team - Wabbajack is awesome and so are you
 - Althro for being such a resourceful person and helping with the Discord and development a lot.
 - Chri3i for all the help during development, you are and keep being, a never ending help which is loved.
-- TheSpaniard for all the support you're doing in the discord.
+- TheSpaniard and Chanka for all the support you're doing in the discord.
+- Crithion aka m.vlad for the art; trully amazing, I never spent my money so well.
 - Every each of my Patreons for supporting me, and with the Special Folks of my discord, for helping with the development.
 
 ## Contact
