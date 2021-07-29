@@ -50,7 +50,7 @@ It is deeply inspired by games like Dark Souls and Hellblade: Senua's Sacrifice,
 
 If you have any questions regarding the list, you're free to ask in the [Wabbajack Discord](https://discord.gg/wabbajack) or [my own personal server](https://discord.gg/ZgjVrXp).
 
-This project started as a collaboration between Althro and I on Tinvaak 2, we went in our own ways when we realised that our goals were different. Aldrnari still woudldn't have existed without Althro and Tinvaak 2.
+This project started as a collaboration between Althro and I on Tinvaak 2, over time however we realised our goals were different and he gave permission for me to use the base that had been created. Aldrnari would not exist without Althro and the work he put into Tinvaak 2. Go show him some love and play Tinvaak 2 when it comes out.
 
 The art for the list was made by [Crithion/m.vlad](https://mvlad.design/), a fellow Modlist Developper (author of [Narsil](https://mvlad.design/narsil/), a VR list), and artist. I commissioned him and he did an amazing job!
 
@@ -62,8 +62,7 @@ The art for the list was made by [Crithion/m.vlad](https://mvlad.design/), a fel
 
 # Noteworthy Mods and what gameplay to expect.
 
-Aldrnari goes a step beyond to make a fresher gameplay, thus I would need an entire document on what's in there to explain everything.
-That's exactly what [Modified Gameplay.md](https://github.com/SovnSkyrim/Aldrnari/blob/main/Modified%20Gameplay.md) is, so go check it out.
+Aldrnari goes a step beyond to make a fresher gameplay, thus I would need an entire document on what's in there to explain everything. Thankfully, [Modified Gameplay](https://github.com/SovnSkyrim/Aldrnari/blob/main/Modified%20Gameplay.md) exists, so go read to get an idea on what to expect with the list.
 
 # Installation
 ### Prerequisites
@@ -73,16 +72,11 @@ Aldrnari is meant to use every single inch of my computer, here are my specs:
   - 1080Ti Zotac - 11GB of VRAM
   - 32GB of 3200mhz DDR4 RAM
 
-Full PC Part Picker setup is [here](https://fr.pcpartpicker.com/list/ZHQQgt). VRAM is king in Skyrim Modding, so I would recommend atleast 8GB.
+Full PC Part Picker setup is [here](https://fr.pcpartpicker.com/list/ZHQQgt). I would recommend atleast 8GB for 1080p and for 1440p, you will need a minimum of 10GB of vram, although more is highly recommended. I do not have stable 60FPS on 1440p everywhere with my setup because frankly, I do not care about it if combat is fluid and I can take sexy screenshots. The average is 60FPS with dips in 50FPS in very few areas, all this at 1080p because my screen is a 3840x1080p (no I don't play in ultrawide, that's pointless and no support will be offered for that neither).
 
-I do not have stable 60FPS on 1440p everywhere with my setup because frankly, I do not care about it if combat is fluid and I can take sexy screenshots.
-The average is 60FPS with dips in 50FPS in very few areas, all this at 1080p because my screen is a 3840x1080p (no I don't play in ultrawide, that's pointless and no support will be offered for that neither).
+No performance options are available for now as this is a Beta, it will change at some point potentially. If your PC does not meet the spec required for this list, my other list [QWEST!](https://github.com/SovnSkyrim/QWEST), will probably work for you. It's made so that everyone can play it.
 
-No performance options are available for now as this is a Beta, it will change at some point, atleast it should.
-If you are sad that this is how I made the list then go play [QWEST!](https://github.com/SovnSkyrim/QWEST), it's made so everyone runs it.
-
-Disclaimer: Any questions regarding the specs and performance of the list will be redirected to here if you're asking me. I cannot stress how much I will not change the performance of the list. It is primarily made for screen-archery with innovative gameplay, notice how screen-archery goes first in my mind. You are free to modify the list once you have it to fit your frames dream, I will just not help you (atleast for now).
-
+Disclaimer: Any questions regarding the specs and performance of the list will be redirected to here if you're asking me. I cannot stress how much I will not change the performance of the list. It is primarily made for screen-archery with innovative gameplay. You are free to modify the list once you have it to fit your frames dream, but I will not support you in doing so.
 #### Size on Drive
 Aldrnari is a big list, it requires:
   - Over 120GB for the Downloads folder
