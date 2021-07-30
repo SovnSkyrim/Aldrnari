@@ -190,3 +190,6 @@ Those are the recommended ENBs, and the only ones I know that fit the Weather/Li
 
 
 ## Gameplay - New NPCs and Followers
+
+### Inigo...?
+A majority of people like him. I personally don't. On top of that, users reported non-issues from other Wabbajack lists to his Nexus page which led them to make a public pinned post about their [non favorable stance with what we do](http://prntscr.com/1b2tt18) so I am not going to use him any further in QWEST!. This decision is final.
