@@ -80,7 +80,7 @@ Vampires are deceptively strong, do not fight them early, you will get murdered.
 - **[Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751)**
 - **[Static Skill Leveling - Experience Mod Add-on](https://www.nexusmods.com/skyrimspecialedition/mods/30410)**
 
-You will level up by discovering places, killing any enemy, and doing quests, your stats do not influence your leveling at all, that is [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751) Here is what the addon changes:**Whenever you sleep, you will be able to allocate skill points in the skills you wish to improve on!**. Only the first time you sleep, after you've leveled up and added your Stamina/Health/Magic bonus, that is why [Campfire](https://www.nexusmods.com/skyrimspecialedition/mods/667) is in ([it also uses a bonfire, neat isn't it?](https://www.nexusmods.com/skyrimspecialedition/mods/41223)).
+You will level up by discovering places, killing any enemy, and doing quests, your stats do not influence your leveling at all, that is [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751) Here is what the add-on changes:**Whenever you sleep, you will be able to allocate skill points in the skills you wish to improve on!**. Only the first time you sleep, after you've leveled up and added your Stamina/Health/Magic bonus, that is why [Campfire](https://www.nexusmods.com/skyrimspecialedition/mods/667) is in ([it also uses a bonfire, neat isn't it?](https://www.nexusmods.com/skyrimspecialedition/mods/41223)).
 
 But that isn't all there is to help you on your quest to becoming a god among men, let's talk about the main overhauls.
 
