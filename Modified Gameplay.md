@@ -172,4 +172,4 @@ Those are the recommended ENBs, and the only ones I know that fit the Weather/Li
 ### Gameplay - New Quests and World Encounters
 
 
-### Gameplay - New NPCs and Followers
+## Gameplay - New NPCs and Followers
