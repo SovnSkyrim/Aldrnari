@@ -66,7 +66,7 @@ That's right, I heavily modified [Open World Loot](https://www.nexusmods.com/sky
 
 More on that in the next chapter of this guide.
 
-### Gameplay - Leveling
+## Gameplay - Leveling
 
 Bandits are the best enemy in the beginning; they barely know how to fight (except their leaders) and aren't that organized, as you progress you should be able to tackle stronger enemies such as draugr, forsworn, mages, dwarven constructions or dragons, and finally vampires and dragon priests.
 
@@ -85,7 +85,7 @@ You will level up by discovering places, killing any enemy, and doing quests, yo
 But that isn't all there is to help you on your quest to becoming a god among men, let's talk about the main overhauls.
 
 
-### Gameplay - Main Overhauls | Perks, Races, Standing Stones, Magic, Religion and Alchemy
+## Gameplay - Main Overhauls | Perks, Races, Standing Stones, Magic, Religion and Alchemy
 
 So I mostly play with **EnaiRim**, especially the full overhauls, and that isn't going to change *too much*. Lemme show you;
 
