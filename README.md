@@ -62,7 +62,7 @@ The art for the list was made by [Crithion/m.vlad](https://mvlad.design/), a fel
 
 # Noteworthy Mods and what gameplay to expect.
 
-Aldrnari goes a step beyond to make a fresher gameplay, thus I would need an entire document on what's in there to explain everything. Thankfully, [Modified Gameplay](https://github.com/SovnSkyrim/Aldrnari/blob/main/Modified%20Gameplay.md) exists, so go read to get an idea on what to expect with the list.
+An entire document has been made to give you as much information as I could without going too deep in analysis of mods. This document is called **[Modified Gameplay.md](https://github.com/SovnSkyrim/Aldrnari/blob/main/Modified%20Gameplay.md)** and acts as a second readme for the core gameplay and questions about what to expect. So go read [it](https://github.com/SovnSkyrim/Aldrnari/blob/main/Modified%20Gameplay.md). 
 
 # Installation
 ### Prerequisites
