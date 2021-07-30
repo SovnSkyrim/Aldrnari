@@ -62,7 +62,7 @@ Those are only the most prominent overhauls present, the list isn't exhaustive.
 
 "Wow Sovn, this is some madness! How am I supposed to survive?" Well listen here buddy, **the Encounter Zones are handmade**.
 
-That's right, I heavily modified [Open World Loot](https://www.nexusmods.com/skyrimspecialedition/mods/49681)'s encounter zones. What will happen is very early, you should fight bandits. They should be as bad in combat as you. As you progress through doing [Missives](https://www.nexusmods.com/skyrimspecialedition/mods/17576) or normal quests due to [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751), you will get more enemies with more perks, and you will be able to do more and more stuff.
+That's right, I heavily modified [Open World Loot](https://www.nexusmods.com/skyrimspecialedition/mods/49681)'s encounter zones. For the first couple levels early on, you will want to fight bandits. They should be as bad at combat as you. As you progress through doing [Missives](https://www.nexusmods.com/skyrimspecialedition/mods/17576) or normal quests due to [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751), you will get more enemies with more perks, and you will be able to do more and more stuff.
 
 More on that in the next chapter of this guide.
 
@@ -70,17 +70,17 @@ More on that in the next chapter of this guide.
 
 Bandits are the best enemy in the beginning; they barely know how to fight (except their leaders) and aren't that organized, as you progress you should be able to tackle stronger enemies such as draugr, forsworn, mages, dwarven constructions or dragons, and finally vampires and dragon priests.
 
-Vampires are a bait, they're extremely strong, do not fight them early, you will get murdered. Why? Because the game is **semi-leveled**; lemme explain:
-- Normal enemies still scale with you, they start lower level and have a lot of variants between lvl 1 and 90
-- Bosses are by default higher level, between level 15 and 250 (that includes quest mods). There is a lot of static bosses that are straight up god-like, I'm thinking Master Vampires and Dragon Priests.
+Vampires are deceptively strong, do not fight them early, you will get murdered. Why? Because the game is **semi-leveled**; lemme explain:
+- Normal enemies still scale with you, they start at lower levels and have a lot of variants between lvl 1 and 90.
+- Bosses are higher level by default, between level 15 and 250 (that includes quest mods). There is a lot of static bosses that are straight up god-like, I'm thinking Master Vampires and Dragon Priests.
 - All enemies get perks depending on their level, a level 1 enemy has 1 perk, a level 60 enemy has 60 perks.
 
-**"But how do you get higher level yourself? How do you even train your combat skills if everyone kills you"** - I am glad you asked, let me introduce you to the 2 core mods for Player leveling:
+**"But how do you get to the higher levels yourself? How do you even train your combat skills if everyone kills you"** - I am glad you asked, let me introduce you to the 2 core mods for Player leveling:
 
 - **[Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751)**
 - **[Static Skill Leveling - Experience Mod Add-on](https://www.nexusmods.com/skyrimspecialedition/mods/30410)**
 
-You will level up by discovering places, killing any enemy, and doing quests, your stats do not influence your leveling at all, that is [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751), what the add-on changes on top of that, is that **whenever you sleep, you will be able to allocate skill points in the skills you wish to improve on!**. Only the first time you sleep, after you've leveled up and added your Stamina/Health/Magic bonus, that is why [Campfire](https://www.nexusmods.com/skyrimspecialedition/mods/667) is in ([it also uses a bonfire, neat isn't it?](https://www.nexusmods.com/skyrimspecialedition/mods/41223)).
+You will level up by discovering places, killing any enemy, and doing quests, your stats do not influence your leveling at all, that is [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751) Here is what the add-on changes:**Whenever you sleep, you will be able to allocate skill points in the skills you wish to improve on!**. Only the first time you sleep, after you've leveled up and added your Stamina/Health/Magic bonus, that is why [Campfire](https://www.nexusmods.com/skyrimspecialedition/mods/667) is in ([it also uses a bonfire, neat isn't it?](https://www.nexusmods.com/skyrimspecialedition/mods/41223)).
 
 But that isn't all there is to help you on your quest to becoming a god among men, let's talk about the main overhauls.
 
@@ -97,11 +97,11 @@ They have been choosen because they enable many different playstyles and also ma
 
 - **[Palladium Racials](https://www.nexusmods.com/skyrimspecialedition/mods/43890)**
 
-One of the deviations from main EnaiRim. Why? Because it allows both NPCs and the Player to use it's passive, and it has parts of Imperious, parts of other race overhauls. It will also bring a good diversity of potential builds.
+One of the deviations from main EnaiRim. Why? Because it allows both NPCs and the Player to use it's passive effects, and it has parts of Imperious, parts of other race overhauls. It will also bring a good diversity of potential builds.
 
 - **[Mundustar](https://www.nexusmods.com/skyrimspecialedition/mods/41674)**
 
-Standing Stones overhaul with some drawbacks, I really wanted something new from Andromeda, so I let this one have a chance, didn't disappoint me so far.
+Standing Stones overhaul with some drawbacks, I really wanted something different from the usual Andromeda, so i gave Mundusstar a chance, and so far it has yet to disappoint me.
 
 - **[Odin](https://www.nexusmods.com/skyrimspecialedition/mods/46000)** for vanilla spells.
 - **[Arcanum](https://www.nexusmods.com/skyrimspecialedition/mods/23488)** for added spells.
@@ -109,13 +109,13 @@ Standing Stones overhaul with some drawbacks, I really wanted something new from
 - **[Forceful Tongue](https://www.nexusmods.com/skyrimspecialedition/mods/36276)** for shouts.
 - **[Reliquary of Myth](https://www.nexusmods.com/skyrimspecialedition/mods/31612)** for artifact enchantments.
 
-I really wanted a certain spell that loots bodies around you from Odin, so it's how this one got chosen over Mysticism. Many have suggested Arcanum in my old list, I'm giving it a chance here, but not with Apocalypse, it would be too much. Forgotten Magic Redone's tomes have been **handplaced throughout the world, quest mod included, so they're rewarded at completion of quests and key moments in the game**. Let's be honest, that mod's spells are absolutely OP, and they're supposed to be lost, so why would a merchant sell them in the Bannered Mare? **This is why the readme tells you to deactivate the drops in the MCM Configuration**, nothing stops you from enabling them but would it be fun otherwise?
+I really wanted a certain spell that loots bodies around you from Odin, so it's how this one got chosen over Mysticism. Many have suggested Arcanum in my old list, I'm giving it a chance here. Trust me, theres more than enough spells for any type of mage with this setup, so no need for apocalypse or similar mods! Forgotten Magic Redone's tomes have been **handplaced throughout the world, quest mod included, so they're rewarded at completion of quests and key moments in the game**. Let's be honest, that mod's spells are absolutely OP, and they're supposed to be lost, so why would a merchant sell them in the Bannered Mare? **This is why the readme tells you to deactivate the drops in the MCM Configuration**, nothing stops you from enabling them but would it be fun otherwise?
 
-Forceful Tongue is used to overhaul shouts as I've never really gotten into Thunderchild, so I wanted something I'd actually use. In the total opposite mindset, Reliquary of Myth is used because it simply is so much funnier than Zim's in my opinion.
+Forceful Tongue is used to overhaul shouts as I've never really gotten into Thunderchild, so I wanted something I'd actually use. In the total opposite mindset, Reliquary of Myth is used because it simply is so much more fun than Zim's in my opinion.
 
 - **[Wintersun](https://www.nexusmods.com/skyrimspecialedition/mods/22506)**
 
-A religion overhaul that only gives you bonuses, so worshipping gods is actually usefull toward build making.
+A religion overhaul that only gives you bonuses, so worshipping gods is actually useful toward build making.
 
 - **[Apothecary](https://www.nexusmods.com/skyrimspecialedition/mods/52130)**
 
