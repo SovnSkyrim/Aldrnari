@@ -154,5 +154,5 @@ Both of those enbs have a realistic vibe which is what the list aims at mainly.
 ### Visuals - Apex Somber 
 
 [Apex Somber ENB](https://www.nexusmods.com/skyrimspecialedition/mods/41598) by Digital Dreams has been a long time favourite of mine, for longer than the 2 above.
-It changes the world into a [more grayscale shade](https://cdn.discordapp.com/attachments/761564792766726194/869559862479183922/unknown.png) while still being [bright](https://cdn.discordapp.com/attachments/761564792766726194/869564077586931772/unknown.png). It really has a unique vibe and it's interiors are [insanely dark], in a dungeon it really makes you think twice on where to go.
+It changes the world into a [more grayscale shade](https://cdn.discordapp.com/attachments/761564792766726194/869559862479183922/unknown.png) while still being [bright](https://cdn.discordapp.com/attachments/761564792766726194/869564077586931772/unknown.png). It really has a unique vibe and it's interiors are [insanely dark](https://cdn.discordapp.com/attachments/761564792766726194/869560649892642846/unknown.png), in a dungeon it really makes you think twice on where to go.
 
