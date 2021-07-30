@@ -146,13 +146,16 @@ Because yes using 4K textures when playing at 1080p, when the mesh is wide, it a
 ### Visuals - fnenb / Pacific Blue 
 
 Those 2 ENBS are on the bright side.
-- [fnenb](https://www.nexusmods.com/skyrimspecialedition/mods/43998) is more of a screenarchery ENB, it isn't good at every single moment, but it is so infrequent that I love it. It's lights are less blinding than the second enb but it is [brighter](https://cdn.discordapp.com/attachments/761564792766726194/868966326566273095/unknown.png). It is made by Foxnne.
-- [Pacific Blue](https://www.nexusmods.com/skyrimspecialedition/mods/44542) is more clear than bright. That's where the difference is, but it's lights are blinding a bit more, like [this](https://cdn.discordapp.com/attachments/761564792766726194/869238390468521984/unknown.png). It is made by FOSSTEN
+- **[fnenb](https://www.nexusmods.com/skyrimspecialedition/mods/43998)** is more of a screenarchery ENB, it isn't good at every single moment, but it is so infrequent that I love it. It's lights are less blinding than the second enb but it is [brighter](https://cdn.discordapp.com/attachments/761564792766726194/868966326566273095/unknown.png). It is made by Foxnne.
+- **[Pacific Blue](https://www.nexusmods.com/skyrimspecialedition/mods/44542)** is more clear than bright. That's where the difference is, but it's lights are blinding a bit more, like [this](https://cdn.discordapp.com/attachments/761564792766726194/869238390468521984/unknown.png). It is made by FOSSTEN
 
 Both of those enbs have a realistic vibe which is what the list aims at mainly.
 
 ### Visuals - Apex Somber 
 
-[Apex Somber ENB](https://www.nexusmods.com/skyrimspecialedition/mods/41598) by Digital Dreams has been a long time favourite of mine, for longer than the 2 above.
+**[Apex Somber ENB](https://www.nexusmods.com/skyrimspecialedition/mods/41598)** by Digital Dreams has been a long time favourite of mine, for longer than the 2 above.
 It changes the world into a [more grayscale shade](https://cdn.discordapp.com/attachments/761564792766726194/869559862479183922/unknown.png) while still being [bright](https://cdn.discordapp.com/attachments/761564792766726194/869564077586931772/unknown.png). It really has a unique vibe and it's interiors are [insanely dark](https://cdn.discordapp.com/attachments/761564792766726194/869560649892642846/unknown.png), in a dungeon it really makes you think twice on where to go.
 
+
+
+Those are the recommended ENBs, and the only ones I know that fit the Weather/Lighting mod used in Aldrnari. You are free to try anything else on Nexus, but keep in mind the screenshots from the modpage won't match what you have in game because we use **[NLA](https://www.nexusmods.com/skyrimspecialedition/mods/43166)** and **[Lux](https://www.nexusmods.com/skyrimspecialedition/mods/43158)**.
