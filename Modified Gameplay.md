@@ -113,11 +113,11 @@ I really wanted a certain spell that loots bodies around you from Odin, so it's 
 
 Forceful Tongue is used to overhaul shouts as I've never really gotten into Thunderchild, so I wanted something I'd actually use. In the total opposite mindset, Reliquary of Myth is used because it simply is so much funnier than Zim's in my opinion.
 
-- **[Wintersun]**
+- **[Wintersun](https://www.nexusmods.com/skyrimspecialedition/mods/22506)**
 
 A religion overhaul that only gives you bonuses, so worshipping gods is actually usefull toward build making.
 
-- **[Apothecary]**
+- **[Apothecary](https://www.nexusmods.com/skyrimspecialedition/mods/52130)**
 
 I have sworn to never use kryptopyr's CACO ever again, this overhaul does *exactly* what it needs to do and is actually not a pain to patch. This is why it has been chosen. 
 Do not worry, I know [SAFO](https://www.nexusmods.com/skyrimspecialedition/mods/12343) is in but it is completely overwritten by Apothecary, I've patched it that way.
