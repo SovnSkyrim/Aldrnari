@@ -189,7 +189,7 @@ Those are the recommended ENBs, and the only ones I know that fit the Weather/Li
 ### Gameplay - New Quests and World Encounters
 
 
-## Gameplay - New NPCs and Followers
+## Gameplay - New NPC Encounters and Followers
 
 ### Inigo...?
 A majority of people like him. I personally don't. On top of that, users reported non-issues from other Wabbajack lists to his Nexus page which led them to make a public pinned post about their [non favorable stance with what we do](http://prntscr.com/1b2tt18). He needs tweaks, he is too strong and unbalanced, all followers above have been tweaked, since I am not allowed to do so by the Mod Author, I will not include him. This decision is final.
