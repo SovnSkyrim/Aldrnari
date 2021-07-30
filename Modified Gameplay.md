@@ -121,3 +121,38 @@ A religion overhaul that only gives you bonuses, so worshipping gods is actually
 
 I have sworn to never use kryptopyr's CACO ever again, this overhaul does *exactly* what it needs to do and is actually not a pain to patch. This is why it has been chosen. 
 Do not worry, I know [SAFO](https://www.nexusmods.com/skyrimspecialedition/mods/12343) is in but it is completely overwritten by Apothecary, I've patched it that way.
+
+
+
+You have all the tools to conquer the world thanks to the absurd strenght and overpowered items but those tools are also available to your enemies which will be ever challenging.
+
+Now that the bulk of the gameplay has been covered, I will continue on the atmosphere of the list.
+
+## Visuals - Atmosphere
+### The 2 Options - Explications
+
+The list uses [NLA](https://www.nexusmods.com/skyrimspecialedition/mods/43166) as the weather mod, this choice shows a will of a bright, cold, atmospheric feeling, more on the realistic side of ENBs.
+
+It was chosen over the usual Cathedral Weathers or Obsidian Weathers because I did not want something geared toward fantasy. But that doesn't mean there isn't an other option.
+
+I also tested a more dark fantasy feel with [Apex Somber](https://www.nexusmods.com/skyrimspecialedition/mods/41598) which gave an unique look.
+
+Before downloading anything, keep in mind all the ENBs have been manually tweaked by me to give an even better feeling than their base options. They are located under ``Installation Folder\ENBs``. Step by step installation of ENBs is [here](https://github.com/SovnSkyrim/Aldrnari#getting-an-enb) but I suggest reading the following to have more informations on them.
+
+ENBs being the most impactful part of the list, textures were choosen to have a more realistic approach of Skyrim, especially weapons and armors (that got total overhauls instead of simple texture upscales). I tried to have the best texture, nifs, alpha etc.. for the item in question; almost everything that is smaller than your hand will be 1K, swords and armors are 2K, and architecture and elements larger than you are 4K.
+
+Because yes using 4K textures when playing at 1080p, when the mesh is wide, it allows the rendered object to not appear blurry, dragons and mountains are the first that come to mind. 
+
+### Visuals - fnenb / Pacific Blue 
+
+Those 2 ENBS are on the bright side.
+- [fnenb](https://www.nexusmods.com/skyrimspecialedition/mods/43998) is more of a screenarchery ENB, it isn't good at every single moment, but it is so infrequent that I love it. It's lights are less blinding than the second enb but it is [brighter](https://cdn.discordapp.com/attachments/761564792766726194/868966326566273095/unknown.png). It is made by Foxnne.
+- [Pacific Blue](https://www.nexusmods.com/skyrimspecialedition/mods/44542) is more clear than bright. That's where the difference is, but it's lights are blinding a bit more, like [this](https://cdn.discordapp.com/attachments/761564792766726194/869238390468521984/unknown.png). It is made by FOSSTEN
+
+Both of those enbs have a realistic vibe which is what the list aims at mainly.
+
+### Visuals - Apex Somber 
+
+[Apex Somber ENB](https://www.nexusmods.com/skyrimspecialedition/mods/41598) by Digital Dreams has been a long time favourite of mine, for longer than the 2 above.
+It changes the world into a [more grayscale shade](https://cdn.discordapp.com/attachments/761564792766726194/869559862479183922/unknown.png) while still being [bright](https://cdn.discordapp.com/attachments/761564792766726194/869564077586931772/unknown.png). It really has a unique vibe and it's interiors are [insanely dark], in a dungeon it really makes you think twice on where to go.
+
