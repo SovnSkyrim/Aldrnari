@@ -160,6 +160,23 @@ It changes the world into a [more grayscale shade](https://cdn.discordapp.com/at
 
 Those are the recommended ENBs, and the only ones I know that fit the Weather/Lighting mod used in Aldrnari. You are free to try anything else on Nexus, but keep in mind the screenshots from the modpage won't match what you have in game because we use **[NLA](https://www.nexusmods.com/skyrimspecialedition/mods/43166)** and **[Lux](https://www.nexusmods.com/skyrimspecialedition/mods/43158)** if the mod specifically stipulates that it is for another Weather/Lighting combo.
 
+### Visuals - City Overhauls
+
+- Base is [JK's Lite](https://www.nexusmods.com/skyrim/mods/71018) for most cities.
+- Riverwood has [Galaxy's Riverwood](https://www.nexusmods.com/skyrimspecialedition/mods/46360) and [Riverwood Flowering](https://www.nexusmods.com/skyrimspecialedition/mods/39229), it gives it a unique and cheerful look.
+- [Cities of the North: Dawnstar](https://www.nexusmods.com/skyrimspecialedition/mods/28952), [Cities of the North: Morthal](https://www.nexusmods.com/skyrimspecialedition/mods/34168) and [Cities of the North: Winterhold](https://www.nexusmods.com/skyrimspecialedition/mods/40088) give those cities a really unique and nordic atmosphere.
+- Whiterun is now real fortified place thanks to [Fortified Whiterun](https://www.nexusmods.com/skyrimspecialedition/mods/40094), it also has a lot of handplaced trees so it's connection to Kyne is felt throughout the city.
+- Solitude now feels like a capital city with [The Great City of Solitude](https://www.nexusmods.com/skyrimspecialedition/mods/22243), [Drengin's Blue Palace Terrace](https://www.nexusmods.com/skyrimspecialedition/mods/35180) and [Solitude Skyway](https://www.nexusmods.com/skyrimspecialedition/mods/8250) fully patched together!
+- Windhelm also feels like a capital, with [Capital Windhelm Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/42990) and [City Entrances Overhaul: Windhelm](https://www.nexusmods.com/skyrimspecialedition/mods/19400)
+- Riften is now a real influencial fishing port thanks to [Riften Docks Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/40021) and gains some verticality thanks to [Another Skyrim: Riften](https://www.nexusmods.com/skyrim/mods/86586).
+- Markarth's wall is now massive thanks to [City Entrances Overhaul: Markarth](https://www.nexusmods.com/skyrimspecialedition/mods/37375)
+- "The Great City" Series overhauls a good number of minor towns and cities; we're talking [Falkreath](https://www.nexusmods.com/skyrimspecialedition/mods/19709), [Rorikstead](https://www.nexusmods.com/skyrimspecialedition/mods/20151), [Mixwater Mill](https://www.nexusmods.com/skyrimspecialedition/mods/36350), [Karthwasten](https://www.nexusmods.com/skyrimspecialedition/mods/33032), [Kynesgrove](https://www.nexusmods.com/skyrimspecialedition/mods/42639), [Old Hroldan](https://www.nexusmods.com/skyrimspecialedition/mods/33189), [Ivarstead](https://www.nexusmods.com/skyrimspecialedition/mods/34505) and [Shor's Stone](https://www.nexusmods.com/skyrimspecialedition/mods/35977).
+- Dragon Bridge is overhauled by [Rodryk](https://www.nexusmods.com/skyrimspecialedition/mods/42510)
+- [Soljund Sinkhole](https://www.nexusmods.com/skyrimspecialedition/mods/358), [Whistling Mine](https://www.nexusmods.com/skyrimspecialedition/mods/367) and [Settlements Expanded](https://www.nexusmods.com/skyrimspecialedition/mods/7777) make sure even miners around small mines have houses.
+- Raven Rock isn't forgotten, we use [Quaint Raven Rock](https://www.nexusmods.com/skyrimspecialedition/mods/20851)
+- [Sepolcri](https://www.nexusmods.com/skyrimspecialedition/mods/34105) makes sure the cemeteries in Solitude, Riften and Falkreath aren't lame.
+- [Viking Towns of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/17132) and [Lyngwi](https://www.nexusmods.com/skyrimspecialedition/mods/13526) are two mods adding nordic looking cities on top of everything that is above! 
+
 ## Gameplay - Quests
 ### Gameplay - Main Questline, Daedric Quests, Miscellaneous Quests and DLCs
 
