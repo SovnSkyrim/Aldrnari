@@ -137,9 +137,9 @@ It was chosen over the usual Cathedral Weathers or Obsidian Weathers because I d
 
 I also tested a more dark fantasy feel with [Apex Somber](https://www.nexusmods.com/skyrimspecialedition/mods/41598) which gave an unique look.
 
-Before downloading anything, keep in mind all the ENBs have been manually tweaked by me to give an even better feeling than their base options. They are located under ``Installation Folder\ENBs``. Step by step installation of ENBs is [here](https://github.com/SovnSkyrim/Aldrnari#getting-an-enb) but I suggest reading the following to have more informations on them.
+Before downloading anything, keep in mind all the ENBs have been manually tweaked by me to give an even better feeling than their base options. They are located under ``Installation Folder\ENBs``, simply drag and drop the files to your Skyrim SE Folder, although I would suggest you read the following parts to get more information on which to choose.
 
-ENBs being the most impactful part of the list, textures were choosen to have a more realistic approach of Skyrim, especially weapons and armors (that got total overhauls instead of simple texture upscales). I tried to have the best texture, nifs, alpha etc.. for the item in question; almost everything that is smaller than your hand will be 1K, swords and armors are 2K, and architecture and elements larger than you are 4K.
+ENBs being the most impactful part of the list, textures were choosen to have a more realistic approach of Skyrim, especially weapons and armors (that got total overhauls instead of simple texture upscales). I tried to have the best texture, nifs, alpha etc.. for the item in question; almost everything that is smaller than your hand will be 1K, swords and armors are 2K, and architecture and elements larger than you are 4K. What makes the list heavy is mostly the added items in the worldpsace, not the choice of textures; it is also the high lods used.
 
 Because yes using 4K textures when playing at 1080p, when the mesh is wide, it allows the rendered object to not appear blurry, dragons and mountains are the first that come to mind. 
 
@@ -156,8 +156,20 @@ Both of those enbs have a realistic vibe which is what the list aims at mainly.
 **[Apex Somber ENB](https://www.nexusmods.com/skyrimspecialedition/mods/41598)** by Digital Dreams has been a long time favourite of mine, for longer than the 2 above.
 It changes the world into a [more grayscale shade](https://cdn.discordapp.com/attachments/761564792766726194/869559862479183922/unknown.png) while still being [bright](https://cdn.discordapp.com/attachments/761564792766726194/869564077586931772/unknown.png). It really has a unique vibe and it's interiors are [insanely dark](https://cdn.discordapp.com/attachments/761564792766726194/869560649892642846/unknown.png), in a dungeon it really makes you think twice on where to go.
 
+### Visuals - Other Enbs?
+
+Those are the recommended ENBs, and the only ones I know that fit the Weather/Lighting mod used in Aldrnari. You are free to try anything else on Nexus, but keep in mind the screenshots from the modpage won't match what you have in game because we use **[NLA](https://www.nexusmods.com/skyrimspecialedition/mods/43166)** and **[Lux](https://www.nexusmods.com/skyrimspecialedition/mods/43158)** if the mod specifically stipulates that it is for another Weather/Lighting combo.
+
+## Gameplay - Quests
+### Gameplay - Main Questline, Daedric Quests, Miscellaneous Quests and DLCs
+
+- [Skyrim Unbound](https://www.nexusmods.com/skyrimspecialedition/mods/27962) is the alternate start choice of Tranquility. The main quest has been altered slightly due to this mod. You do not have to go and gather the Dragonstone for Farengar. After a few weeks, Dragons will start spawning in the world and slaying your first Dragon will progress the main quest as normal.
+- [Timing is Everything](https://www.nexusmods.com/skyrimspecialedition/mods/25464) modifies the level and quest requirements to begin the DLCs, Daedric questlines, and some miscellaneous quests. These are the new triggers to begin the respective quests:
+
+### Gameplay - Modified and Expanded Quests
 
 
+### Gameplay - New Quests and World Encounters
 
 
-Those are the recommended ENBs, and the only ones I know that fit the Weather/Lighting mod used in Aldrnari. You are free to try anything else on Nexus, but keep in mind the screenshots from the modpage won't match what you have in game because we use **[NLA](https://www.nexusmods.com/skyrimspecialedition/mods/43166)** and **[Lux](https://www.nexusmods.com/skyrimspecialedition/mods/43158)**.
+### Gameplay - New NPCs and Followers
