@@ -162,7 +162,7 @@ Those are the recommended ENBs, and the only ones I know that fit the Weather/Li
 
 ### Visuals - City Overhauls
 
-- Base is [JK's Lite](https://www.nexusmods.com/skyrim/mods/71018) for most cities.
+- Base is [JK's Lite](https://www.nexusmods.com/skyrim/mods/71018) for most cities. On top of that, we use [Civil War Checkpoints](https://www.nexusmods.com/skyrimspecialedition/mods/17364) so the world looks really at war.
 - Riverwood has [Galaxy's Riverwood](https://www.nexusmods.com/skyrimspecialedition/mods/46360) and [Riverwood Flowering](https://www.nexusmods.com/skyrimspecialedition/mods/39229), it gives it a unique and cheerful look.
 - [Cities of the North: Dawnstar](https://www.nexusmods.com/skyrimspecialedition/mods/28952), [Cities of the North: Morthal](https://www.nexusmods.com/skyrimspecialedition/mods/34168) and [Cities of the North: Winterhold](https://www.nexusmods.com/skyrimspecialedition/mods/40088) give those cities a really unique and nordic atmosphere.
 - Whiterun is now real fortified place thanks to [Fortified Whiterun](https://www.nexusmods.com/skyrimspecialedition/mods/40094), it also has a lot of handplaced trees so it's connection to Kyne is felt throughout the city.
