@@ -50,7 +50,7 @@ It is deeply inspired by games like Dark Souls and Hellblade: Senua's Sacrifice,
 
 If you have any questions regarding the list, you're free to ask in the [Wabbajack Discord](https://discord.gg/wabbajack) or [my own personal server](https://discord.gg/ZgjVrXp).
 
-This project started as a collaboration between Althro and I on Tinvaak 2, over time however we realised our goals were different and he gave permission for me to use the base that had been created. Aldrnari would not exist without Althro and the work he put into Tinvaak 2. Go show him some love and play Tinvaak 2 when it comes out.
+This project started as a collaboration between Althro and I on Tinvaak 2. Over time, however, we realised our end goals were different and he gave permission for me to use the base that had been created. Aldrnari would not exist without Althro and the work he put into creating and patching Tinvaak 2. Go show him some love and play Tinvaak 2 when he releases it.
 
 The art for the list was made by [Crithion/m.vlad](https://mvlad.design/), a fellow Modlist Developper (author of [Narsil](https://mvlad.design/narsil/), a VR list), and artist. I commissioned him and he did an amazing job!
 
@@ -295,7 +295,7 @@ Using them with QWEST! would be like installing your own mods: Support is forfei
 
 - _YOU_ for actually reading the readme. Thanks a ton!!
 - Halgari and everyone in the WJ Team - Wabbajack is awesome and so are you
-- Althro for being such a resourceful person and helping with the Discord and development a lot.
+- Althro for the creation of the base, adminniing the discord and being a very resourceful person.
 - Chri3i for all the help during development, you are and keep being, a never ending help which is loved.
 - TheSpaniard and Chanka for all the support you're doing in the discord.
 - Crithion aka m.vlad for the art; trully amazing, I never spent my money so well.
