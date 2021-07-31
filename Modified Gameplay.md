@@ -174,6 +174,7 @@ Those are the recommended ENBs, and the only ones I know that fit the Weather/Li
 - Dragon Bridge is overhauled by [Rodryk](https://www.nexusmods.com/skyrimspecialedition/mods/42510)
 - [Soljund Sinkhole](https://www.nexusmods.com/skyrimspecialedition/mods/358), [Whistling Mine](https://www.nexusmods.com/skyrimspecialedition/mods/367) and [Settlements Expanded](https://www.nexusmods.com/skyrimspecialedition/mods/7777) make sure even miners around small mines have houses.
 - Raven Rock isn't forgotten, we use [Quaint Raven Rock](https://www.nexusmods.com/skyrimspecialedition/mods/20851)
+- The College of Winterhold is now a hub of magic thanks to [Ultimate College of Winterhold](https://www.nexusmods.com/skyrimspecialedition/mods/44797).
 - [Sepolcri](https://www.nexusmods.com/skyrimspecialedition/mods/34105) makes sure the cemeteries in Solitude, Riften and Falkreath aren't lame.
 - [Viking Towns of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/17132) and [Lyngwi](https://www.nexusmods.com/skyrimspecialedition/mods/13526) are two mods adding nordic looking cities on top of everything that is above! 
 
