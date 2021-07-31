@@ -180,7 +180,7 @@ Those are the recommended ENBs, and the only ones I know that fit the Weather/Li
 ## Gameplay - Quests
 ### Gameplay - Main Questline, Daedric Quests, Miscellaneous Quests and DLCs
 
-- [Skyrim Unbound](https://www.nexusmods.com/skyrimspecialedition/mods/27962) is the alternate start choice of Tranquility. The main quest has been altered slightly due to this mod. You do not have to go and gather the Dragonstone for Farengar. After a few weeks, Dragons will start spawning in the world and slaying your first Dragon will progress the main quest as normal.
+- [Skyrim Unbound](https://www.nexusmods.com/skyrimspecialedition/mods/27962) is the alternate start choice of Aldrnari. The main quest has been altered slightly due to this mod. You do not have to go and gather the Dragonstone for Farengar. After a few weeks, Dragons will start spawning in the world and slaying your first Dragon will progress the main quest as normal. **YOU MUST SELECT THE DRAGONBORN OPTIONS, THE LIST RELIES ON BEING A DRAGONBORN, IT WILL BREAK IF NOT SELECTED**
 - [Timing is Everything](https://www.nexusmods.com/skyrimspecialedition/mods/25464) modifies the level and quest requirements to begin the DLCs, Daedric questlines, and some miscellaneous quests. These are the new triggers to begin the respective quests:
 
 ### Gameplay - Modified and Expanded Quests
