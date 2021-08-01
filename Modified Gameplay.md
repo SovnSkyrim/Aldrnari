@@ -12,7 +12,7 @@ The combat, magic and gameplay overhauls are chosen for warriors, paladins, mage
 
 This is not a list for Legacy of the Dragonborn and item hoarders. LotD is not in simply because I do not like how it forces you to become an item hoarder. I made QWEST! for the ultimate LotD experience, so now I'm making the complete opposite. 
 LotD also displays the lowest quality armor and weapons mods in my opinion (IA/IW Hello). At the time you're reading this, Aldrnari may have way less unique items but that is bound to change.
-You're free from hoarding random items; and you have cool playerhomes with room for displaying what you want, not what LotD deemed worthy.
+You're free from hoarding random items; and you have cool playerhomes with room for displaying what you want, not what LotD deemed worthy. [This is the kind of behavior I hope to avoid](https://cdn.discordapp.com/attachments/747132474647248917/855547604561297428/unknown.png)
 
 ## What the list is
 ### Beta 1 Goals
@@ -33,7 +33,7 @@ Unique Mechanics:
 - Enemies actually use stamina, so if they spam power attacks, play defensively and wait for the moment to strike!
 - Weapons have different ranges depending on what type they are.
 - Armors have resistances based on their keywords, if you use a dagger against steel armor, it obviously wont penetrate the steel. The same system applies to you though, so play smart!
-- Dodging is extremely important, the default key is C (when following my MCM Setup) and will only work when weapons are drawn. The iFrames are generous and it'll get you out of trouble a lot.
+- [Dodging is extremely important](http://prntscr.com/1i3k35m), the default key is C (when following my MCM Setup) and will only work when weapons are drawn. The iFrames are generous and it'll get you out of trouble a lot.
 
 ### Gameplay - Combat | Other Combat Overhauls
 
