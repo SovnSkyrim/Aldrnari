@@ -291,6 +291,9 @@ CC Content isn't considered like DLCs (Dawnguard/Dragonborn/Hearthfire) and will
 
 Using them with QWEST! would be like installing your own mods: Support is forfeited and they will NOT work without patching.
 
+### Why don't you wanna use Inigo/Legacy of the Dragonborn (LOTD)????? They're the best mods ever!!!!
+[Modified Gameplay.md](https://github.com/SovnSkyrim/Aldrnari/blob/main/Modified%20Gameplay.md) has the answer, use ctrl+f in there.
+
 ## Credits and Thanks
 
 - _YOU_ for actually reading the readme. Thanks a ton!!
