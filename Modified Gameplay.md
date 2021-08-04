@@ -43,6 +43,7 @@ The list doesn't only ship with Engarde, other mods come to make an ever more Da
 - [zxlice BackStab and Parry](https://www.nexusmods.com/skyrimspecialedition/mods/43436) is self explanatory! Backstabs; attack of opportunity after succesful blocks.. A really neat add-on.
 - [Vanguard - Bash Behaviors Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/52633) allows bashes to be different depending on the shields and also have different animations. It brings variety to the normally rather monotonous shield gameplay.
 - [Heartbreaker](https://www.nexusmods.com/skyrimspecialedition/mods/1847) allows you to rip people's hearts straight from their chest. Metal isn't it?
+- [SmoothCam](https://www.nexusmods.com/skyrimspecialedition/mods/41252) and [True Directional Movement](https://www.nexusmods.com/skyrimspecialedition/mods/51614) for the camera control, so it's actually usable in 3rd person.
 
 ### Gameplay - Combat | Enemies 
 
