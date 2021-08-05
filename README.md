@@ -140,6 +140,14 @@ Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-to
 
 Wabbajack will not work with Windows 7, I will not offer any kind of support for users of that operating system.
 
+You will also need those files that tend to not download themselves; so I'd recommend you manually download them and hold onto them until the next step.
+ 
+- https://mega.nz/file/xUc0zRLY#NYwbmmHOZhpSF2hpV7hMRYejgZsL_MAIVv_DfjK9JRM - Elwaps Speedtree
+- https://mega.nz/#!x0QWjKKL!B9xkI29Dg0YoBPAo1fyXa_PxtBoma_f4UmSMOiwnv2A - HG Hairdos
+- https://mega.nz/file/EcJhgKpY#4Q86Rd1hUepjm233r8Q_7x3fTWx9axJN2CUc8FXrBsg - xLODGEN.83
+- https://mega.nz/file/qVhVFKKL#s1Zl20rqkJ8JWwmXWjm-2PRT9xC0_PwGqVnH9ktisvg - Book Of The Dead Trees (1)
+- https://drive.google.com/uc?id=1WOviY3mC7Zc9Nx408BTAMXK9DIdiwzeK&export=download - [Dint999] HairPack02 SSE (v0.09)
+
 ## Downloading and Installing
 
 The download and installation process can take a very long time depending on your system specs. Wabbajack will calculate the amount of threads it will use at the start of the installation. To have the highest amount of threads and thus the fastest speed, it is advised to have the working folder on an SSD.
@@ -150,9 +158,10 @@ The list, being unofficial, is only available on [my Discord server](https://dis
 3. Create a folder for the List at the root of your drive (like the Wabbajack folder) called "Aldrnari".
 4. Select the created folder in 3. as your installation folder.
 5. Go back to your drive, and create a new folder, called "Wabbajack Downloads Folder". This specific folder can be on a different drive if you wish.
-6. Select the created folder in 5. as your downloads folder.
-7. Click the Go/Begin button.
-8. Wait for Wabbajack to finish.
+6. Put the files downloaded in the prior step into this folder AS IS. Do **not** extract the archives.
+7. Select the created folder in 5. as your downloads folder.
+8. Click the Go/Begin button.
+9. Wait for Wabbajack to finish.
 
 ### Problems with Wabbajack
 
@@ -163,10 +172,12 @@ There are a lot of different scenarios where Wabbajack will produce an error. I 
 If a mod updated and the old files got deleted, it is impossible to download them. In this case, just wait until I update the Modlist.
 
 If Wabbajack stalls on the MEGA.NZ files, get the files below and place them AS IS in the downloads folder you've selected, then restart Wabbajack completely. It's only those 4.
-- https://mega.nz/file/IS4EjJhC#inP4yfb3i-UO_sx790OpoFDk81x-WIRf9WcBeKxnmYo
-- https://mega.nz/file/4LxGTALK#7I8XPLnIW0PxR_r_nXMP-9ZUnZ16MlFVMdFdgGy-gF0
-- https://mega.nz/file/8T4ixLCB#YKQw5EDFdL1_e-5G_JB8WgmUkJ8N0kNtpzeOwUHZcZY
-- https://mega.nz/file/EcJhgKpY#4Q86Rd1hUepjm233r8Q_7x3fTWx9axJN2CUc8FXrBsg
+
+- https://mega.nz/file/xUc0zRLY#NYwbmmHOZhpSF2hpV7hMRYejgZsL_MAIVv_DfjK9JRM - Elwaps Speedtree
+- https://mega.nz/#!x0QWjKKL!B9xkI29Dg0YoBPAo1fyXa_PxtBoma_f4UmSMOiwnv2A - HG Hairdos
+- https://mega.nz/file/EcJhgKpY#4Q86Rd1hUepjm233r8Q_7x3fTWx9axJN2CUc8FXrBsg - xLODGEN.83
+- https://mega.nz/file/qVhVFKKL#s1Zl20rqkJ8JWwmXWjm-2PRT9xC0_PwGqVnH9ktisvg - Book Of The Dead Trees (1)
+- https://drive.google.com/uc?id=1WOviY3mC7Zc9Nx408BTAMXK9DIdiwzeK&export=download - [Dint999] HairPack02 SSE (v0.09)
 
 **x is not a whitelisted download**:
 
