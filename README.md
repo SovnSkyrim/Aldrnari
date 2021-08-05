@@ -390,6 +390,7 @@ Do NOT Select a **NON DRAGONBORN OPTION** within Skyrim Unbound! Doing so will r
 - Presets
   - Load Preset
     There are two presets available for you to use. I personally prefer the Modern one but some prefer EasyEase's, try both and see which you like!
+- Make sure only the Alternate Conversation Camera Patch is ticked in Compatibility.
 
 #### Summermyst: 
 - Enable Fortify Caps: enabled
