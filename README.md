@@ -238,6 +238,169 @@ Do NOT Select a **NON DRAGONBORN OPTION** within Skyrim Unbound! Doing so will r
 #### Game Difficulty
 - The difficulty in this Modlist is quite harder (more info on that in [Modified Gameplay.md](https://github.com/SovnSkyrim/Aldrnari/blob/main/Modified%20Gameplay.md)) so I highly suggest not using Legendary. I personally play on Expert; adept is also fine.
 
+#### A Matter of Time
+
+- Presets :
+  - Load User Settings
+
+#### All Geared up Derivative
+- Weapons - Player
+    - Shield Stay on arm while Equipped: Enable
+    - Toggle un/equipping Torso Armor: Enable 
+- Misc. Player :
+  - Require Torso Armor : Enabled
+  - (you can tweak stuff showing on you whenever you want, if something bothers you)
+- NPC :
+  - Enable Weapons : Enabled
+
+#### Better Vampire NPCs
+- Not an MCM   
+    - In your inventory there's an item called "Vampire's Bloodgem" allowing to tweak stuff by clicking on it while crouched. 
+        - I leave it as default. You can tweak it all you want. Experimental stuff may cause issues as expected. When done drop the bloodgem.
+
+#### Campfire (Survival)
+- Gameplay
+  - Hotkeys
+    - Set your Hotkeys however you want
+    - I go by :
+    - Create item : C
+    - Build Campfire : B
+    - Harvest wood : H
+    - Instincts : Nothing
+#### Challenging Spell Learning
+- Cost multiplier: 3
+- Mental Exhaustion lite: Enabled
+
+#### Cold Region Behavior
+- General Settings
+	- Main Settings
+		- Enable Mod Features
+
+#### Engarde: 
+- Keybutton
+    - Defensive Actions
+        - Modifier is by default Shift
+        - Swap stuff around depending on what you want, leave as default if you're new to Engarde. Keep in mind off-hand action requires shift to be pressed
+        - Defensive Action key: C
+- Others
+    - Activate Mod: Tick
+
+#### EVG Conditional Idles
+- Player 
+    - Modesty Male: Disabled
+    - Modesty Female: Disabled
+- NPC 
+    - Modesty Male: Disabled
+    - Modesty Female: Disabled
+
+#### Follower Framework
+- System :
+- Settings
+  - Load From File
+
+#### Forgotten Magic - **Important**
+- Settings
+    - Spellbooks Drop Chance: 0.0
+    - Jewelry Drop Chance: 0.1
+- The Tabs above Settings is where you'll level up your spells once you acquire them.
+- [You will acquire them despire the drop chance, do not worry!!](https://github.com/SovnSkyrim/Aldrnari/blob/main/Modified%20Gameplay.md#gameplay---main-overhauls--perks-races-standing-stones-magic-religion-and-alchemy)
+
+#### GIST Soul Trap
+- Leveling
+  - Enable Leveling System: Disabled
+
+#### Heartbreaker (Optional) 
+- Main Settings
+    - Learn Spell Power: Enabled
+    - It gives you a power to put npcs in stagger once per IRL hour so you can rip out their hearts; you can also bind it so you can do it anytime.
+  
+#### Immersive HUD
+- Activation
+  - Compass Activation
+    - Key press toggles : Enabled
+
+#### Immersive W. Encounters
+- NEW EVENTS
+  - NPCs: Jarl's Housecarls: Disabled (causes issues)
+ 
+#### Less Intrusive HUD: 
+- General Settings
+    - FileAccess Interface
+        - Load Personal Preset
+
+#### MoreHUD:
+- Presets
+    - Load User Settings?: GO
+
+#### OBIS - Bandits
+- Leave as is
+    - Why? Enabling in the MCMs is only for the additional spawns option, but that is not the aim of the encounter mods chosen in Aldrnari. I'm buffing everyone instead of giving you hordes of enemies.
+
+#### OBIS - Patrols
+- Settings
+    - Enable: Enabled
+
+#### Optimal Potion Hotkey
+- Set one keybind (mine is "<")
+
+#### Radiant Requirements
+- Settings
+  - Dragon lair: 10
+  - Draugr Crypt: 5
+  - Forsworn Camp: 10
+  - Hagraven Nest: 20
+  - Vampire Lair: 25
+  - Werewolf Lair: 25
+  - Dragon Priest Lair: 25
+  - Falmer Hive: 20
+  - Giant Camp: 20
+  - Spriggan Grove: 10
+  - Warlock Lair: 1
+
+### Real Names
+- Basic Options:
+	- Settings
+		- Strangers Mode: Enabled
+		- Title Preference:Title and/or Surname>Epithet
+	- Special Exclusions:
+		- Exclude Dragon Priests?: Enabled
+		- Excluse Corpses?: Enabled
+
+#### SkyUI
+- Advanced → SWF Version Checking : 
+  - Map Menu : Disabled
+  - Favorites Menu : Disabled
+  - Inventory Menu : Disabled
+  - Barter Menu : Disabled
+  - Container Menu : Disabled
+  - Crafting Menu : Disabled
+
+#### SmoothCam  -for 3rd person players-
+- Presets
+  - Load Preset
+    There are two presets available for you to use. I personally prefer the Modern one but some prefer EasyEase's, try both and see which you like!
+
+#### Summermyst: 
+- Enable Fortify Caps: enabled
+
+#### Thieves Guild Requirements
+- Misc Options 
+  - Load Preset  
+Cycle through all the tabs
+ - Load Preset again (now it will stick)
+  
+#### Timing is Everything
+- Extra Options 
+  - Load Preset  
+Cycle through all the tabs
+ - Load Preset again (now it will stick)
+
+#### VioLens
+- Load Preset
+
+#### Widget Mod: 
+- Maintenance
+    - Load User Settings? : Do it!
 
 # How to start playing
 
