@@ -198,6 +198,15 @@ Otherwise, set a custom size for the drive it's currently on and increase the ma
 
 ## Getting an ENB
 
+Aldrnari comes with 3 ENBs tweaked for the list's Setup:
+- fnenb by Foxnne
+- Pacific Blue by FOSSTEN
+- Apex Somber by Digital Dreams
+
+Info on them is in [Modified Gameplay.md](https://github.com/SovnSkyrim/Aldrnari/blob/main/Modified%20Gameplay.md) so I highly suggest reading it. (use control + F key combo to search for ENB).
+
+How to install them? Simple, in the **installation folder** there will be a folder named **ENBs**, in there the three ENBs are located. Simply **copy the contents of the folder named after the preset you want to use to the Skyrim Special Edition folder**, same way as the "Copy Game Folder Files" step.
+
 ## How to start up Aldrnari
 
 Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. Once it's launched, there will be a dropdown box on the top right and a big run button next to it. Ensure it is set to SKSE by selecting it in the dropdown box and then hitting the run button.
