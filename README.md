@@ -472,11 +472,11 @@ Any criticism on that is NOT welcome, and it is, in fact, the only aspect of the
 
 ### Creation Club (CC Content) Support?
 
-Never gonna happen. I don't like paid mods at all, I don't think they're that high quality, and maintaining two profiles is already painful, so two more (EnaiRim CC and SimonRim CC) would be extremely annoying (we're talking running Synthesis eight times, DynDOLOD and Occlusion four times each).
+No, I don't like them.
 
 CC Content isn't considered like DLCs (Dawnguard/Dragonborn/Hearthfire) and will never be treated as such.
 
-Using them with QWEST! would be like installing your own mods: Support is forfeited and they will NOT work without patching.
+Using them with Aldrnari would be like installing your own mods: Support is forfeited and they will NOT work without patching.
 
 ### Why don't you wanna use Inigo/Legacy of the Dragonborn (LOTD)????? They're the best mods ever!!!!
 [Modified Gameplay.md](https://github.com/SovnSkyrim/Aldrnari/blob/main/Modified%20Gameplay.md) has the answer, use ctrl+f in there. Refusing to hear my opinion and accept it is a warnable behavior in my Discord.
