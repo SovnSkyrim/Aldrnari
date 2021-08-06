@@ -274,7 +274,7 @@ Do NOT Select a **NON DRAGONBORN OPTION** within Skyrim Unbound! Doing so will r
   - Hotkeys
     - Set your Hotkeys however you want
     - I go by :
-    - Create item : C
+    - Create item : N
     - Build Campfire : B
     - Harvest wood : H
     - Instincts : Nothing
@@ -293,8 +293,6 @@ Do NOT Select a **NON DRAGONBORN OPTION** within Skyrim Unbound! Doing so will r
         - Modifier is by default Shift
         - Swap stuff around depending on what you want, leave as default if you're new to Engarde. Keep in mind off-hand action requires shift to be pressed
         - Defensive Action key: C
-- Others
-    - Activate Mod: Tick
 
 #### EVG Conditional Idles
 - Player 
@@ -314,7 +312,7 @@ Do NOT Select a **NON DRAGONBORN OPTION** within Skyrim Unbound! Doing so will r
     - Spellbooks Drop Chance: 0.0
     - Jewelry Drop Chance: 0.1
 - The Tabs above Settings is where you'll level up your spells once you acquire them.
-- [You will acquire them despire the drop chance, do not worry!!](https://github.com/SovnSkyrim/Aldrnari/blob/main/Modified%20Gameplay.md#gameplay---main-overhauls--perks-races-standing-stones-magic-religion-and-alchemy)
+- [You will acquire them despite the drop chance, do not worry!!](https://github.com/SovnSkyrim/Aldrnari/blob/main/Modified%20Gameplay.md#gameplay---main-overhauls--perks-races-standing-stones-magic-religion-and-alchemy)
 
 #### GIST Soul Trap
 - Leveling
@@ -389,7 +387,7 @@ Do NOT Select a **NON DRAGONBORN OPTION** within Skyrim Unbound! Doing so will r
 #### SmoothCam  -for 3rd person players-
 - Presets
   - Load Preset
-    There are two presets available for you to use. I personally prefer the Modern one but some prefer EasyEase's, try both and see which you like!
+    There are two presets available for you to use. I personally prefer the Modern one but some prefer Souls Like, try both and see which you like!
 - Make sure only the Alternate Conversation Camera Patch is ticked in Compatibility.
 
 #### Summermyst: 
