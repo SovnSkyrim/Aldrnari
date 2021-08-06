@@ -481,7 +481,7 @@ Using them with QWEST! would be like installing your own mods: Support is forfei
 
 ### Please give us more fps... / A more performance friendly profile??
 
-It's a beta, it's a WIP, I can't please everyone by now but I can't just give you stuff right now.
+It's a beta, it's a WIP, I can't please everyone by now but I can give you some info.
 
 I have 2 tips that voids you support as per Rule 11 of both Wabbajack and my Discords.
 - Regenerate DynDOLOD with other settings, not High
