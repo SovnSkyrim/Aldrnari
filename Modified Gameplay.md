@@ -244,6 +244,10 @@ Gotta have quest mods if there is no Legacy of the Dragonborn, right?
 - **[Livia Salvian](https://www.nexusmods.com/skyrimspecialedition/mods/33318)** is a fully voiced imperial legionnaire taking a break from her duties in Dragonsreach. Perfect companion for paladins, she wants to protect what she holds dear and be a hero to her people.
 - **[Gladys the Corgi](https://www.nexusmods.com/skyrimspecialedition/mods/50164)** is a custom Corgi follower that you can buy at the Solitude Docks. It has unique functionality like looting from the environment as well as the ability to play fetch!
 
+### Inigo...?
+A majority of people like him. I personally don't. On top of that, users reported non-issues from other Wabbajack lists to his Nexus page which led them to make a public pinned post about their [non favorable stance with what we do](http://prntscr.com/1b2tt18). He needs tweaks, he is too strong and unbalanced, all followers above have been tweaked, since I am not allowed to do so by the Mod Author, I will not include him. This decision is final.
+
+
 ## Gameplay - New Playerhomes
 
 These are the new/upgraded playerhomes currently available in Aldrnari. This list will likely grow over time.
@@ -257,5 +261,4 @@ These are the new/upgraded playerhomes currently available in Aldrnari. This lis
 - **[Shaman's Hut](https://www.nexusmods.com/skyrimspecialedition/mods/48134)**
 
 
-### Inigo...?
-A majority of people like him. I personally don't. On top of that, users reported non-issues from other Wabbajack lists to his Nexus page which led them to make a public pinned post about their [non favorable stance with what we do](http://prntscr.com/1b2tt18). He needs tweaks, he is too strong and unbalanced, all followers above have been tweaked, since I am not allowed to do so by the Mod Author, I will not include him. This decision is final.
+And that's it for this document! Thanks for reading all the way down. I hope you will have a good time with Aldrnari!
