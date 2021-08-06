@@ -246,3 +246,19 @@ Gotta have quest mods if there is no Legacy of the Dragonborn, right?
 
 ### Inigo...?
 A majority of people like him. I personally don't. On top of that, users reported non-issues from other Wabbajack lists to his Nexus page which led them to make a public pinned post about their [non favorable stance with what we do](http://prntscr.com/1b2tt18). He needs tweaks, he is too strong and unbalanced, all followers above have been tweaked, since I am not allowed to do so by the Mod Author, I will not include him. This decision is final.
+
+
+## Gameplay - New Playerhomes
+
+These are the new/upgraded playerhomes currently available in Aldrnari. This list will likely grow over time.
+
+- **[Dovahkiin's Vault](https://www.nexusmods.com/skyrimspecialedition/mods/42237)**
+- **[Simple Hearthfire Attics SSE](https://www.nexusmods.com/skyrimspecialedition/mods/37173)**
+- **[Breezehome Basement](https://www.nexusmods.com/skyrimspecialedition/mods/18958)**
+- **[Bob's Interdimensional Chambers](https://www.nexusmods.com/skyrimspecialedition/mods/47778)**
+- **[New HearthFires Mod](https://www.nexusmods.com/skyrim/mods/62144)**
+- **[Morskom Estate](https://www.nexusmods.com/skyrim/mods/57141)**
+- **[Shaman's Hut](https://www.nexusmods.com/skyrimspecialedition/mods/48134)**
+
+
+And that's it for this document! Thanks for reading all the way down. I hope you will have a good time with Aldrnari!
