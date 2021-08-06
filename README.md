@@ -479,6 +479,47 @@ Using them with QWEST! would be like installing your own mods: Support is forfei
 ### Why don't you wanna use Inigo/Legacy of the Dragonborn (LOTD)????? They're the best mods ever!!!!
 [Modified Gameplay.md](https://github.com/SovnSkyrim/Aldrnari/blob/main/Modified%20Gameplay.md) has the answer, use ctrl+f in there. Refusing to hear my opinion and accept it is a warnable behavior in my Discord.
 
+### Please give us more fps... / A more performance friendly profile??
+
+It's a beta, it's a WIP, I can't please everyone by now but I can't just give you stuff right now.
+
+I have 2 tips that voids you support as per Rule 11 of both Wabbajack and my Discords.
+- Regenerate DynDOLOD with other settings, not High
+     - Current DynDOLOD uses High and Ultra Trees, those are known to be FPS Heavy
+- Follow this set of instructions to put your ENB in a more performance mode:
+     - In Enbseries.ini; change those values:
+     - [EFFECT]
+	- EnableDepthOfField=false
+	- EnableNormalMappingShadows=false
+
+     - [SSAO_GAME]
+	- AOAmount=0.0
+	- AOAmountInterior=0.0
+
+     - [SSAO_SSIL]
+	- UseSelfIntersecting=false
+	- SourceTexturesScale=0.25
+	- SamplingQuality=1
+	- If you put intersecting to false, I strongly you to change SamplingRange=0.24 to SamplingRange=0.40 for balance the AO on face NPC in exterior
+
+     - [COMPLEXFIRELIGHTS]
+	- EnableShadow=false
+
+     - [COMPLEXPARTICLELIGHTS]
+	- EnableShadow=false
+	- EnableNormalMappingShadows=false
+
+     - [REFLECTION]
+	- Quality=-1
+
+     - [UNDERWATER]
+	- HighQualityCaustics=false
+
+     - [WATER]
+	- EnableTessellation=false
+
+Those are the easiest tweaks you can do.
+
 ## Credits and Thanks
 
 - _YOU_ for actually reading the readme. Thanks a ton!!
