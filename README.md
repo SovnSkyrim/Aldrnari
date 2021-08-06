@@ -119,6 +119,8 @@ If you ever used Vortex to mod Skyrim SE, using the Shredder becomes a criticall
 
 If the Shredder is unavailable at the time you read this, manually uninstall Vortex and manually delete the `Skyrim Special Edition` folder located in your `SteamLibrary\steamapps\common`, where your SteamLibrary is.
 
+[THIS](https://imgur.com/a/1dySo8q) is approximately what a clean Skyrim install should look like after shredding or cleaning it manually.
+
 ## Start Skyrim
 
 After you have done everything above and got a clean SSE installation ready, start the Launcher and open the _Options_ menu.
