@@ -173,7 +173,7 @@ Those are the recommended ENBs, and the only ones I know that fit the Weather/Li
 - Markarth's wall is now massive thanks to [City Entrances Overhaul: Markarth](https://www.nexusmods.com/skyrimspecialedition/mods/37375)
 - "The Great City" Series overhauls a good number of minor towns and cities; we're talking [Falkreath](https://www.nexusmods.com/skyrimspecialedition/mods/19709), [Rorikstead](https://www.nexusmods.com/skyrimspecialedition/mods/20151), [Mixwater Mill](https://www.nexusmods.com/skyrimspecialedition/mods/36350), [Karthwasten](https://www.nexusmods.com/skyrimspecialedition/mods/33032), [Kynesgrove](https://www.nexusmods.com/skyrimspecialedition/mods/42639), [Old Hroldan](https://www.nexusmods.com/skyrimspecialedition/mods/33189), [Ivarstead](https://www.nexusmods.com/skyrimspecialedition/mods/34505) and [Shor's Stone](https://www.nexusmods.com/skyrimspecialedition/mods/35977).
 - Dragon Bridge is overhauled by [Rodryk](https://www.nexusmods.com/skyrimspecialedition/mods/42510)
-- [Soljund Sinkhole](https://www.nexusmods.com/skyrimspecialedition/mods/358), [Whistling Mine](https://www.nexusmods.com/skyrimspecialedition/mods/367) and [Settlements Expanded](https://www.nexusmods.com/skyrimspecialedition/mods/7777) make sure even miners around small mines have houses.
+- [Settlements Expanded](https://www.nexusmods.com/skyrimspecialedition/mods/7777) make sure even miners around small mines have houses.
 - Raven Rock isn't forgotten, we use [Quaint Raven Rock](https://www.nexusmods.com/skyrimspecialedition/mods/20851)
 - The College of Winterhold is now a hub of magic thanks to [Ultimate College of Winterhold](https://www.nexusmods.com/skyrimspecialedition/mods/44797).
 - [Sepolcri](https://www.nexusmods.com/skyrimspecialedition/mods/34105) makes sure the cemeteries in Solitude, Riften and Falkreath aren't lame.
@@ -205,6 +205,13 @@ Those are the recommended ENBs, and the only ones I know that fit the Weather/Li
 
 ### Gameplay - Modified and Expanded Quests
 
+- The companions are heavily modified by [Don't be a milk drinker](https://www.nexusmods.com/skyrimspecialedition/mods/19490), [questline tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/22300) and [More Radiant quests](https://www.nexusmods.com/skyrimspecialedition/mods/24144)
+- [Jiub's Opus gets quest markers](https://www.nexusmods.com/skyrimspecialedition/mods/17056)
+- [Goldenglow is Yours](https://www.nexusmods.com/skyrimspecialedition/mods/25155) after you rob it but you will have [Requirements to enter the Thieves Guild](https://www.nexusmods.com/skyrimspecialedition/mods/33256)
+- We avoid arthmoor wor Paarthurnax with [The Paarthurnax Resolution](https://www.nexusmods.com/skyrimspecialedition/mods/43766)
+- You can [save the Icerunner](https://www.nexusmods.com/skyrimspecialedition/mods/34681)
+- On top of [Ultimate College of Winterhold](https://www.nexusmods.com/skyrimspecialedition/mods/44797), that questline has also an [Improved admission test](https://www.nexusmods.com/skyrimspecialedition/mods/22184), [enemies in Skuldafn incentivize mage gameplay](https://www.nexusmods.com/skyrimspecialedition/mods/44557) and there is [more tweaks from Obscure](https://www.nexusmods.com/skyrimspecialedition/mods/22653).
+- [You can avoid the entirety of the forsworn conspiracy.](https://www.nexusmods.com/skyrimspecialedition/mods/43850)
 
 ### Gameplay - New Quests
 Gotta have quest mods if there is no Legacy of the Dragonborn, right? 
