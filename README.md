@@ -140,7 +140,7 @@ Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-to
 
 Wabbajack will not work with Windows 7, I will not offer any kind of support for users of that operating system.
 
-You will also need those files that tend to not download themselves; so I'd recommend you manually download them and hold onto them until the next step.
+You will also need those files that tend to not download themselves; so I'd recommend you download them manually, and simply drop them in your WJ downloads folder. This is the folder you set in the next step when starting the install. Do NOT unzip the files, just download the zip, and drop it in the folder as is. WJ will then realize the files are present and move on with the rest of the download.yea
  
 - https://mega.nz/file/xUc0zRLY#NYwbmmHOZhpSF2hpV7hMRYejgZsL_MAIVv_DfjK9JRM - Elwaps Speedtree
 - https://mega.nz/#!x0QWjKKL!B9xkI29Dg0YoBPAo1fyXa_PxtBoma_f4UmSMOiwnv2A - HG Hairdos
@@ -228,7 +228,7 @@ Head over to the installation folder and locate an executable named `ModOrganize
 Upon pressing New Game, you will spawn on the walls of Helgen burning down. Once all the messages on the top left corner of the screen are gone, set the MCMs as instructed below.
 
 If you press enter, you will be teleported to a location where you will be able to personalize your character.
-After confirming your character, never use showracemenu to change its race or sex; you will then be able to start the game. If you want to customize the MCMs or need some more time to setup Skyrim Unbound, you can use the "Stay there" option.
+After confirming your character, please note that you should not use the 'showracemenu' console command to change sex or race, it will break a lot more than you think. If you want to customize the MCMs or need some more time to setup Skyrim Unbound, you can use the "Stay there" option.
 
 Do NOT Select a NON DRAGONBORN OPTION within Skyrim Unbound! Doing so will result in broken questlines! You cannot escape your destiny!
 
@@ -238,7 +238,7 @@ If this Modlist receives an update, please check the Changelog before doing anyt
 
 **Wabbajack will delete all files that are not part of the Modlist when updating!**
 
-This means that any additional mods you have installed on top of the Modlist will be deleted. Your downloads folder will not be touched!
+This means that any additional mods you have installed on top of the Modlist will be deleted. Your saves will be kept, but please check each update changelog to see if the update is save compatible.  Your downloads folder will not be touched!
 
 Updating is like installing. You only have to make sure that you select the same path and tick the _overwrite existing Modlist_ button.
 
