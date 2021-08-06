@@ -171,7 +171,7 @@ There are a lot of different scenarios where Wabbajack will produce an error. I 
 
 If a mod updated and the old files got deleted, it is impossible to download them. In this case, just wait until I update the Modlist.
 
-If Wabbajack stalls on the MEGA.NZ files, get the files below and place them AS IS in the downloads folder you've selected, then restart Wabbajack completely. It's only those 4.
+Some files are known to be problematic, it is likely those are the ones that failed. You can download them here and place the archives **AS IS** in the downloads folder.
 
 - https://drive.google.com/file/d/1QczVKIsdHBD6bdiHtm54BmmVZ0a16-t9/view?usp=sharing - Aldrnari - Misc Generated Files
 - https://drive.google.com/file/d/17SdeD2hasnAGtIgV0ahsFln-9etkLZNT/view?usp=sharing - Aldrnari - Lods Output
