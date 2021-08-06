@@ -140,7 +140,7 @@ Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-to
 
 Wabbajack will not work with Windows 7, I will not offer any kind of support for users of that operating system.
 
-You will also need those files that tend to not download themselves; so I'd recommend you download them manually, and simply drop them in your WJ downloads folder. This is the folder you set in the next step when starting the install. Do NOT unzip the files, just download the zip, and drop it in the folder as is. WJ will then realize the files are present and move on with the rest of the download.yea
+You will also need those files that tend to not download themselves; so I'd recommend you download them manually, and simply drop them in your WJ downloads folder. This is the folder you set in the next step when starting the install. Do NOT unzip the files, just download the zip, and drop it in the folder as is. WJ will then realize the files are present and move on with the rest of the download.
  
 - https://mega.nz/file/xUc0zRLY#NYwbmmHOZhpSF2hpV7hMRYejgZsL_MAIVv_DfjK9JRM - Elwaps Speedtree
 - https://mega.nz/#!x0QWjKKL!B9xkI29Dg0YoBPAo1fyXa_PxtBoma_f4UmSMOiwnv2A - HG Hairdos
