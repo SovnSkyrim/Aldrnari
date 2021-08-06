@@ -485,20 +485,20 @@ Using them with QWEST! would be like installing your own mods: Support is forfei
 
 This can happen on rare occassions if your game and modlist are not both installed on your C:/ Drive. To fix it, please follow the instructions below, this does not void support:
 
-
-"1. First download and install Link Shell Extension which can be found here: http://schinagl.priv.at/nt/hardlinkshellext/linkshellextension.html.
+1. First download and install Link Shell Extension which can be found here: http://schinagl.priv.at/nt/hardlinkshellext/linkshellextension.html.
 2. Navigate to your Skyrim/Data folder and look for a file named Skyrim - Sounds.bsa. Copy this file and paste it somewhere on your main drive.
 3. Delete Skyrim - Sounds.bsa from the Data folder.
 4. Go back to where you copied Skyrim - Sounds.bsa on your main drive. Right click on it and you should see an option that says "Pink Link Source". Click that.
 5. Go back to your Skyrim/Data folder. Right click anywhere and choose "Drop As" and then "Symbolic Link". You will see your sounds file with a shortcut symbol. You know it works when you do."
-6.Repeat this process for the file Skyrim - Voices_en0.bsa
+6. Repeat this process for the file Skyrim - Voices_en0.bsa
 This would be enough for vanilla skyrim, but since this list uses a ton of different sound and audio mods, we are not quite done.
+
 In your Aldrnari MO2 instance, you will locate 2 seperators, one called "Audio", and one called "Music". You will need to repeat the process described above for every single mod in these two categories to make sure you have every single sound working properly. I know its tedious, but this is the only fix for this rather rare issue.
+
 However, instead of only taking the BSA files from each mod, i suggest taking the entire Mod folder, because it will help keep things organized.
 
 So, as an example:
 I made a folder called "Aldrnari Sound Fix" on my C:/ Drive. This folder now contains the two vanilla BSAs, plus every single Audio or Music mod. These are all sym linked back to the original mod folder. Im aware this is not optimal for people with seriously tiny C Drives, but its as good as it gets. For any questions regarding this specific issue, please @ Chanka on Sovns discord or the Wabbajack discord.
-
 
 ### Please give us more fps... / A more performance friendly profile??
 
