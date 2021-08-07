@@ -148,7 +148,7 @@ Because yes using 4K textures when playing at 1080p, when the mesh is wide, it a
 
 Those 2 ENBS are on the bright side.
 - **[fnenb](https://www.nexusmods.com/skyrimspecialedition/mods/43998)** is more of a screenarchery ENB, it isn't good at every single moment, but it is so infrequent that I love it. It's lights are less blinding than the second enb but it is [brighter](https://cdn.discordapp.com/attachments/761564792766726194/868966326566273095/unknown.png). It is made by Foxnne.
-- **[Pacific Blue](https://www.nexusmods.com/skyrimspecialedition/mods/44542)** is more clear than bright. That's where the difference is, but it's lights are blinding a bit more, like [this](https://cdn.discordapp.com/attachments/761564792766726194/869238390468521984/unknown.png). It is made by FOSSTEN
+- **[Pacific Blue](https://www.nexusmods.com/skyrimspecialedition/mods/44542)** is more clear than bright. That's where the difference is, but it's lights are blinding a bit more, like [this](https://cdn.discordapp.com/attachments/761564792766726194/869238390468521984/unknown.png) and it uses a filmic lens, like a real camera. It is made by FOSSTEN
 
 Both of those enbs have a realistic vibe which is what the list aims at mainly.
 
