@@ -355,7 +355,7 @@ Do NOT Select a **NON DRAGONBORN OPTION** within Skyrim Unbound! Doing so will r
     - Enable: Enabled
 
 #### Optimal Potion Hotkey
-- Set one keybind (mine is "<")
+- Set one keybind (mine is "<" for Health only, I don't use the other ones)
 
 #### Radiant Requirements
 - Settings
