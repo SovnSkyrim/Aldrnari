@@ -259,6 +259,7 @@ These are the new/upgraded playerhomes currently available in Aldrnari. This lis
 - **[New HearthFires Mod](https://www.nexusmods.com/skyrim/mods/62144)**
 - **[Morskom Estate](https://www.nexusmods.com/skyrim/mods/57141)**
 - **[Shaman's Hut](https://www.nexusmods.com/skyrimspecialedition/mods/48134)**
+- **[Mhulchazn - Morrowind Dwemer Home](https://www.nexusmods.com/skyrimspecialedition/mods/22427)**
 
 
 And that's it for this document! Thanks for reading all the way down. I hope you will have a good time with Aldrnari!
