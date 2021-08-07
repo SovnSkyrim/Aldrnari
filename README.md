@@ -78,8 +78,6 @@ For reference, here are some more specs from a User and their average FPS:
   - 32GB of 3200mhz DDR4 RAM
 Averaging around 40-45 fps in open world, dropping to 35-40 in heavy cities. This is using Pacific Blue ENB.
 
-
-
 Full PC Part Picker setup is [here](https://fr.pcpartpicker.com/list/ZHQQgt). I would recommend atleast 8GB for 1080p and for 1440p, you will need a minimum of 10GB of vram, although more is highly recommended. I do not have stable 60FPS on 1440p everywhere with my setup because frankly, I do not care about it if combat is fluid and I can take sexy screenshots. The average is 60FPS with dips in 50FPS in very few areas, all this at 1080p because my screen is a 3840x1080p (no I don't play in ultrawide, that's pointless and no support will be offered for that neither).
 
 No performance options are available for now as this is a Beta, it will change at some point potentially. If your PC does not meet the spec required for this list, my other list [QWEST!](https://github.com/SovnSkyrim/QWEST), will probably work for you. It's made so that everyone can play it.
