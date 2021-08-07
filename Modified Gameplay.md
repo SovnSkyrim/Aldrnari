@@ -210,7 +210,7 @@ Those are the recommended ENBs, and the only ones I know that fit the Weather/Li
 - [Goldenglow is Yours](https://www.nexusmods.com/skyrimspecialedition/mods/25155) after you rob it but you will have [Requirements to enter the Thieves Guild](https://www.nexusmods.com/skyrimspecialedition/mods/33256)
 - We avoid arthmoor wor Paarthurnax with [The Paarthurnax Resolution](https://www.nexusmods.com/skyrimspecialedition/mods/43766)
 - You can [save the Icerunner](https://www.nexusmods.com/skyrimspecialedition/mods/34681)
-- On top of [Ultimate College of Winterhold](https://www.nexusmods.com/skyrimspecialedition/mods/44797), that questline has also an [Improved admission test](https://www.nexusmods.com/skyrimspecialedition/mods/22184), [enemies in Skuldafn incentivize mage gameplay](https://www.nexusmods.com/skyrimspecialedition/mods/44557) and there is [more tweaks from Obscure](https://www.nexusmods.com/skyrimspecialedition/mods/22653).
+- On top of [Ultimate College of Winterhold](https://www.nexusmods.com/skyrimspecialedition/mods/44797), that questline has also an [Improved admission test](https://www.nexusmods.com/skyrimspecialedition/mods/22184), [enemies in Labyrinthian incentivize mage gameplay](https://www.nexusmods.com/skyrimspecialedition/mods/44557) and there is [more tweaks from Obscure](https://www.nexusmods.com/skyrimspecialedition/mods/22653).
 - [You can avoid the entirety of the forsworn conspiracy.](https://www.nexusmods.com/skyrimspecialedition/mods/43850)
 
 ### Gameplay - New Quests
