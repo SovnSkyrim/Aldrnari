@@ -11,7 +11,7 @@ Added:
 Updated:
 - Odin - 1.9
 - Lux - 2.7n Ninja Update 
-- Palldaium Racials - 1.0.13a
+- Palladium Racials - 1.0.13a
 - Water for ENB - 1.36
 - Water for ENB Particle Patch - 3.3.2
 - Draugr Updates and Improvements - 2.4.2
