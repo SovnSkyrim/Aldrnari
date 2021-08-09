@@ -271,7 +271,7 @@ Do NOT Select a **NON DRAGONBORN OPTION** within Skyrim Unbound! Doing so will r
     - In your inventory there's an item called "Vampire's Bloodgem" allowing to tweak stuff by clicking on it while crouched. 
         - I leave it as default. You can tweak it all you want. Experimental stuff may cause issues as expected. When done drop the bloodgem.
 
-#### Campfire (Survival)
+#### Campfire
 - Gameplay
   - Hotkeys
     - Set your Hotkeys however you want
