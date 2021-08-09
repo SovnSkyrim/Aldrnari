@@ -175,9 +175,6 @@ If a mod updated and the old files got deleted, it is impossible to download the
 
 Some files are known to be problematic, it is likely those are the ones that failed. You can download them here and place the archives **AS IS** in the downloads folder.
 
-- https://drive.google.com/file/d/1QczVKIsdHBD6bdiHtm54BmmVZ0a16-t9/view?usp=sharing - Aldrnari - Misc Generated Files
-- https://drive.google.com/file/d/17SdeD2hasnAGtIgV0ahsFln-9etkLZNT/view?usp=sharing - Aldrnari - Lods Output
-- https://drive.google.com/file/d/1GVcYeNOq0PtZAzeTTsnGmhXcRqfL9QZK/view?usp=sharing - Aldrnari - Grass Output
 - https://mega.nz/file/xUc0zRLY#NYwbmmHOZhpSF2hpV7hMRYejgZsL_MAIVv_DfjK9JRM - Elwaps Speedtree
 - https://mega.nz/#!x0QWjKKL!B9xkI29Dg0YoBPAo1fyXa_PxtBoma_f4UmSMOiwnv2A - HG Hairdos
 - https://mega.nz/file/EcJhgKpY#4Q86Rd1hUepjm233r8Q_7x3fTWx9axJN2CUc8FXrBsg - xLODGEN.83
