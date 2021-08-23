@@ -153,10 +153,9 @@ You will also need those files that tend to not download themselves; so I'd reco
 ## Downloading and Installing
 
 The download and installation process can take a very long time depending on your system specs. Wabbajack will calculate the amount of threads it will use at the start of the installation. To have the highest amount of threads and thus the fastest speed, it is advised to have the working folder on an SSD.
-The list, being unofficial, is only available on [my Discord server](https://discord.gg/ZgjVrXp), in #links.
 
-1. Grab the Wabbajack installation file from my discord and open the Wabbajack exe
-2. On the main menu for Wabbajack, select "Install From Disk" and select the downloaded file on my Discord.
+1. Open the Wabbajack.exe and select "Browse Modlists".
+2. Scroll until you find Aldrnari, you can make it easier using the filter at the top for Games, in it select Skyrim Special Edition.
 3. Create a folder for the List at the root of your drive (like the Wabbajack folder) called "Aldrnari".
 4. Select the created folder in 3. as your installation folder.
 5. Go back to your drive, and create a new folder, called "Wabbajack Downloads Folder". This specific folder can be on a different drive if you wish.
