@@ -405,11 +405,7 @@ I have an ultra-wide, but it's just not worth the hassle of setting Skyrim up fo
 
 ### I have a question
 
-Ask it in my Discord, link [here](https://discord.gg/ZgjVrXp). The support channel in the Wabbajack Discord is for Installation questions, not support over in game stuff or suggestions.
-
-### I have a bug
-
-Report it in my Discord, link [here](https://discord.gg/ZgjVrXp). The support channel in the Wabbajack Discord is for Installation questions, not bug reports.
+Ask it in my Discord, link [here](https://discord.gg/ZgjVrXp) or Wabbajack's Discord, [link here](https://discord.com/invite/wabbajack). 
 
 ### A face part is crashing me! | Some hair/facial hair clips!
 
