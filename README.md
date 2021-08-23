@@ -38,21 +38,21 @@
 
 # Preamble
 
-Aldrnari (ᚨᛚᛞᚱᚾᚨᚱᛁ) is my project to make a Skyrim **I** want to play.
-It is an ode to my love for folk music, in fact, the idea came when I got curious into [Yggdrasil Music and SoundFX Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/21578) and started listening to folk music altogether.
+Aldrnari (ᚨᛚᛞᚱᚾᚨᚱᛁ) is my project to make a Skyrim ***I*** want to play.
+It is an ode to my love for folk music; in fact, the idea came when I began listening to [Yggdrasil Music and SoundFX Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/21578) and started listening to folk music all together.
 
-Aldrnari means "the nourisher of life", it is one of the many ways to translate fire in old norse.
-The idea came from the Heilung track [Elddansurin](https://www.youtube.com/watch?v=Xph2Phcj0LA) (it means [The fire dancer](https://lyricstranslate.com/en/elddansurin-fire-dancer.html)) because it represents how folk helped healing my soul and how in Dark Souls, fire is extremely important.
-Because yes, this list is heavily inspired by the Souls Games, in the combat and gameplay mechanics, you'll see further below.
+Aldrnari means "the nourisher of life" and is one of the many ways to say "fire" in Old Norse.
+The idea came from the Heilung track [Elddansurin](https://www.youtube.com/watch?v=Xph2Phcj0LA) (it means [The fire dancer](https://lyricstranslate.com/en/elddansurin-fire-dancer.html)) because it represents how folk helped heal my soul and how, in Dark Souls, fire is extremely important.
+Because yes, this list is heavily inspired by the Souls Games in the combat and gameplay mechanics, as you'll see further below.
 
-This list is made to be challenging, rewarding, you will become an overpowered Dragonborn who goes against terrible and fierce enemies. 
+This list is made to be challenging, rewarding, and, eventually, you will become an overpowered Dragonborn who goes against terrible and fierce enemies. 
 It is deeply inspired by games like Dark Souls and Hellblade: Senua's Sacrifice, while having an artistic direction that comes close to screen-archery.
 
 If you have any questions regarding the list, you're free to ask in the [Wabbajack Discord](https://discord.gg/wabbajack) or [my own personal server](https://discord.gg/ZgjVrXp).
 
-This project started as a collaboration between Althro and I on Tinvaak 2. Over time, however, we realised our end goals were different and he gave permission for me to use the base that had been created. Aldrnari would not exist without Althro and the work he put into creating and patching Tinvaak 2. Go show him some love and play Tinvaak 2 when he releases it. [Permission proof](http://i.prntscr.com/NwKOu-apRU6DrMDb9R5eOw.png)
+This project started as a collaboration between Althro and I on Tinvaak 2. Over time, however, we realised our end goals were different, and he gave permission for me to use the base that had been created. Aldrnari would not exist without Althro and the work he put into creating and patching Tinvaak 2. Go show him some love and play Tinvaak 2 when he releases it. [Permission proof](http://i.prntscr.com/NwKOu-apRU6DrMDb9R5eOw.png)
 
-The art for the list was made by [Crithion/m.vlad](https://mvlad.design/), a fellow Modlist Developper (author of [Narsil](https://mvlad.design/narsil/), a VR list), and artist. I commissioned him and he did an amazing job!
+The art for the list was made by [Crithion/m.vlad](https://mvlad.design/), a fellow Modlist Developer (author of [Narsil](https://mvlad.design/narsil/), a VR list), and artist. I commissioned him and he did an amazing job!
 
 # Disclaimer
 
@@ -62,19 +62,19 @@ The art for the list was made by [Crithion/m.vlad](https://mvlad.design/), a fel
 
 # Noteworthy Mods and what gameplay to expect.
 
-An entire document has been made to give you as much information as I could without going too deep in analysis of mods. This document is called **[Modified Gameplay.md](https://github.com/SovnSkyrim/Aldrnari/blob/main/Modified%20Gameplay.md)** and acts as a second readme for the core gameplay and questions about what to expect. So go read [it](https://github.com/SovnSkyrim/Aldrnari/blob/main/Modified%20Gameplay.md). 
+An entire document has been made to give you as much information as I could without going too deep in analysis of mods. This document is called **[Modified Gameplay.md](https://github.com/SovnSkyrim/Aldrnari/blob/main/Modified%20Gameplay.md)** and acts as a second readme for the core gameplay and questions about what to expect. So go read [it](https://github.com/SovnSkyrim/Aldrnari/blob/main/Modified%20Gameplay.md)! 
 
 # Installation
 ### Prerequisites
 #### PC Specifications
-Aldrnari is meant to use every single inch of my computer, here are my specs:
+Aldrnari is meant to use every single inch of my computer, and here are my specs:
   - I7-7700k
   - 1080Ti Zotac - 11GB of VRAM
   - 32GB of 3200mhz DDR4 RAM
 
-Full PC Part Picker setup is [here](https://fr.pcpartpicker.com/list/ZHQQgt). I would recommend atleast 8GB for 1080p and for 1440p, you will need a minimum of 10GB of vram, although more is highly recommended. I do not have stable 60FPS on 1440p everywhere with my setup because frankly, I do not care about it if combat is fluid and I can take sexy screenshots. The average is 60FPS with dips in 50FPS in very few areas, all this at 1080p because my screen is a 3840x1080p (no I don't play in ultrawide, that's pointless and no support will be offered for that neither).
+Full PC Part Picker setup is [here](https://fr.pcpartpicker.com/list/ZHQQgt). I would recommend atleast 8GB of VRAM for 1080p, and for 1440p you will need a minimum of 10GB of VRAM, although more is highly recommended. I do not have stable 60FPS on 1440p everywhere with my setup because, frankly, I do not care about framerate if combat is fluid and I can take sexy screenshots. The average is 60FPS with dips in 50FPS in very few areas at 1080p because my screen is a 3840x1080p (no I don't play in ultrawide, that's pointless and no support will be offered for that either).
 
-No performance options are available for now as this is a Beta, it will change at some point potentially. If your PC does not meet the spec required for this list, my other list [QWEST!](https://github.com/SovnSkyrim/QWEST), will probably work for you. It's made so that everyone can play it.
+No performance options are available for now as this is a Beta; however, this may change at some point. If your PC does not meet the specifications required for this list, my other list, [QWEST!](https://github.com/SovnSkyrim/QWEST), will probably work for you. It's made so that everyone can play it.
 
 Disclaimer: Any questions regarding the specs and performance of the list will be redirected to here if you're asking me. I cannot stress how much I will not change the performance of the list. It is primarily made for screen-archery with innovative gameplay. You are free to modify the list once you have it to fit your frames dream, but I will not support you in doing so.
 #### Size on Drive
@@ -83,7 +83,7 @@ Aldrnari is a big list, it requires:
   - Over 180GB for the Installation folder
   - an additional 10GB for the temporary files during Installation
 
-So 315GB **minimum** is required. I cannot stress how much a SSD is needed for **atleast** the game and the list. You can put your downloads in an HDD and it will only slow your installation process.
+So 315GB **minimum** is required. I cannot stress how much a SSD is needed for **at least** the game and the list. You can put your downloads in an HDD and it will only slow your installation process.
 
 ### Pre-Installation
 
@@ -95,7 +95,7 @@ I doubt you need to do this since you likely already have this installed. This p
 
 #### Steam Library
 
-If you have your steam library in program files, read [this](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide) to put it somewhere else.
+If you have your Steam library in Program Files, read [this](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide) to put it somewhere else.
 I will not provide support to people with Skyrim in their Program Files folder.
 Locations like Documents, Downloads, Desktop, or OneDrive are NOT fine. The best location would be ``C:\SteamLibrary`` if you have a single drive, or whichever Drive Letter you have on your main Games drive. Such a location is also called the "root of the drive."
 
@@ -249,7 +249,7 @@ MCMs are not automated due to a personal choice: There are many important tweaks
 Do NOT Select a **NON DRAGONBORN OPTION** within Skyrim Unbound! Doing so will result in broken questlines! You cannot escape your destiny!
 
 #### Game Difficulty
-- The difficulty in this Modlist is quite harder (more info on that in [Modified Gameplay.md](https://github.com/SovnSkyrim/Aldrnari/blob/main/Modified%20Gameplay.md)) so I highly suggest not using Legendary. I personally play on Expert; adept is also fine.
+- The difficulty in this Modlist is quite harder (more info on that in [Modified Gameplay.md](https://github.com/SovnSkyrim/Aldrnari/blob/main/Modified%20Gameplay.md)) so I highly suggest not using Legendary. I personally play on Expert. Adept is also fine.
 
 #### A Matter of Time
 
@@ -429,7 +429,7 @@ You can just remove the MO2 folder and be done with it. SKSE and ENB files will 
 
 ### Ultrawide Options
 
-I have an ultra-wide, it's just not worth it in my opinion. Skyrim isn't made for it; if you disagree, check [this guide](https://docs.google.com/document/d/1D3Yapmu_IkTWSszJ4h9wpNxgNLCi46f7XiJknpdMb6E/edit?usp=sharing) by my friend Mantis for compatibility with such screens.
+I have an ultra-wide, but it's just not worth the hassle of setting Skyrim up for it, in my opinion. Skyrim isn't made for it; if you disagree, check [this guide](https://docs.google.com/document/d/1D3Yapmu_IkTWSszJ4h9wpNxgNLCi46f7XiJknpdMb6E/edit?usp=sharing) by my friend Mantis for compatibility with such screens.
 
 ### I have a question
 
@@ -446,10 +446,10 @@ The 5th Facepart is a lie. Known and unsolvable. | Make sure to have selected a 
 Some NPCs have a neck seam, that's known, I'm waiting for an update of [EasyNPC](https://www.nexusmods.com/skyrimspecialedition/mods/52313?tab=description) to solve them, I talk to the author so don't worry, it'll come. Play with them for now.
 
 ### What perk does the new weapons use?
-- Rapiers get Sword perks
-- Pikes get great sword perks
-- Halberds get two handed axe perks
-- Quarter Staffs get War Hammer perks
+- Rapiers get sword perks
+- Pikes get greatsword perks
+- Halberds get two-handed axe perks
+- Quarter Staffs get war hammer perks
 - Claws get dagger perks
 - Whips get mace perks
 
@@ -459,7 +459,7 @@ Cap your framerate, either with BethINI, SSE Display Tweaks, or ENB.
 
 ### "I am bothered by the way NPCs look in the game!" and "How do NPCs look?? Are they rugged? Are they supermodels? Are they vanilla?"
 
-I really do not care and won't take your opinion into account. I've scoured a lot of NPC overhauls (from Eeekies', Northbourne, to Bijin, Pandorable or the Re-imagined Series) and handpicked them for the list so it fits MY tastes.
+I really do not care and won't take your opinion into account. I've scoured a lot of NPC overhauls (from Eeekies', Northbourne, to Bijin, Pandorable or the Re-imagined Series) and handpicked them for the list so it fits ***MY*** tastes.
 
 If you wonder how they look, [here's a document which lists what overhauls who (for vanilla NPCs)](https://github.com/SovnSkyrim/QWEST/blob/main/NPC%20Merge%20Notes.md). 
 
@@ -476,7 +476,7 @@ CC Content isn't considered like DLCs (Dawnguard/Dragonborn/Hearthfire) and will
 Using them with Aldrnari would be like installing your own mods: Support is forfeited and they will NOT work without patching.
 
 ### Why don't you wanna use Inigo/Legacy of the Dragonborn (LOTD)????? They're the best mods ever!!!!
-[Modified Gameplay.md](https://github.com/SovnSkyrim/Aldrnari/blob/main/Modified%20Gameplay.md) has the answer, use ctrl+f in there. Refusing to hear my opinion and accept it is a warnable behavior in my Discord.
+[Modified Gameplay.md](https://github.com/SovnSkyrim/Aldrnari/blob/main/Modified%20Gameplay.md) has the answer, use Ctrl+F in there. Refusing to hear my opinion and accept it is a warnable behavior in my Discord.
 
 ### Some sounds are missing, for example weapon swings/footsteps
 
@@ -499,7 +499,7 @@ I made a folder called "Aldrnari Sound Fix" on my C:/ Drive. This folder now con
 
 ### Please give us more fps... / A more performance friendly profile??
 
-It's a beta, it's a WIP, I can't please everyone by now but I can give you some info.
+It's a beta, it's a WIP, and I can't please everyone by now, but I can give you some info.
 
 I have 2 tips that voids you support as per Rule 11 of both Wabbajack and my Discords.
 - Regenerate DynDOLOD with other settings, not High
