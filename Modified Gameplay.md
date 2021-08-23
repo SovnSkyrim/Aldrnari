@@ -15,9 +15,9 @@ LotD also displays the lowest quality armor and weapons mods in my opinion (Look
 You're free from hoarding random items, and you have cool player homes with room for displaying what you want, not what LotD deemed worthy. [This is the kind of behavior I hope to avoid](https://cdn.discordapp.com/attachments/747132474647248917/855547604561297428/unknown.png)
 
 ## What the list is
-### Beta 1 Goals
+### Beta Goals
 
-Beta 1 of Aldrnari is here to test most of the gameplay and quests and to see if it's playable and fun while also bug-hunting. A lot of stuff is planned, so sit tight if your favourite quest mod, player home, or armor isn't in. It may change in the future.
+Beta of Aldrnari is here to test most of the gameplay and quests and to see if it's playable and fun while also bug-hunting. A lot of stuff is planned, so sit tight if your favourite quest mod, player home, or armor isn't in. It may change in the future.
 Please do not ask for exact names of what is planned. Just be patient and excited for the future. It will be a long development process.
 
 ## Gameplay - Combat | Engarde
@@ -41,7 +41,6 @@ The list doesn't only ship with Engarde! Other mods come to make an ever more Da
 - [ZUPA](https://www.nexusmods.com/skyrimspecialedition/mods/45182) forces 3rd person and plays an animation when drinking a potion, like how there's an animation for Estus in Dark Souls.
 - [Smart Optimal Salves](https://www.nexusmods.com/skyrimspecialedition/mods/42402) is an add-on to ZUPA, so you don't have to go in your inventory to drink a potion!
 - [zxlice BackStab and Parry](https://www.nexusmods.com/skyrimspecialedition/mods/43436) is self-explanatory! Backstabs and attacks of opportunity after succesful blocks... A really neat add-on.
-- [Vanguard - Bash Behaviors Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/52633) allows bashes to be different depending on the shields and also have different animations. It brings variety to the normally rather monotonous shield gameplay.
 - [Heartbreaker](https://www.nexusmods.com/skyrimspecialedition/mods/1847) allows you to rip people's hearts straight from their chest. Metal, isn't it?
 - [SmoothCam](https://www.nexusmods.com/skyrimspecialedition/mods/41252) and [True Directional Movement](https://www.nexusmods.com/skyrimspecialedition/mods/51614) for the camera control, so it's actually usable in 3rd person.
 
@@ -178,6 +177,22 @@ Those are the recommended ENBs, and the only ones I know that fit the Weather/Li
 - The College of Winterhold is now a hub of magic thanks to [Ultimate College of Winterhold](https://www.nexusmods.com/skyrimspecialedition/mods/44797).
 - [Sepolcri](https://www.nexusmods.com/skyrimspecialedition/mods/34105) makes sure the cemeteries in Solitude, Riften, and Falkreath aren't lame.
 - [Viking Towns of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/17132) and [Lyngwi](https://www.nexusmods.com/skyrimspecialedition/mods/13526) are two mods adding Nordic-looking cities on top of everything that is above! 
+
+### Visuals - Armors and Weapons
+
+I love high quality armors and weapons. We are talking assets from Team TAL, Christine, FunkyGandalfCat, JS, DX, and other renowned artist. This is why I am going on a journey to hand-place as many items as possible throughout the world in a lore friendly way.
+
+As an example, I have distributed into Leveled Lists, thanks to [Open World Loot](https://www.nexusmods.com/skyrimspecialedition/mods/49681), weapons from [Skyrim Weapons Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/32500) or [Team TAL's Mordhau Weapons Pack](https://www.patreon.com/posts/mordhau-weapon-1-28144583) or armors from [Team TAL's Mordhau Armors Pack](https://www.patreon.com/posts/alpha-mordhau-by-27867837). While some NPCs have unique armors, in a Dark Souls way.
+
+Hand-placed items are not restricted to armors and weapons, you will find spell tomes and other cosmetic items at the end of dungeons. Lastly some armors' recipes have been gated behind quests! For example, if you want Serana's Vampire armor, you must complete some Dawnguard Quests before being able to create it for yourself.
+
+You can also notice that not lorefriendly armors have been added to the list, like [Spindrift Knight](https://www.nexusmods.com/skyrimspecialedition/mods/53728) or [Grandmaster Wolven](https://www.nexusmods.com/skyrimspecialedition/mods/51572), those are still in the game! You will have access to them by taking 2 perks in the smithing tree: 
+- Hallowed Seamstress and Stoneweaver
+  - For jewelry and dresses (Lore-Friendly)
+- Senua's Wisdom
+  - For items that are not Lore Friendly and/or Skimpy
+
+This is made so you are not cluttered with 2000 free gear at level 1.
 
 ## Gameplay - Quests
 ### Gameplay - Main Questline, Daedric Quests, Miscellaneous Quests and DLCs
