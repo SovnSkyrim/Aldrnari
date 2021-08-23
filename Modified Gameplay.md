@@ -120,7 +120,7 @@ Simon's latest overhaul, I really wanted to test it since Wintersun was always j
 - **[Apothecary](https://www.nexusmods.com/skyrimspecialedition/mods/52130)**
 
 I have sworn to never use kryptopyr's CACO ever again. This overhaul does *exactly* what it needs to do and is actually not a pain to patch. This is why it has been chosen. 
-Do not worry, I know [SAFO](https://www.nexusmods.com/skyrimspecialedition/mods/12343) is in but it is completely overwritten by Apothecary, I've patched it that way.
+We use both the Main mod and it's Food addon!
 
 
 
