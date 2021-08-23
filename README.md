@@ -79,11 +79,11 @@ No performance options are available for now as this is a Beta; however, this ma
 Disclaimer: Any questions regarding the specs and performance of the list will be redirected to here if you're asking me. I cannot stress how much I will not change the performance of the list. It is primarily made for screen-archery with innovative gameplay. You are free to modify the list once you have it to fit your frames dream, but I will not support you in doing so.
 #### Size on Drive
 Aldrnari is a big list, it requires:
-  - Over 125GB for the Downloads folder
-  - Over 180GB for the Installation folder
+  - Over 135GB for the Downloads folder
+  - Over 200GB for the Installation folder
   - an additional 10GB for the temporary files during Installation
 
-So 315GB **minimum** is required. I cannot stress how much a SSD is needed for **at least** the game and the list. You can put your downloads in an HDD and it will only slow your installation process.
+So 345GB **minimum** is required. I cannot stress how much a SSD is needed for **at least** the game and the list. You can put your downloads in an HDD and it will only slow your installation process.
 
 ### Pre-Installation
 
