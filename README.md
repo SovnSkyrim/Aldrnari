@@ -280,9 +280,6 @@ Do NOT Select a **NON DRAGONBORN OPTION** within Skyrim Unbound! Doing so will r
     - Build Campfire : B
     - Harvest wood : H
     - Instincts : Nothing
-#### Challenging Spell Learning
-- Cost multiplier: 3
-- Mental Exhaustion lite: Enabled
 
 #### Cold Region Behavior
 - General Settings
@@ -296,14 +293,6 @@ Do NOT Select a **NON DRAGONBORN OPTION** within Skyrim Unbound! Doing so will r
         - Swap stuff around depending on what you want, leave as default if you're new to Engarde. Keep in mind off-hand action requires shift to be pressed
         - Defensive Action key: C
 
-#### EVG Conditional Idles
-- Player 
-    - Modesty Male: Disabled
-    - Modesty Female: Disabled
-- NPC 
-    - Modesty Male: Disabled
-    - Modesty Female: Disabled
-
 #### Follower Framework
 - System :
 - Settings
@@ -315,25 +304,12 @@ Do NOT Select a **NON DRAGONBORN OPTION** within Skyrim Unbound! Doing so will r
     - Jewelry Drop Chance: 0.1
 - The Tabs above Settings is where you'll level up your spells once you acquire them.
 - [You will acquire them despite the drop chance, do not worry!!](https://github.com/SovnSkyrim/Aldrnari/blob/main/Modified%20Gameplay.md#gameplay---main-overhauls--perks-races-standing-stones-magic-religion-and-alchemy)
-
-#### GIST Soul Trap
-- Leveling
-  - Enable Leveling System: Disabled
-
+- 
 #### Heartbreaker (Optional) 
 - Main Settings
     - Learn Spell Power: Enabled
     - It gives you a power to put npcs in stagger once per IRL hour so you can rip out their hearts; you can also bind it so you can do it anytime.
   
-#### Immersive HUD
-- Activation
-  - Compass Activation
-    - Key press toggles : Enabled
-
-#### Immersive W. Encounters
-- NEW EVENTS
-  - NPCs: Jarl's Housecarls: Disabled (causes issues)
- 
 #### Less Intrusive HUD: 
 - General Settings
     - FileAccess Interface
@@ -391,9 +367,6 @@ Do NOT Select a **NON DRAGONBORN OPTION** within Skyrim Unbound! Doing so will r
   - Load Preset
     There are two presets available for you to use. I personally prefer the Modern one but some prefer Souls Like, try both and see which you like!
 - Make sure only the Alternate Conversation Camera Patch is ticked in Compatibility.
-
-#### Summermyst: 
-- Enable Fortify Caps: enabled
 
 #### Thieves Guild Requirements
 - Misc Options 
