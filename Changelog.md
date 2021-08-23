@@ -129,7 +129,7 @@ Removed:
 
 ## Beta - 0.1.1 | First waves of bugfixes
 
-**Released at**: `Unreleased`
+**Released at**: `08/08/2021`
 
 **Notes** : Not Savefile Compatible - this will be the case every time any Merge is being remade.
 
