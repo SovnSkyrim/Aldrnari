@@ -1,6 +1,6 @@
 ## Beta - 0.2.0 | Official Release Update - Part 1 of the Weapons and Armors Update
 
-**Released at**: `Unreleased`
+**Released at**: `24/08/2021`
 
 **Notes** : 
 - Not Savefile Compatible
