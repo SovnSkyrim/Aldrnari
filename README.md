@@ -504,8 +504,9 @@ Those are the easiest tweaks you can do.
 - _YOU_ for actually reading the readme. Thanks a ton!!
 - Halgari and everyone in the WJ Team - Wabbajack is awesome and so are you
 - Althro for the creation of the base, managing and curating the discord and being a very resourceful person. None of my work would simply exist without you. 
+- KFC for all the mental support, help during development, and volunteering to help. 
 - Chri3i for all the help during development, you are and keep being, a never ending help which is loved.
-- TheSpaniard and Chanka for all the support you're doing in the discord.
+- TheSpaniard and Chanka for all the support you're doing.
 - Crithion aka m.vlad for the art; trully amazing, I never spent my money so well.
 - Every each of my Patreons for supporting me, and with the Special Folks of my discord, for helping with the development.
 
