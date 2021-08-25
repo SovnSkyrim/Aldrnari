@@ -149,6 +149,8 @@ You will also need those files that tend to not download themselves; so I'd reco
 - https://mega.nz/file/EcJhgKpY#4Q86Rd1hUepjm233r8Q_7x3fTWx9axJN2CUc8FXrBsg - xLODGEN.83
 - https://mega.nz/file/qVhVFKKL#s1Zl20rqkJ8JWwmXWjm-2PRT9xC0_PwGqVnH9ktisvg - Book Of The Dead Trees (1)
 - https://drive.google.com/uc?id=1WOviY3mC7Zc9Nx408BTAMXK9DIdiwzeK&export=download - [Dint999] HairPack02 SSE (v0.09)
+- https://drive.google.com/uc?id=1k6i0-iqZf8ErqoCV1dX4DnwmjBKwQ5pL&export=download - Mordhau Pack by Team TAL
+- https://drive.google.com/uc?id=1BsgFAq7t1aDEjl2i8h4OHLgcYU8g_4gv&export=download - Mordhau Weapon Pack by Team TAL
 
 ## Downloading and Installing
 
@@ -179,6 +181,8 @@ Some files are known to be problematic, it is likely those are the ones that fai
 - https://mega.nz/file/EcJhgKpY#4Q86Rd1hUepjm233r8Q_7x3fTWx9axJN2CUc8FXrBsg - xLODGEN.83
 - https://mega.nz/file/qVhVFKKL#s1Zl20rqkJ8JWwmXWjm-2PRT9xC0_PwGqVnH9ktisvg - Book Of The Dead Trees (1)
 - https://drive.google.com/uc?id=1WOviY3mC7Zc9Nx408BTAMXK9DIdiwzeK&export=download - [Dint999] HairPack02 SSE (v0.09)
+- https://drive.google.com/uc?id=1k6i0-iqZf8ErqoCV1dX4DnwmjBKwQ5pL&export=download - Mordhau Pack by Team TAL
+- https://drive.google.com/uc?id=1BsgFAq7t1aDEjl2i8h4OHLgcYU8g_4gv&export=download - Mordhau Weapon Pack by Team TAL
 
 **x is not a whitelisted download**:
 
