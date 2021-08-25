@@ -81,12 +81,8 @@ No performance options are available for now as this is a Beta; however, this ma
 Disclaimer: Any questions regarding the specs and performance of the list will be redirected to here if you're asking me. I cannot stress how much I will not change the performance of the list. It is primarily made for screen-archery with innovative gameplay. You are free to modify the list once you have it to fit your frames dream, but I will not support you in doing so.
 
 #### Size on Drive
-Aldrnari is a big list, it requires:
-  - Over 135GB for the Downloads folder
-  - Over 200GB for the Installation folder
-  - an additional 25GB for the temporary files during Installation
 
-So 360GB **minimum** is required. I cannot stress how much a SSD is needed for **at least** the game and the list. You can put your downloads in an HDD and it will only slow your installation process.
+Aldrnari is a big list, but it is in a constant evolution. Check the Wabbajack UI by simply hovering your mouse on the card for the list to check it's size. It is atleast 300GB+ so you will NEED an SSD, for the game. You can always put the downloads folder on an HDD, it'll only make the installation slower.
 
 ### Pre-Installation
 
