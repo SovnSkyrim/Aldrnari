@@ -72,11 +72,14 @@ Aldrnari is meant to use every single inch of my computer, and here are my specs
   - 1080Ti Zotac - 11GB of VRAM
   - 32GB of 3200mhz DDR4 RAM
 
-Full PC Part Picker setup is [here](https://fr.pcpartpicker.com/list/ZHQQgt). I would recommend atleast 8GB of VRAM for 1080p, and for 1440p you will need a minimum of 10GB of VRAM, although more is highly recommended. I do not have stable 60FPS on 1440p everywhere with my setup because, frankly, I do not care about framerate if combat is fluid and I can take sexy screenshots. The average is 60FPS with dips in 50FPS in very few areas at 1080p because my screen is a 3840x1080p (no I don't play in ultrawide, that's pointless and no support will be offered for that either).
+Full PC Part Picker setup is [here](https://fr.pcpartpicker.com/list/ZHQQgt). I would recommend atleast 8GB+ of VRAM for 1080p, and for 1440p you will need a minimum of 10GB of VRAM, although more is highly recommended. There are tweaks at the bottom of this readme for 6GB of VRAM users, but they void support. I do not have stable 60FPS on 1440p everywhere with my setup because, frankly, I do not care about framerate if combat is fluid and I can take sexy screenshots. The average is 60FPS with dips in 50FPS in very few areas at 1080p because my screen is a 3840x1080p (no I don't play in ultrawide, that's pointless and no support will be offered for that either).
+
+TitansBane, author of [Elysium](https://github.com/TitansBane/Elysium) has stated this: "When using Zangdar's ENB, the one within Elysium that **doesn't fit the weather mod** used in this list, I had more FPS than with Elysium, reaching a steady 60 FPS with a 3080, unlike Elysium which would dip to 50FPS. The key here is that the **recommended ENBs**, suited for NLA, are even **heavier** resulting in dips at 45FPS at times, all of this at 1440p."
 
 No performance options are available for now as this is a Beta; however, this may change at some point. If your PC does not meet the specifications required for this list, my other list, [QWEST!](https://github.com/SovnSkyrim/QWEST), will probably work for you. It's made so that everyone can play it.
 
 Disclaimer: Any questions regarding the specs and performance of the list will be redirected to here if you're asking me. I cannot stress how much I will not change the performance of the list. It is primarily made for screen-archery with innovative gameplay. You are free to modify the list once you have it to fit your frames dream, but I will not support you in doing so.
+
 #### Size on Drive
 Aldrnari is a big list, it requires:
   - Over 135GB for the Downloads folder
