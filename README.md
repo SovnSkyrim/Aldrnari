@@ -153,7 +153,7 @@ You will also need those files that tend to not download themselves; so I'd reco
 
 ## Downloading and Installing
 
-The download and installation process can take a very long time depending on your system specs. Wabbajack will calculate the amount of threads it will use at the start of the installation. To have the highest amount of threads and thus the fastest speed, it is advised to have the working folder on an SSD.
+The download and installation process can take a very long time (10+hours) depending on your system specs. Wabbajack will calculate the amount of threads it will use at the start of the installation. To have the highest amount of threads and thus the fastest speed, it is advised to have the working folder on an SSD.
 
 1. Open the Wabbajack.exe and select "Browse Modlists".
 2. Scroll until you find Aldrnari, you can make it easier using the filter at the top for Games, in it select Skyrim Special Edition.
@@ -164,6 +164,9 @@ The download and installation process can take a very long time depending on you
 7. Select the created folder in 5. as your downloads folder.
 8. Click the Go/Begin button.
 9. Wait for Wabbajack to finish.
+
+This is the biggest list on Wabbajack at the time of writing this, so it is normal that it takes an incredibly long time the first time you install it, users have reported downloading and installing for more than 10h, without Wabbajack ever erroring, thus, it is highly recommended to leave it over-night.
+
 
 ### Problems with Wabbajack
 
