@@ -5,6 +5,7 @@
 **Notes** : Not Savefile Compatible
 
 Added:
+- Uses the Stock Game system to avoid conflicting with other lists
 - New Weapons and armors distributed in the World 
     - Mephala's Prelate Armor
     - Volkihar Knight - Vampire Armor
