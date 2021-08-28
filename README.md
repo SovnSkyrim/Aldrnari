@@ -60,6 +60,9 @@ The art for the list was made by [Crithion/m.vlad](https://mvlad.design/), a fel
 ### I am going to answer "readme" to any question answered in this document - you have been warned. 
 ### THIS LIST MASSIVELY CHANGES THE GAME, IT HAS BEEN TAILORED IN A CERTAIN WAY THAT YOU WOULDNT HAVE THE SAME EXPERIENCE IF YOU MODDED THE GAME YOURSELF WITH THE SAME MODS; THUS, DO NOT REPORT ANY BUG/ERROR/ISSUE/PROBLEM TO MOD AUTHORS BUT ONLY TO ME THROUGH WABBAJACK'S OR MY DISCORD and please follow the MCM Setup to the letter.
 
+Any changes that is not written in this readme breaks the rules of the Discord servers that you're expected to join when seeking support for the list.
+
+
 # Noteworthy Mods and what gameplay to expect.
 
 An entire document has been made to give you as much information as I could without going too deep in analysis of mods. This document is called **[Modified Gameplay.md](https://github.com/SovnSkyrim/Aldrnari/blob/main/Modified%20Gameplay.md)** and acts as a second readme for the core gameplay and questions about what to expect. So go read [it](https://github.com/SovnSkyrim/Aldrnari/blob/main/Modified%20Gameplay.md)! 
