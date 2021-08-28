@@ -407,7 +407,7 @@ You can just remove the MO2 folder and be done with it. SKSE and ENB files will 
 
 ### Ultrawide Options
 
-I have an ultra-wide, but it's just not worth the hassle of setting Skyrim up for it, in my opinion. Skyrim isn't made for it; if you disagree, check [this guide](https://docs.google.com/document/d/1D3Yapmu_IkTWSszJ4h9wpNxgNLCi46f7XiJknpdMb6E/edit?usp=sharing) by my friend Mantis for compatibility with such screens.
+I have an ultra-wide, but it's just not worth the hassle of setting Skyrim up for it, in my opinion. Moreover, the UI Mods that define the experience aren't available for widescreen users. Please use 1440p or 1080p regular resolutions with the list.
 
 ### I have a question
 
