@@ -318,11 +318,6 @@ Do NOT Select a **NON DRAGONBORN OPTION** within Skyrim Unbound! Doing so will r
 - Main Settings
     - Learn Spell Power: Enabled
     - It gives you a power to put npcs in stagger once per IRL hour so you can rip out their hearts; you can also bind it so you can do it anytime.
-  
-#### Less Intrusive HUD: 
-- General Settings
-    - FileAccess Interface
-        - Load Personal Preset
 
 #### MoreHUD:
 - Presets
@@ -391,10 +386,6 @@ Cycle through all the tabs
 
 #### VioLens
 - Load Preset
-
-#### Widget Mod: 
-- Maintenance
-    - Load User Settings? : Do it!
 
 # How to start playing
 
