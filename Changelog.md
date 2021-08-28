@@ -1,3 +1,129 @@
+## Beta - 0.3.0 | Part 2 of the Weapons and Armors Update - Part 1 of Playerhomes Merge - Bugfixes
+
+**Released at**: `Unreleased`
+
+**Notes** : Not Savefile Compatible
+
+Added:
+- New Weapons and armors distributed in the World 
+    - Mephala's Prelate Armor
+    - Volkihar Knight - Vampire Armor
+    - Revenants of the Forbidden Order
+    - The Gifts of Akatosh
+    - Away, Come Away
+    - [Christine] Dragon Slaughter
+    - [Christine] Dragon Breaker
+    - ESO Altmer Armor
+    - Vampire Leather Armor - CBBE SSE BodySlide
+    - Sonia Armor 
+    - CBBE SE Northgirl w Bodyslide
+    - Redtox's Black Vipers Will - HDT CBBE Bodyslide
+    - DX Sotteta Necromancer Outfit
+    - DX Necromancer Robes - SSE CBBE BodySlide
+    - DX Staff of Necromancy - SE
+    - DX Gwelda Red Riding Hood Outfit
+    - DX Spartan Bard Outfit 
+    - Ashlander Apparel - SSE CBBE BodySlide (with Physics)
+    - Fiona Armor 
+    - Newmiller Elven dress long CBBE Bodyslide with HDT-SMP
+    - Cyrodiilic Thief Armor
+    - Dimir Agent Armor
+    - Boreal Hunter Armor
+    - Archmage Khadgar's Robes SE
+    - Ancient Falmer Armor Replacer
+    - Peacekeeper Armour - Special Edition
+    - Ashara Imperial Outfits - SSE CBBE BodySlide
+    - Indoril Ordinator Armor - Rework
+    - Colovian Leather Armor and Outfit SE - UNP - CBBE
+    - Toxin Doctor Outfit- Mihail Armors and Clothes (MIHAIL SSE PORT)
+    - Dark Dreams
+    - Ethereal Oak Shield
+    - Iron_Head tower shield
+    - Legendary Alpha Shields
+    - Tower of Stendarr Shield
+    - Shields Of Glory SE
+    - Nicos Raven Shield SE
+    - Atmor Shield
+- New Weapons and armors obtainable through a specific crafting perk: 
+    - Kynreeve Armor SSE
+    - DCR - King Crusader Mega Pack
+    - Zerofrost Dragonlord Armor
+    - Zerofrost Nightingale Prime Armor
+    - Zerofrost Valkyrie Armor
+    - Sovereign's Slayer Armor HDT SMP SE
+    - yurica chevaleresse II Armor SMP SE V1.3
+    - DX Demon Armor
+    - DX Celes Nightingale Outfit and Weapons
+    - DX Witch Hunter Armor
+    - Drow Ranger Armor HDT SMP SE
+    - Stalhrim Paladin Armor
+    - WickedBlade SE
+    - Arch-Knight Judicator Armor and Greatsword
+    - Contractor Armor
+    - Evil MasterMind Armor
+    - Resplendent Armor and Greatsword SE
+    - [full_inu] Armor Pack 01 SSE
+    - [full_inu] Maria Outfit
+    - [full_inu] Ada Wong Coat
+    - [full_inu] Sebastian Castellanos Outfit
+    - [full_inu] Medieval Knight Armor
+    - [full_inu] Eredrim, the Venerable
+    - [full_inu] Lord Nicholas Armor
+    - [full_inu] Galahad Renegade Coat
+    - [full_inu] Elise's Evening Dress
+    - [SunJeong] Ninirim Collection 6.0
+    - Gravechill Killer Armor CBBE BodySlide HDT SMP SE
+- Triumvirate - Mage Archetypes 
+    - You can thank Enai, he convinced me.
+- New Player homes Merge that contains all already installed Player homes, in addition to the following:
+    - TNF Skyrim House Remodel
+    - JK's Riverfall Cottage
+    - Myrkheimr SE
+    - The Alchemist's Laboratory
+    - Sicarius' Refuge SSE - A Hitman's Hideout - Assassin Home
+    - Tel Aschan - Mage Tower Home
+- Consolidated the UI with:
+    - SkyUI and Nordic UI Update + Removal of Modern UI/Widgets/Less Intrusive HUD II
+    - God Of War 2018 Font Replacement SSE instead of Sovngarde Font 
+    - ESO Style Cursor - Gray and Small instead of Smaller Vanilla Cursor
+- Modpocalypse NPCs - Resources
+- Modpocalypse NPCs - OBIS - Organized Bandits in Skyrim
+- Obscure's College Of Winterhold - Small and Miscellaneous Patches
+- Strange Runes
+- ENB lights for Aetherium shards
+- ENB Lava Particle Light Patch
+- Sidequests of Skyrim
+- Vominheim - My addons and patches by Xtudo
+- Vibrant Weapons
+- Auto Input Switch
+
+Updated:
+- Lux
+- NPC AI Process Position Fix
+- Leaps of Faith
+- Pilgrim
+- Dragon Priest Fix - Behaviour Overhaul
+- Spell Perk Item Distributor
+- BURP Spell Tomes
+- Modpocalypse NPCs - All Vanilla NPCs
+- enbseries
+
+Fixed:
+- Some Inconsistencies in the Enemy Merge
+- (somewhat) the high number of enchanted items everywhere. - Thanks Luca for the help.
+- Crash from hovering some Arcanum Spell Tomes
+
+Removed:
+- New HearthFires Mod
+    - Incompatible with TNF Breezehome
+- Breezehome Basement
+    - Replaced by TNF Breezehome
+- Modern UI / Widgets / Less Intrusive HUD II
+    - Opted for another UI, check above 
+- The book about Dragonbone weapons
+- SSE Parallax Fix
+    - Included in newest enbseries
+
 ## Beta - 0.2.0 | Official Release Update - Part 1 of the Weapons and Armors Update
 
 **Released at**: `24/08/2021`
