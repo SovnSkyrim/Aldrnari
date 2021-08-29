@@ -200,10 +200,6 @@ Wabbajack will not work with a pirated version of the game. If you own the game 
 
 ### Post-Installation
 
-## Copy Game Folder Files
-
-When the installation is complete, copy the files in the `Aldrnari\Game Folder Files` folder and paste them into your Skyrim folder (with the SkyrimSE.exe and the data folder). [HERE](http://prntscr.com/124984m).
-
 ## Pagefile in prevention of memory crashes
 
 Bigger Skyrim modlists need a lot of memory, and when there is not enough available it may fail allocating more. To fix this, you'll want to have a bigger pagefile.
@@ -227,7 +223,7 @@ Aldrnari comes with 3 ENBs tweaked for the list's Setup:
 
 Info on them is in [Modified Gameplay.md](https://github.com/SovnSkyrim/Aldrnari/blob/main/Modified%20Gameplay.md) so I highly suggest reading it. (use control + F key combo to search for ENB).
 
-How to install them? Simple, in the **installation folder** there will be a folder named **ENBs**, in there the three ENBs are located. Simply **copy the contents of the folder named after the preset you want to use to the Skyrim Special Edition folder**, same way as the "Copy Game Folder Files" step.
+How to install them? Simple, in the **installation folder** there will be a folder named **ENBs**, in there the three ENBs are located. Simply **copy the contents of the folder named after the preset you want to use to the Stock Game Folder located in the installation folder**.checkcheck
 
 ## How to start up Aldrnari
 
