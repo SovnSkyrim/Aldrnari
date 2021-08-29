@@ -1,6 +1,6 @@
 ## Beta - 0.3.0 | Part 2 of the Weapons and Armors Update - Part 1 of Playerhomes Merge - Bugfixes
 
-**Released at**: `Unreleased`
+**Released at**: `29/08/2021`
 
 **Notes** : Not Savefile Compatible
 
