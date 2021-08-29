@@ -17,7 +17,6 @@
     - [Downloading and Installing](#downloading-and-installing)
       - [Problems with Wabbajack](#problems-with-wabbajack)
   - [Post-Installation](#post-installation)
-    - [Copy Game Folder Files](#copy-game-folder-files)
     - [Graphical Settings](#graphical-settings)
     - [Pagefile in prevention of memory crashes](#pagefile-in-prevention-of-memory-crashes)
     - [Getting an ENB](#getting-an-enb)
@@ -223,7 +222,9 @@ Aldrnari comes with 3 ENBs tweaked for the list's Setup:
 
 Info on them is in [Modified Gameplay.md](https://github.com/SovnSkyrim/Aldrnari/blob/main/Modified%20Gameplay.md) so I highly suggest reading it. (use control + F key combo to search for ENB).
 
-How to install them? Simple, in the **installation folder** there will be a folder named **ENBs**, in there the three ENBs are located. Simply **copy the contents of the folder named after the preset you want to use to the Stock Game Folder located in the installation folder**.checkcheck
+How to install them? Simple, in the **installation folder** there will be a folder named **ENBs**, in there the three ENBs are located. Simply **copy the contents of the folder named after the preset you want to use to the Stock Game Folder located in the installation folder**.
+
+If it prompts you to overwrite something, press yes.
 
 ## How to start up Aldrnari
 
