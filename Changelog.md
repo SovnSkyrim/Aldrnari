@@ -1,3 +1,24 @@
+## Beta - 0.3.1 | Making the list available again
+
+**Released at**: `29/08/2021`
+
+**Notes** : Not Savefile Compatible
+
+Added: 
+- A little tree mod WIP
+- XPMSSE Weapon Styles Uncloaked
+- MCM Helper
+
+- Regenerated TexGEN - DynDOLOD - Occlusion - Synthesis
+
+Updated:
+- .NET Script Framework
+
+Removed: 
+- Book of the Dead Trees 
+    - Original archive removed, may come back if a solution comes.
+
+
 ## Beta - 0.3.0 | Part 2 of the Weapons and Armors Update - Part 1 of Playerhomes Merge - Bugfixes
 
 **Released at**: `29/08/2021`
