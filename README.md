@@ -435,6 +435,16 @@ If you do not find someone, they're either from [Pride of Skyrim AIO](https://ww
 
 Any criticism on that is NOT welcome, and it is, in fact, the only aspect of the game I do not take ANY criticism from. Hearing complaints about this stuff gives me an instant headache. I cannot please everybody, so I decided to please myself.
 
+### I can't dodge! C is swapping shoulders/Making me run!
+
+Watch [this video](https://www.youtube.com/watch?v=ZzyHYVAzQ8E) to replicate the setup.
+
+If it still isn't working, check SmoothCam's MCM and your vanilla keybindings to check if something is conflicting. C is merely a placeholder and can be anything, same for < for the potions, it can be anything you wish.
+
+### Why is there death cloaks everywhere? Why is this item worth a literal half a billion? Is it normal to have so many enchanted items in the world?
+
+This is due to [Halgari's Unique Consistent RPG Loot by Luca](https://github.com/Synthesis-Collective/HalgarisConsistentRPGLoot), having game balance around it is hard and, since this is a beta, expect things to change in the future. In the meantime, just accept their presence as normal and intended.
+
 ### Creation Club (CC Content) Support?
 
 No, I don't like them.
