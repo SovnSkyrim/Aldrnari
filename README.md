@@ -494,7 +494,7 @@ Those are the easiest tweaks you can do.
 
 - _YOU_ for actually reading the readme. Thanks a ton!!
 - Halgari and everyone in the Wabbajack Team - Wabbajack is awesome and so are you for contributing to the project in the past or future.
-- Special thanks to certain of my friends in the Wabbajack Team, namely Lively, JTK, Xanza, Jdsmith, Tate Taylor, Dylan Perry, Total, Luca, TitansBane, JanuarySnow, Unnoen, Fantastigasmical Alice, Patchier, Tsukino, cacophony, Wartortle, KFC, Derryl, Unnoen and Crithion - My life wouldn't be the same if I didn't join Wabbajack; this project has been influenced in one way or another but each and everyone of you.
+- Special thanks to certain of my friends in the Wabbajack Team, namely Lively, JTK, Xanza, Jdsmith, Tate Taylor, Dylan Perry, Total, Luca, TitansBane, Unnoen, Fantastigasmical Alice, Patchier, Tsukino, cacophony, Wartortle, KFC, Derryl, Unnoen and Crithion - My life wouldn't be the same if I didn't join Wabbajack; this project has been influenced in one way or another but each and everyone of you.
 - Althro for the creation of the base and being a very resourceful person. None of my work would simply exist without you. 
 - KFC for all the mental support, help during development, and volunteering to help. 
 - Chri3i for all the help during development, you are and keep being, a never ending help which is loved.
