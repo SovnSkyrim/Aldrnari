@@ -47,7 +47,7 @@ Because yes, this list is heavily inspired by the Souls Games in the combat and 
 This list is made to be challenging, rewarding, and, eventually, you will become an overpowered Dragonborn who goes against terrible and fierce enemies. 
 It is deeply inspired by games like Dark Souls and Hellblade: Senua's Sacrifice, while having an artistic direction that comes close to screen-archery.
 
-If you have any questions regarding the list, you're free to ask in the [Wabbajack Discord](https://discord.gg/wabbajack) or [my own personal server](https://discord.gg/ZgjVrXp).
+If you have any questions regarding the list, you're free to ask in the [Official Wabbajack Discord](https://discord.gg/wabbajack).
 
 This project started as a collaboration between Althro and I on Tinvaak 2. Over time, however, we realised our end goals were different, and he gave permission for me to use the base that had been created. Aldrnari would not exist without Althro and the work he put into creating and patching Tinvaak 2. Go show him some love and play Tinvaak 2 when he releases it. [Permission proof](http://i.prntscr.com/NwKOu-apRU6DrMDb9R5eOw.png)
 
@@ -405,7 +405,7 @@ I have an ultra-wide, but it's just not worth the hassle of setting Skyrim up fo
 
 ### I have a question
 
-Ask it in my Discord, link [here](https://discord.gg/ZgjVrXp) or Wabbajack's Discord, [link here](https://discord.com/invite/wabbajack). But make sure you're using the right support channel and not a general channel!
+Ask it in Wabbajack's Discord, [link here](https://discord.com/invite/wabbajack). But make sure you're using the Aldrnari support channel and not a general channel!
 
 ### A face part is crashing me! | Some hair/facial hair clips!
 
@@ -431,7 +431,7 @@ I really do not care and won't take your opinion into account. I've scoured a lo
 
 If you wonder how they look, [here's a document which lists what overhauls who (for vanilla NPCs)](https://github.com/SovnSkyrim/QWEST/blob/main/NPC%20Merge%20Notes.md). 
 
-If you do not find someone, they're either from [Pride of Skyrim AIO](https://www.nexusmods.com/skyrimspecialedition/mods/48904) if a male, or [Courageous Women of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/50812) if female. If neither of those have an overhaul, it'll be from [High Poly NPC Overhaul - Skyrim Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/44155). 
+If you do not find someone, they're either from [Pride of Skyrim AIO](https://www.nexusmods.com/skyrimspecialedition/mods/48904) if a male, or [Courageous Women of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/50812) if female. If neither of those have an overhaul, it'll be from [Modpocalypse](https://www.nexusmods.com/skyrimspecialedition/mods/54422). 
 
 Any criticism on that is NOT welcome, and it is, in fact, the only aspect of the game I do not take ANY criticism from. Hearing complaints about this stuff gives me an instant headache. I cannot please everybody, so I decided to please myself.
 
@@ -455,25 +455,6 @@ Using them with Aldrnari would be like installing your own mods: Support is forf
 
 ### Why don't you wanna use Inigo/Legacy of the Dragonborn (LOTD)????? They're the best mods ever!!!!
 [Modified Gameplay.md](https://github.com/SovnSkyrim/Aldrnari/blob/main/Modified%20Gameplay.md) has the answer, use Ctrl+F in there. Refusing to hear my opinion and accept it is a warnable behavior in my Discord.
-
-### Some sounds are missing, for example weapon swings/footsteps
-
-This can happen on rare occassions if your game and modlist are not both installed on your C:/ Drive. To fix it, please follow the instructions below, this does not void support:
-
-1. First download and install Link Shell Extension which can be found here: http://schinagl.priv.at/nt/hardlinkshellext/linkshellextension.html.
-2. Navigate to your Skyrim/Data folder and look for a file named Skyrim - Sounds.bsa. Copy this file and paste it somewhere on your main drive.
-3. Delete Skyrim - Sounds.bsa from the Data folder.
-4. Go back to where you copied Skyrim - Sounds.bsa on your main drive. Right click on it and you should see an option that says "Pink Link Source". Click that.
-5. Go back to your Skyrim/Data folder. Right click anywhere and choose "Drop As" and then "Symbolic Link". You will see your sounds file with a shortcut symbol. You know it works when you do."
-6. Repeat this process for the file Skyrim - Voices_en0.bsa
-This would be enough for vanilla skyrim, but since this list uses a ton of different sound and audio mods, we are not quite done.
-
-In your Aldrnari MO2 instance, you will locate 2 seperators, one called "Audio", and one called "Music". You will need to repeat the process described above for every single mod in these two categories to make sure you have every single sound working properly. I know its tedious, but this is the only fix for this rather rare issue.
-
-However, instead of only taking the BSA files from each mod, i suggest taking the entire Mod folder, because it will help keep things organized.
-
-So, as an example:
-I made a folder called "Aldrnari Sound Fix" on my C:/ Drive. This folder now contains the two vanilla BSAs, plus every single Audio or Music mod. These are all sym linked back to the original mod folder. Im aware this is not optimal for people with seriously tiny C Drives, but its as good as it gets. For any questions regarding this specific issue, please @ Chanka on Sovns discord or the Wabbajack discord.
 
 ### Please give us more fps... / A more performance friendly profile??
 
@@ -512,8 +493,9 @@ Those are the easiest tweaks you can do.
 ## Credits and Thanks
 
 - _YOU_ for actually reading the readme. Thanks a ton!!
-- Halgari and everyone in the WJ Team - Wabbajack is awesome and so are you
-- Althro for the creation of the base, managing and curating the discord and being a very resourceful person. None of my work would simply exist without you. 
+- Halgari and everyone in the Wabbajack Team - Wabbajack is awesome and so are you for contributing to the project in the past or future.
+- Special thanks to certain of my friends in the Wabbajack Team, namely Lively, JTK, Xanza, Jdsmith, Tate Taylor, Dylan Perry, Total, Luca, TitansBane, JanuarySnow, Unnoen, Fantastigasmical Alice, Patchier, Tsukino, cacophony, Wartortle, KFC, Unnoen and Crithion - My life wouldn't be the same if I didn't join Wabbajack.
+- Althro for the creation of the base and being a very resourceful person. None of my work would simply exist without you. 
 - KFC for all the mental support, help during development, and volunteering to help. 
 - Chri3i for all the help during development, you are and keep being, a never ending help which is loved.
 - TheSpaniard and Chanka for all the support you're doing.
