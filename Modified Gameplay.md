@@ -267,13 +267,15 @@ A majority of people like him. I personally don't. On top of that, users reporte
 
 These are the new/upgraded player homes currently available in Aldrnari. This list will likely grow over time.
 
+- **[TNF Skyrim House Remodel](https://www.nexusmods.com/skyrimspecialedition/mods/39333)**
 - **[Dovahkiin's Vault](https://www.nexusmods.com/skyrimspecialedition/mods/42237)**
-- **[Simple Hearthfire Attics SSE](https://www.nexusmods.com/skyrimspecialedition/mods/37173)**
-- **[Breezehome Basement](https://www.nexusmods.com/skyrimspecialedition/mods/18958)**
 - **[Bob's Interdimensional Chambers](https://www.nexusmods.com/skyrimspecialedition/mods/47778)**
-- **[New HearthFires Mod](https://www.nexusmods.com/skyrim/mods/62144)**
 - **[Morskom Estate](https://www.nexusmods.com/skyrim/mods/57141)**
 - **[Shaman's Hut](https://www.nexusmods.com/skyrimspecialedition/mods/48134)**
+- **[Jk's Riverfall Cottage](https://www.nexusmods.com/skyrimspecialedition/mods/34542)**
+- **[Myrkheimr](https://www.nexusmods.com/skyrimspecialedition/mods/53816)**
+- **[Sicarius' Refuge](https://www.nexusmods.com/skyrimspecialedition/mods/46586)**
+- **[Tel Aschan](https://www.nexusmods.com/skyrimspecialedition/mods/47805)**
 
 
 And that's it for this document! Thanks for reading all the way down. I hope you will have a good time with Aldrnari!
