@@ -1,3 +1,26 @@
+## Beta - 0.3.3 | Bugfixes
+
+**Released at**: `03/09/2021`
+
+**Notes** : Not Savefile Compatible
+
+Added:
+- Take a Seat - New DAR Sitting Animations
+- The meshes for the signs on Playerhomes
+
+Updated:
+- VIGILANT SE - Voiced English Addon
+- Song of the Green: Auri 
+- .NET Script Framework
+- Smooth Magic Casting Animation
+- Dark Dreams 3BA Bodyslide
+- Synthesis/TexGEN/DynDOLOD/Occlusion Patchers
+
+Removed:
+- Halgari's Consistent RPG Loot 
+- Revisited Series Merge 
+- Cold Region Behavior's Effects in the UI (they're still active, just hidden)
+
 ## Beta - 0.3.1 | Making the list available again
 
 **Released at**: `29/08/2021`
