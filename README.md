@@ -379,6 +379,12 @@ Cycle through all the tabs
 Cycle through all the tabs
  - Load Preset again (now it will stick)
 
+#### Trade and Barter
+- Barter Rates
+  - Modify Barter Settings: Enabled
+    - Presets
+       - Difficult Preset
+
 #### VioLens
 - Load Preset
 
