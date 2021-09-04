@@ -252,6 +252,8 @@ MCMs are not automated due to a personal choice: There are many important tweaks
 
 Do NOT Select a **NON DRAGONBORN OPTION** within Skyrim Unbound! Doing so will result in broken questlines! You cannot escape your destiny!
 
+Do not press enter as you will be teleported into an area which will nullify all MCM's completed after it. Make sure you are still above Helgen whilst yuou are completing MCM's.
+
 #### Game Difficulty
 - The difficulty in this Modlist is quite harder (more info on that in [Modified Gameplay.md](https://github.com/SovnSkyrim/Aldrnari/blob/main/Modified%20Gameplay.md)) so I highly suggest not using Legendary. I personally play on Expert. Adept is also fine.
 
