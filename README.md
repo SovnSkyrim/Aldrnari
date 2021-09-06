@@ -494,6 +494,10 @@ I have 2 tips that voids you support as per Rule 11 of both Wabbajack and my Dis
 
 Those are the easiest tweaks you can do.
 
+### I want to support your work!
+
+I have a [Patreon](https://www.patreon.com/Sovn) but please, consider donating to [Wabbajack](https://www.patreon.com/user/overview?u=11907933) too!
+
 ## Credits and Thanks
 
 - _YOU_ for actually reading the readme. Thanks a ton!!
