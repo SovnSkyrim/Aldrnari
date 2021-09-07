@@ -409,7 +409,7 @@ Check under the "Generated FIles" Separator in the left panel of MO2 and tick [U
 
 ### Ultrawide Options
 
-I have an ultra-wide, but it's just not worth the hassle of setting Skyrim up for it, in my opinion. Moreover, the UI Mods that define the experience aren't available for widescreen users. Please use 1440p or 1080p regular resolutions with the list.
+I have an ultra-wide, but it's just not worth the hassle of setting Skyrim up for it, in my opinion. You can try using [this](https://www.nexusmods.com/skyrimspecialedition/mods/53909) but I will not offer any kind of support regarding HUD/UI problems to you.
 
 ### I have a question
 
