@@ -174,7 +174,7 @@ Those are the recommended ENBs, and the only ones I know that fit the Weather/Li
 - Dragon Bridge is overhauled by [Rodryk](https://www.nexusmods.com/skyrimspecialedition/mods/42510)
 - [Settlements Expanded](https://www.nexusmods.com/skyrimspecialedition/mods/7777) make sure even miners around small mines have houses.
 - Raven Rock isn't forgotten, we use [Quaint Raven Rock](https://www.nexusmods.com/skyrimspecialedition/mods/20851)
-- The College of Winterhold is now a hub of magic thanks to [Ultimate College of Winterhold](https://www.nexusmods.com/skyrimspecialedition/mods/44797).
+- The College of Winterhold is now a hub of magic thanks to [Obscure's College of Winterhold](https://www.nexusmods.com/skyrimspecialedition/mods/20514).
 - [Sepolcri](https://www.nexusmods.com/skyrimspecialedition/mods/34105) makes sure the cemeteries in Solitude, Riften, and Falkreath aren't lame.
 - [Viking Towns of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/17132) and [Lyngwi](https://www.nexusmods.com/skyrimspecialedition/mods/13526) are two mods adding Nordic-looking cities on top of everything that is above! 
 
@@ -225,7 +225,7 @@ This is made so you are not cluttered with 2000 free gear at level 1.
 - [Goldenglow is Yours](https://www.nexusmods.com/skyrimspecialedition/mods/25155) after you rob it but you will have [Requirements to enter the Thieves Guild](https://www.nexusmods.com/skyrimspecialedition/mods/33256)
 - We avoid Arthmoor's terrible Paarthurnax mod by instead using the fantastic [The Paarthurnax Resolution](https://www.nexusmods.com/skyrimspecialedition/mods/43766)
 - You can [save the Icerunner](https://www.nexusmods.com/skyrimspecialedition/mods/34681)
-- On top of [Ultimate College of Winterhold](https://www.nexusmods.com/skyrimspecialedition/mods/44797), that questline has also an [Improved admission test](https://www.nexusmods.com/skyrimspecialedition/mods/22184), [enemies in Labyrinthian incentivize mage gameplay](https://www.nexusmods.com/skyrimspecialedition/mods/44557) and there is [more tweaks from Obscure](https://www.nexusmods.com/skyrimspecialedition/mods/22653).
+- On top of [Obscure's College of Winterhold](https://www.nexusmods.com/skyrimspecialedition/mods/20514), that questline has also an [Improved admission test](https://www.nexusmods.com/skyrimspecialedition/mods/22184), [enemies in Labyrinthian incentivize mage gameplay](https://www.nexusmods.com/skyrimspecialedition/mods/44557) and there is [more tweaks from Obscure](https://www.nexusmods.com/skyrimspecialedition/mods/22653).
 - [You can avoid the entirety of the Forsworn conspiracy.](https://www.nexusmods.com/skyrimspecialedition/mods/43850)
 
 ### Gameplay - New Quests
