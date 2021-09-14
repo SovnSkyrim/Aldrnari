@@ -1,3 +1,152 @@
+# V1.0 | New Enemies, Playerhomes, Armors, Interiors, and Graphical strenghtening.
+
+**Released at**: `Unreleased`
+
+**Notes* : Not Savefile Compatible
+
+Added:
+- New Interiors Overhaul
+    - The JK's Interiors of EEK's Whiterun; Patches the following together (Distinct Interiors was removed from those cells)
+        - EEKs Whiterun Interiors SSE
+        - JK's Arcadia's Cauldron
+        - JK's Belethor's General Goods
+        - JK's The Bannered Mare
+        - JK's Warmaiden's
+    - The Distinct JK Interior Series; Patches the following with Distinct Interiors (Already in)
+        - JK's Arnleif and Sons Trading Company
+        - JK's The Bee and Barb
+        - JK's Bits and Pieces
+        - JK's Candlehearth Hall
+        - JK's The Drunken Huntsman
+        - JK's New Gnisis Cornerclub
+        - JK's The Pawned Prawn
+        - JK's Radiant Raiment
+        - JK's The Ragged Flagon and Opulent Thieves Guild
+        - JK's Sadris Used Wares
+        - JK's Silver-Blood Inn
+        - JK's Sleeping Giant Inn
+        - JK's The Temple of Mara
+        - JK's The Winking Skeever
+    - Jk's Mistveil Keep
+    - Jk's Dragonsreach
+    - Jk's Palace of the Kings
+    - JK's Elgrims Elixirs
+    - JK's Angeline's Aromatics
+    - JK's White Phial
+    - JK's The Hag's Cure
+- The Wizard Warrior - Spellsword Magic Combat Evolved
+    - Thanks to JanuarySnow, the mod is gated behind a perk in the Destruction Tree.
+- Skyrim Immersive Creatures Special Edition
+- MM - Air Atronach
+    - "MM" Stands for Mihail Monster - They're cleaned by Jdsmith2816 and come from the old list Elder Souls
+- MM - Ancient Nordic Sentinel
+- MM - Ancient Skeletons
+- MM - Arachnomorphs
+- MM - Ash Golem
+- MM - Barghests and Hell Hounds
+- MM - Batwing Demons
+- MM - Bone Colossus
+- MM - Capra Demon
+- MM - Coral Atronachs
+- MM - Corprus Victims
+- MM - Covetous Demon
+- MM - Crystal Golems
+- MM - Cyclopes
+- MM - Czarts
+- MM - Daedroths
+- MM - Draugr Cavalry
+- MM - Draugr Patrols
+- MM - Dwarven Colossus
+- MM - Dwarven Defenders
+- MM - Dwarven Driller
+- MM - Dwarven Magetta
+- MM - Dwarven Sentinels
+- MM - Elemental Triad
+- MM - Falmer Abyssraiders
+- MM - Flame Turmoils
+- MM - Flesh Golems
+- MM - Foglings
+- MM - Ghouls
+- MM - Giant Centipedes
+- MM - Giant Mantis
+- MM - Goblins
+- MM - Golden Saints
+- MM - Gravelords
+- MM - Guardian Spectres
+- MM - Hym
+- MM - Ice Titans
+- MM - Iron Atronach
+- MM - Iron Golem
+- MM - Liches
+- MM - Lords of Necromancy
+- MM - Mimics
+- MM - Necrophages
+- MM - Ogrim
+- MM - Rock Atronachs
+- MM - Rock Golems
+- MM - Rotten Maidens
+- MM - Sea Giants
+- MM - Shadow Atronachs
+- MM - Storm Golem
+- MM - Taurus Demon
+- MM - Thri-Kreen Warriors
+- MM - Undead Werewolves
+- MM - Vampire Beasts
+- MM - Vampire Lord Expansion
+- MM - Verminous Fabricants
+- MM - War Revenants
+- MM - Watchers
+- MM - Werebats
+- MM - Wraiths
+- MM - Zombie Dogs and Skinned Hounds
+- MM - Zombies
+- New Playerhomes
+    - Airship - Dev Aveza with Tissendel's Interior
+    - Identity Crisis
+    - The Tale of Tsatampra Xiros
+    - Providence and Pestilence
+    - Krovaxis
+    - Waking Nightmare
+    - Zulfardin
+    - Ebongrove
+    - Rolegur - An Atmoran Home
+    - Bluthanch - Tiny Dwemer Home 
+    - Ravenholm - Vampire House
+    - Viking's Longhouse
+    - Laboratorium
+- New Weapons and armors distributed in the World
+    - Hedge Mage Armor SSE
+    - CN's Elf Ear Earring Jewelry
+- New Weapons and armors obtainable through a specific crafting perk: 
+    - CN Accessories SE
+    - Wearable Horns - SE
+    - CRYSTAL ARMOR - CBBE 3BBB - BHUNP 3BBB
+    - zzjay's wardrobe
+    - Ash Pilgrim's Garments
+    - Toughened Traveler Outfit
+- Afterlife - Resurrected
+- Footprints
+- Skyrim's Paraglider
+- Skyrim Outfit System SE Revived
+- Great modders' SMP Hair pack and Xing
+- Beards of Power - 3D Real beards
+- Rudy HQ - More Lights for ENB Decal Fix
+- Consolidation of the graphic setup thanks to some feedback - Some mods were removed, some added
+- A note about Forgotten Spell Tomes locations... somewhere.
+
+Updated:
+- Too many mods, I forgot :(
+- Nilheim - Misc Quest Expansion
+- Gladys the Corgi
+- Lux 
+- Apothecary - An Alchemy Overhaul/Food and Drinks Addon 
+- Papyrus Extender 
+- Dwemer Pipework Reworked 
+
+MCM Automated:
+- Forgotten Magic Redone
+    - Thanks JanuarySnow!
+
 ## Beta - 0.3.3 | Bugfixes
 
 **Released at**: `03/09/2021`
