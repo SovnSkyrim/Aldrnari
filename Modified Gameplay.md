@@ -15,11 +15,6 @@ LotD also displays the lowest quality armor and weapons mods in my opinion (Look
 You're free from hoarding random items, and you have cool player homes with room for displaying what you want, not what LotD deemed worthy. [This is the kind of behavior I hope to avoid](https://cdn.discordapp.com/attachments/747132474647248917/855547604561297428/unknown.png)
 
 ## What the list is
-### Beta Goals
-
-Beta of Aldrnari is here to test most of the gameplay and quests and to see if it's playable and fun while also bug-hunting. A lot of stuff is planned, so sit tight if your favourite quest mod, player home, or armor isn't in. It may change in the future.
-Please do not ask for exact names of what is planned. Just be patient and excited for the future. It will be a long development process.
-
 ## Gameplay - Combat | Engarde
 
 The main combat overhaul of Aldrnari is **[Engarde](https://www.nexusmods.com/skyrimspecialedition/mods/25673) - "Fixing Skyrim's melee combat one tweak at a time"**.
@@ -57,6 +52,8 @@ Enemies will be drastically changed; I have made a very thorough merge of many p
 - [SkyTEST](https://www.nexusmods.com/skyrimspecialedition/mods/1104) for animals only so they are an actual threat passed level 5.
 - [Dragon War](https://www.nexusmods.com/skyrimspecialedition/mods/51310) and its Variants add-on are what brings diversity and difficulty to Dragons so every encounter is a new challenge.
 - My very own **Sovn's Enchanted Spheres - Porting Requiem Enemies to Vanilla Skyrim** to bring some actual bosses in Dwarven ruins.
+- A set of 30+ Mihail Mods, which adds new enemies that dot the landscape. You can find them in the modlist under "MM -".
+- [Skyrim Immersive Creatures](https://www.nexusmods.com/skyrimspecialedition/mods/12680) is now fixed, implementing a ton of new enemies which will obviously help a lot bringing diversity to the world!
 
 Those are only the most prominent overhauls present. The above list isn't exhaustive.
 
@@ -104,12 +101,12 @@ One of the deviations from main EnaiRim. Why? Because it allows both NPCs and th
 Standing Stones overhaul with some drawbacks. I really wanted something different from the usual Andromeda, so I gave Mundustar a chance, and so far it has yet to disappoint me.
 
 - **[Odin](https://www.nexusmods.com/skyrimspecialedition/mods/46000)** for vanilla spells.
-- **[Arcanum](https://www.nexusmods.com/skyrimspecialedition/mods/23488)** for added spells.
+- **[Arcanum](https://www.nexusmods.com/skyrimspecialedition/mods/23488)** and [Triumvirate](https://www.nexusmods.com/skyrimspecialedition/mods/39170) for added spells.
 - **[Forgotten Magic Redone](https://www.nexusmods.com/skyrimspecialedition/mods/12711)** for reward spells. (more info below)
 - **[Forceful Tongue](https://www.nexusmods.com/skyrimspecialedition/mods/36276)** for shouts.
 - **[Reliquary of Myth](https://www.nexusmods.com/skyrimspecialedition/mods/31612)** for artifact enchantments.
 
-I really wanted a certain spell that loots bodies around you from Odin, so it's how this one got chosen over Mysticism. Many have suggested Arcanum in my old list, so I'm giving it a chance here. Trust me, there's more than enough spells for any type of mage with this setup, so no need for Apocalypse or similar large package mods! Forgotten Magic Redone's tomes have been **handplaced throughout the world, quest mods included, so they're rewarded at completion of quests and key moments in the game**. Let's be honest, that mod's spells are absolutely OP, and they're supposed to be lost, so why would a merchant sell them in the Bannered Mare? **This is why the readme tells you to deactivate the drops in the MCM Configuration**. Mothing stops you from enabling them, but would it be fun otherwise? You can also ask me hints about their location, and I'll try to help.
+I really wanted a certain spell that loots bodies around you from Odin, so it's how this one got chosen over Mysticism. Many have suggested Arcanum in my old list, so I'm giving it a chance here. Trust me, there's more than enough spells for any type of mage with this setup, so no need for Apocalypse or similar large package mods! Forgotten Magic Redone's tomes have been **handplaced throughout the world, quest mods included, so they're rewarded at completion of quests and key moments in the game**. Let's be honest, that mod's spells are absolutely OP, and they're supposed to be lost, so why would a merchant sell them in the Bannered Mare? A notes with hints on where to get them lies on a bench where knowledge is gathered within Skyrim. Triumvirate just makes sense, due to some spells fitting the atmosphere.
 
 Forceful Tongue is used to overhaul Shouts as I've never really gotten into Thunderchild, so I wanted something I'd actually use. In the total opposite mindset, Reliquary of Myth is used because it simply is so much more fun than Zim's in my opinion.
 
@@ -177,6 +174,7 @@ Those are the recommended ENBs, and the only ones I know that fit the Weather/Li
 - The College of Winterhold is now a hub of magic thanks to [Obscure's College of Winterhold](https://www.nexusmods.com/skyrimspecialedition/mods/20514).
 - [Sepolcri](https://www.nexusmods.com/skyrimspecialedition/mods/34105) makes sure the cemeteries in Solitude, Riften, and Falkreath aren't lame.
 - [Viking Towns of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/17132) and [Lyngwi](https://www.nexusmods.com/skyrimspecialedition/mods/13526) are two mods adding Nordic-looking cities on top of everything that is above! 
+- Interiors are massively overhauled thanks to [jkrojmal](https://www.nexusmods.com/skyrimspecialedition/users/1305814?tab=user+files)'s Interior series, in combination with [Distinct Interiors](https://www.nexusmods.com/skyrimspecialedition/mods/6130) and [EEK's Whiterun Interiors](https://www.nexusmods.com/skyrimspecialedition/mods/10463); all working together thanks to [Czasior's Patches](https://www.nexusmods.com/skyrimspecialedition/users/9933289?tab=user+files)
 
 ### Visuals - Armors and Weapons
 
@@ -276,6 +274,17 @@ These are the new/upgraded player homes currently available in Aldrnari. This li
 - **[Myrkheimr](https://www.nexusmods.com/skyrimspecialedition/mods/53816)**
 - **[Sicarius' Refuge](https://www.nexusmods.com/skyrimspecialedition/mods/46586)**
 - **[Tel Aschan](https://www.nexusmods.com/skyrimspecialedition/mods/47805)**
-
+- **[Airship - Dev Aveza](https://www.nexusmods.com/skyrimspecialedition/mods/24587)** with **[Tissendel's Interior](https://www.nexusmods.com/skyrimspecialedition/mods/31103**
+- **[Identity Crisis](https://www.nexusmods.com/skyrimspecialedition/mods/39634)
+- **[The Tale of Tsatampra Xiros](https://www.nexusmods.com/skyrimspecialedition/mods/36707)
+- **[King of Worms | Queen of Dawn](https://www.nexusmods.com/skyrimspecialedition/mods/35779)**
+- **[Providence and Pestilence](https://www.nexusmods.com/skyrimspecialedition/mods/35237)**
+- **[Krovaxis](https://www.nexusmods.com/skyrimspecialedition/mods/34750)**
+- **[Waking Nightmare](https://www.nexusmods.com/skyrimspecialedition/mods/34329)**
+- **[Zulfardin](https://www.nexusmods.com/skyrimspecialedition/mods/33889)**
+- **[Laboratorium](https://www.nexusmods.com/skyrimspecialedition/mods/30515)**
+- **[Rolegur](https://www.nexusmods.com/skyrim/mods/101284)**
+- **[Bluthanch](https://www.nexusmods.com/skyrim/mods/59552)**
+- **[Ravenholm](https://www.nexusmods.com/skyrim/mods/65528)**
 
 And that's it for this document! Thanks for reading all the way down. I hope you will have a good time with Aldrnari!
