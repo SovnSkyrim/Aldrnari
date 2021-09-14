@@ -1,6 +1,6 @@
 # V1.0 | New Enemies, Playerhomes, Armors, Interiors, and Graphical strenghtening.
 
-**Released at**: `Unreleased`
+**Released at**: `15/09/2021`
 
 **Notes** : Not Savefile Compatible
 
