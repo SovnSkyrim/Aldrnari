@@ -78,7 +78,7 @@ Full PC Part Picker setup is [here](https://fr.pcpartpicker.com/list/ZHQQgt). I 
 
 TitansBane, author of [Elysium](https://github.com/TitansBane/Elysium) has stated this: "When using Zangdar's ENB, the one within Elysium that **doesn't fit the weather mod** used in this list, I had more FPS than with Elysium, reaching a steady 60 FPS with a 3080, unlike Elysium which would dip to 50FPS. The key here is that the **recommended ENBs**, suited for NLA, are even **heavier** resulting in dips at 45FPS at times, all of this at 1440p."
 
-No performance options are available for now as this is a Beta; however, this may change at some point. If your PC does not meet the specifications required for this list, my other list, [QWEST!](https://github.com/SovnSkyrim/QWEST), will probably work for you. It's made so that everyone can play it.
+No performance options are available for now. If your PC does not meet the specifications required for this list, my other list, [QWEST!](https://github.com/SovnSkyrim/QWEST), will probably work for you. It's made so that everyone can play it.
 
 Disclaimer: Any questions regarding the specs and performance of the list will be redirected to here if you're asking me. I cannot stress how much I will not change the performance of the list. It is primarily made for screen-archery with innovative gameplay. You are free to modify the list once you have it to fit your frames dream, but I will not support you in doing so.
 
@@ -305,13 +305,6 @@ Do not press enter as you will be teleported into an area which will nullify all
 - Settings
   - Load From File
 
-#### Forgotten Magic - **Important**
-- Settings
-    - Spellbooks Drop Chance: 0.0
-    - Jewelry Drop Chance: 0.1
-- The Tabs above Settings is where you'll level up your spells once you acquire them.
-- [You will acquire them despite the drop chance, do not worry!!](https://github.com/SovnSkyrim/Aldrnari/blob/main/Modified%20Gameplay.md#gameplay---main-overhauls--perks-races-standing-stones-magic-religion-and-alchemy)
-- 
 #### Heartbreaker (Optional) 
 - Main Settings
     - Learn Spell Power: Enabled
@@ -463,9 +456,7 @@ Using them with Aldrnari would be like installing your own mods: Support is forf
 
 ### Please give us more fps... / A more performance friendly profile??
 
-It's a beta, it's a WIP, and I can't please everyone by now, but I can give you some info.
-
-I have 2 tips that voids you support as per Rule 11 of both Wabbajack and my Discords.
+I have 2 tips one that voids support, one that doesnt:
 - Regenerate DynDOLOD with other settings, not High
      - Current DynDOLOD uses High and Ultra Trees, those are known to be FPS Heavy
 - Follow this set of instructions to put your ENB in a more performance mode:
@@ -493,7 +484,7 @@ I have 2 tips that voids you support as per Rule 11 of both Wabbajack and my Dis
      - [WATER]
 	- EnableTessellation=false
 
-Those are the easiest tweaks you can do.
+Those are the easiest tweaks you can do. Editing DynDOLOD voids support, editing the ENB does not.
 
 ### I want to support your work!
 
@@ -503,7 +494,7 @@ I have a [Patreon](https://www.patreon.com/Sovn) but please, consider donating t
 
 - _YOU_ for actually reading the readme. Thanks a ton!!
 - Halgari and everyone in the Wabbajack Team - Wabbajack is awesome and so are you for contributing to the project in the past or future.
-- Special thanks to certain of my friends in the Wabbajack Team, namely Lively, JTK, Xanza, Jdsmith, Tate Taylor, Dylan Perry, Total, Luca, TitansBane, Unnoen, Fantastigasmical Alice, Patchier, Tsukino, cacophony, Wartortle, KFC, Derryl, Unnoen and Crithion - My life wouldn't be the same if I didn't join Wabbajack; this project has been influenced in one way or another but each and everyone of you.
+- Special thanks to certain of my friends in the Wabbajack Team, namely Lively, JTK, Xanza, Jdsmith, Tate Taylor, Dylan Perry, Total, Luca, TitansBane, Unnoen, Fantastigasmical Alice, Patchier, Tsukino, cacophony, Wartortle, KFC, Derryl, JanuarySnow, and Crithion - My life wouldn't be the same if I didn't join Wabbajack; this project has been influenced in one way or another but each and everyone of you.
 - Althro for the creation of the base and being a very resourceful person. None of my work would simply exist without you. 
 - KFC for all the mental support, help during development, and volunteering to help. 
 - Chri3i for all the help during development, you are and keep being, a never ending help which is loved.
