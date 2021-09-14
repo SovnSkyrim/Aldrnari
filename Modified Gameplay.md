@@ -101,7 +101,7 @@ One of the deviations from main EnaiRim. Why? Because it allows both NPCs and th
 Standing Stones overhaul with some drawbacks. I really wanted something different from the usual Andromeda, so I gave Mundustar a chance, and so far it has yet to disappoint me.
 
 - **[Odin](https://www.nexusmods.com/skyrimspecialedition/mods/46000)** for vanilla spells.
-- **[Arcanum](https://www.nexusmods.com/skyrimspecialedition/mods/23488)** and [Triumvirate](https://www.nexusmods.com/skyrimspecialedition/mods/39170) for added spells.
+- **[Arcanum](https://www.nexusmods.com/skyrimspecialedition/mods/23488)** and **[Triumvirate](https://www.nexusmods.com/skyrimspecialedition/mods/39170)** for added spells.
 - **[Forgotten Magic Redone](https://www.nexusmods.com/skyrimspecialedition/mods/12711)** for reward spells. (more info below)
 - **[Forceful Tongue](https://www.nexusmods.com/skyrimspecialedition/mods/36276)** for shouts.
 - **[Reliquary of Myth](https://www.nexusmods.com/skyrimspecialedition/mods/31612)** for artifact enchantments.
