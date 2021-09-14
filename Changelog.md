@@ -2,7 +2,7 @@
 
 **Released at**: `Unreleased`
 
-**Notes* : Not Savefile Compatible
+**Notes** : Not Savefile Compatible
 
 Added:
 - New Interiors Overhaul
