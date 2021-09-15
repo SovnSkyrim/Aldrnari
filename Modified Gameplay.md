@@ -2,7 +2,7 @@
 
 ![Logo](https://i.imgur.com/qOPBy7D.png)
 
-Yes, with 1500+ Mods, the game has changed quite a lot. I will try to describe, in the most comprehensive manner, what exactly the list is and what goal it's trying to achieve.
+Yes, with 1700+ Mods, the game has changed quite a lot. I will try to describe, in the most comprehensive manner, what exactly the list is and what goal it's trying to achieve.
 I will start with what the list isn't.
 
 ## What the list isn't
