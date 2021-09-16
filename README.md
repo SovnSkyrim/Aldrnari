@@ -196,6 +196,12 @@ Wabbajack will not work with a pirated version of the game. If you own the game 
 
 ### Post-Installation
 
+## Stock Game
+
+Unlike regular Skyrim installation or some other Wabbajack Lists, Aldrnari comes with the **Stock Game Feature**, basically, it's a copy of a Skyrim installation located within your installation folder, cleaned and with everything but an ENB in it. It allows you to not worry about conflicting files with Vortex or other Wabbajack lists. Thus, after Wabbajack completes, you need not to move anything to your regular Skyrim Installation.
+
+There are more steps though, so please keep following the next steps to setup the game optimally.
+
 ## Pagefile in prevention of memory crashes
 
 Bigger Skyrim modlists need a lot of memory, and when there is not enough available it may fail allocating more. To fix this, you'll want to have a bigger pagefile.
