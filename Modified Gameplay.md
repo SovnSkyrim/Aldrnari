@@ -134,7 +134,7 @@ It was chosen over the usual Cathedral Weathers or Obsidian Weathers because I d
 
 I also tested a more dark fantasy feel with [Apex Somber](https://www.nexusmods.com/skyrimspecialedition/mods/41598) which gave an unique look.
 
-Before downloading anything, keep in mind all the ENBs have been manually tweaked by me to give an even better feeling than their base options. They are located under ``Installation Folder\ENBs``. Simply drag and drop the files to your Skyrim SE Folder, although I would suggest you read the following parts to get more information on which to choose.
+Before downloading anything, keep in mind all the ENBs have been manually tweaked by me to give an even better feeling than their base options. They are located under ``Installation Folder\ENBs``. Simply drag and drop the files to the **Stock Game Folder within the Installation folder** although I would suggest you read the following parts to get more information on which to choose.
 
 ENBs being the most impactful part of the list, textures were chosen to have a more realistic approach of Skyrim, especially weapons and armors (that got total overhauls instead of simple texture upscales). I tried to have the best texture, nifs, alpha etc.. for the item in question; almost everything that is smaller than your hand will be 1K, swords and armors are 2K, and architecture and elements larger than you are 4K. What makes the list heavy is mostly the added items in the worldpsace, not the choice of textures; it is also the high LODs used.
 
