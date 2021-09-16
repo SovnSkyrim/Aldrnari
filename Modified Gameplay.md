@@ -274,9 +274,9 @@ These are the new/upgraded player homes currently available in Aldrnari. This li
 - **[Myrkheimr](https://www.nexusmods.com/skyrimspecialedition/mods/53816)**
 - **[Sicarius' Refuge](https://www.nexusmods.com/skyrimspecialedition/mods/46586)**
 - **[Tel Aschan](https://www.nexusmods.com/skyrimspecialedition/mods/47805)**
-- **[Airship - Dev Aveza](https://www.nexusmods.com/skyrimspecialedition/mods/24587)** with **[Tissendel's Interior](https://www.nexusmods.com/skyrimspecialedition/mods/31103**
-- **[Identity Crisis](https://www.nexusmods.com/skyrimspecialedition/mods/39634)
-- **[The Tale of Tsatampra Xiros](https://www.nexusmods.com/skyrimspecialedition/mods/36707)
+- **[Airship - Dev Aveza](https://www.nexusmods.com/skyrimspecialedition/mods/24587)** with **[Tissendel's Interior](https://www.nexusmods.com/skyrimspecialedition/mods/31103]**
+- **[Identity Crisis](https://www.nexusmods.com/skyrimspecialedition/mods/39634)**
+- **[The Tale of Tsatampra Xiros](https://www.nexusmods.com/skyrimspecialedition/mods/36707)**
 - **[King of Worms | Queen of Dawn](https://www.nexusmods.com/skyrimspecialedition/mods/35779)**
 - **[Providence and Pestilence](https://www.nexusmods.com/skyrimspecialedition/mods/35237)**
 - **[Krovaxis](https://www.nexusmods.com/skyrimspecialedition/mods/34750)**
