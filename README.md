@@ -452,6 +452,14 @@ Watch [this video](https://www.youtube.com/watch?v=ZzyHYVAzQ8E) to replicate the
 
 If it still isn't working, check SmoothCam's MCM and your vanilla keybindings to check if something is conflicting. C is merely a placeholder and can be anything, same for < for the potions, it can be anything you wish.
 
+### New armors have different textures/invisible on my beast race character..
+
+New armors and most of the game is designed around humans and mers, not beast races. I cannot patch all armors so it'll remain that way.
+
+### Where are my Screenshots???
+
+Wabbajack **cannot** edit the Skyrim.ini to fill a new path for screenshots that make sense on your computer. FIll in a new path [in the Skyrim.ini](https://prnt.sc/1sk3z1m).
+
 ### Creation Club (CC Content) Support?
 
 No, I don't like them.
