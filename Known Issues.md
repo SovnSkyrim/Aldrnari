@@ -8,6 +8,7 @@
 - Character Invisibility: Caused by HDT Armors, fix unknown. 
 - Crash in Fellglow Keep: Caused by a Spell from MihailMods, being looked upon. - Solution: tgm/tcl and complete the quest.
 - Fellglow Keep missing Walls: Cause Unknown, looked upon.
+- Ravenscore Spire Landscape: Looked upon.
 - "Prophet" Quest not starting correctly / Isran not going to Serana / Serana not here. Fix: [Pinned in Support Discord](http://prntscr.com/1stoif9)
 - Silver Longsword Scabbard not having a texture, being looked upon.
 
