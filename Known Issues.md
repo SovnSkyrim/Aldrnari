@@ -3,7 +3,8 @@
 # Aldrnari Known Issues:
 
 - Random Crashes refering skeletons: Can't fix. It's animation related, the game renders an NPC in a weird position and crashes. [Example](https://pastebin.com/1rjAwJnp) - Fix: Avoid the location for a few hours and come back later.
-- Falkreath Jarl House trapping: Known and being looked upon. - Fix: Use coc to tp somewhere else (falkreathexterior01 to stay in Falkreath)
+- Falkreath Jarl House trapping: being looked upon. - Fix: Use coc to tp somewhere else (falkreathexterior01 to stay in Falkreath)
+- Crash in Dragonsreach: Forwarded to the Interior Patch Team (I'm part of it). Fix being worked on.
 - Character Invisibility: Caused by HDT Armors, fix unknown. 
 - Crash in Fellglow Keep: Caused by a Spell from MihailMods, being looked upon. - Solution: tgm/tcl and complete the quest.
 - Fellglow Keep missing Walls: Cause Unknown, looked upon.
