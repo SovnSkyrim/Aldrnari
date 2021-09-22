@@ -25,3 +25,4 @@
 - Animals not attacking
 - Very strong enemies everywhere
 - Some armors being invisible/vanilla looking depending on race
+- Gear unequipping when using favorited stuff
