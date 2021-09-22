@@ -2,15 +2,16 @@
 
 # Aldrnari Known Issues:
 
+### With Fix:
 - Random Crashes refering skeletons: Can't fix. It's animation related, the game renders an NPC in a weird position and crashes. [Example](https://pastebin.com/1rjAwJnp) - Fix: Avoid the location for a few hours and come back later.
-- Falkreath Jarl House trapping: being looked upon. - Fix: Use coc to tp somewhere else (falkreathexterior01 to stay in Falkreath)
-- Crash in Dragonsreach: Forwarded to the Interior Patch Team (I'm part of it). Fix being worked on.
-- Character Invisibility: Caused by HDT Armors, fix unknown. 
-- Crash in Fellglow Keep: Caused by a Spell from MihailMods, being looked upon. - Solution: tgm/tcl and complete the quest.
-- Fellglow Keep missing Walls: Cause Unknown, looked upon.
-- Ravenscore Spire Landscape: Looked upon.
 - "Prophet" Quest not starting correctly / Isran not going to Serana / Serana not here. Fix: [Pinned in Support Discord](http://prntscr.com/1stoif9)
-- Silver Longsword Scabbard not having a texture, being looked upon.
+
+### Without Fix:
+- Fellglow Keep missing Walls
+- Ravenscore Spire Landscape
+- Silver Longsword Scabbard not having a texture
+- NPC Vampire Lords and Werewolves are invisible
+- Character Invisibility: Caused by HDT Armors
 
 ### More Random Issues:
 - Slow loading times: Can't fix Skyrim Engine; It's a big list, get a faster drive.
