@@ -432,9 +432,6 @@ Some NPCs have a neck seam, that's known, I'm waiting for an update of [EasyNPC]
 - Claws get dagger perks
 - Whips get mace perks
 
-### What's up with my favourites??
-[Extended Hotkey System](https://www.nexusmods.com/skyrimspecialedition/mods/32225) changes the favourites, check the new keybinds on the [modpage](https://www.nexusmods.com/skyrimspecialedition/mods/32225)
-
 ### My character T-Poses!
 
 Cap your framerate, either with BethINI, SSE Display Tweaks, or ENB.
