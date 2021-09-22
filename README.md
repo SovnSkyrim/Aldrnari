@@ -403,6 +403,9 @@ Please Note: Do NOT change sex or race with showracemenu after first confirming 
 
 You can just remove the MO2 folder and be done with it. SKSE and ENB files will still be in your game folder so I recommend using [ENB and ReShade Manager](https://www.nexusmods.com/skyrimspecialedition/mods/4143) if you want to remove the ENB.
 
+### Gamepad Support?
+[Check this guide by Evanidus14](https://github.com/Evanidus14/Aldrnari-Gamepad-Setup)
+
 ### Nevernude for streaming/suspicious wife?
 
 Check under the "Generated FIles" Separator in the left panel of MO2 and tick [Underwear for NPCs](http://prntscr.com/1qpkyit), it'll dynamically add underwear to everyone as you loot them.
