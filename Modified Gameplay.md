@@ -105,10 +105,13 @@ Standing Stones overhaul with some drawbacks. I really wanted something differen
 - **[Forgotten Magic Redone](https://www.nexusmods.com/skyrimspecialedition/mods/12711)** for reward spells. (more info below)
 - **[Forceful Tongue](https://www.nexusmods.com/skyrimspecialedition/mods/36276)** for shouts.
 - **[Reliquary of Myth](https://www.nexusmods.com/skyrimspecialedition/mods/31612)** for artifact enchantments.
+- **[Challenging Spell Learning](https://www.nexusmods.com/skyrimspecialedition/mods/20521)** for spell learning.
 
 I really wanted a certain spell that loots bodies around you from Odin, so it's how this one got chosen over Mysticism. Many have suggested Arcanum in my old list, so I'm giving it a chance here. Trust me, there's more than enough spells for any type of mage with this setup, so no need for Apocalypse or similar large package mods! Forgotten Magic Redone's tomes have been **handplaced throughout the world, quest mods included, so they're rewarded at completion of quests and key moments in the game**. Let's be honest, that mod's spells are absolutely OP, and they're supposed to be lost, so why would a merchant sell them in the Bannered Mare? A notes with hints on where to get them lies on a bench where knowledge is gathered within Skyrim. Triumvirate just makes sense, due to some spells fitting the atmosphere.
 
 Forceful Tongue is used to overhaul Shouts as I've never really gotten into Thunderchild, so I wanted something I'd actually use. In the total opposite mindset, Reliquary of Myth is used because it simply is so much more fun than Zim's in my opinion.
+
+As for Challenging Spell Learning, that's because eating books sucks and is too simple. This mod will trigger a sort of "ritual" where your magicka will be drained for 10 seconds and if it doesn't reach zero, you learn the spell. The strength of the drain depend on the level of the spell, it's mana cost, and your enchantments. Failing the ritual gives you a temporary debuff.
 
 - **[Pilgrim](https://www.nexusmods.com/skyrimspecialedition/mods/54099)**
 
