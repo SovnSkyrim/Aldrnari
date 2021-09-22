@@ -1,3 +1,29 @@
+## V1.1 | Bugfixing
+
+**Released at**: `Unreleased`
+
+**Notes** : Not Savefile Compatible
+
+Added:
+- JK's Understone Keep
+- Extended Encounters and Pilgrim - Vigilants Hunt True Daedra Worshippers
+- Sensible Bribes - Based on Speechcraft Not Level
+- SIC - Clannfear - Durzog and Guar add-on SE
+- SIC - 4thUnknowns' Daedroths
+- Hawk Replacer- Mihail Monsters and Animals (MIHAIL SSE PORT)
+- Bone Hawk Replacer- Mihail Monsters and Animals (MIHAIL SSE PORT)
+- Crows- Mihail Monsters and Animals (MIHAIL SSE PORT)
+- HD Vigilant Project - Umaril
+- Classic Sprinting Redone (SKSE64)
+
+Fixed: Most Crashes
+
+Updated: What was necessary
+
+Removed:
+- Extended Hotkey System
+    - Originaly there for the Gamepad Guide, wasn't needed.
+
 # V1.0 | New Enemies, Playerhomes, Armors, Interiors, and Graphical strenghtening.
 
 **Released at**: `15/09/2021`
