@@ -18,3 +18,10 @@
 - Crashes when reloading a savefile: Known and unavoidable, if you're getting ganked and die a lot, go back there later.
 - Character Invincibility, unable to cast spells/powers: Cause Unknown - Potential Fix: selecting the player character in console and doing ``setghost 0``
 - DarkenD Crashes: Seems to be caused by BDS2.0 from the crashlog but I couldn't reproduce it.
+
+## Not Issues:
+- Skills not leveling up
+- Dying often
+- Animals not attacking
+- Very strong enemies everywhere
+- Some armors being invisible/vanilla looking depending on race
