@@ -30,3 +30,8 @@ Use the Speedtree original stuff (make it overwrite the modified one) if you nee
 
 ### Backup
 [Here's a backup of zEdit and Synthesis in case it breaks](https://drive.google.com/file/d/1bsO_UqR0pRi3u0hIyDLVKa9ZT3Mdl8n8/view?usp=sharing)
+
+### Weather
+I really want to use NAT3 for the list, but it's private when I write this. If it ever releases, just take out [all of those esps](http://prntscr.com/1t8wm68), get NAT3, and use [this esp](https://drive.google.com/file/d/1vtEziAs01UzKJVuSfWYZ6MSKmOKf8-hd/view?usp=sharing) to solve conflicts and put both at the end of the Load Order.
+
+(Please make sure my conflict solving esp isn't full of errors due to an update of NAT-ENB.esp)
