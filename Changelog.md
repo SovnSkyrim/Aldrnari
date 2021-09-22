@@ -1,6 +1,6 @@
 ## V1.1 | Bugfixing
 
-**Released at**: `Unreleased`
+**Released at**: `22/09/2021`
 
 **Notes** : Not Savefile Compatible
 
