@@ -5,7 +5,7 @@ Here are the final [MO2 merge profiles](https://drive.google.com/file/d/1xkICfEj
 
 - Enemy Merge: Do not touch it; it's a handpatched extremely modified, merge of known enemy overhauls.
   - how it was made: Taken all OP mods, forwarded was sounded the strongest, and consistency patched for SkyTEST/OBIS Keywords and SRCEO Perks
-  - If a mod from it breaks, try your hardest to take it out from the patches.
+  - If a mod from it breaks, try your hardest to take it out from the patches. It's not worth it updating it.
   - Resave in CK after Merging.
 - Mihail Merge: Do not touch it; Patches depend on it because it was thought to be a mod on it's own.
   - Check ALL Patches with "Mihail Merge" if remerging it. 
