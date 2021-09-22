@@ -5,15 +5,18 @@ Here are the final [MO2 merge profiles](https://drive.google.com/file/d/1xkICfEj
 
 - Enemy Merge: Do not touch it; it's a handpatched extremely modified, merge of known enemy overhauls.
   - how it was made: Taken all OP mods, forwarded was sounded the strongest, and consistency patched for SkyTEST/OBIS Keywords and SRCEO Perks
-  - If a mod from it breaks, try your hardest to take it out from the patches. It's not worth it updating it.
+  - If a mod from it breaks, try your hardest to take it out from the patches. It's not worth it updating mods in it.
   - Resave in CK after Merging.
 - Mihail Merge: Do not touch it; Patches depend on it because it was thought to be a mod on it's own.
+  - The esps are Jd's cleaned esps, they're supposed to work as is, doesn't matter if Mihail updated stuff.
   - Check ALL Patches with "Mihail Merge" if remerging it. 
   - Resave in CK after Merging.
 - Weapons and Armors: Can be easily modified but not updated as almost all ESPs have been edited.
   - Weapons: Either handplaced throughout the world or in OWL's LLs, make sure OWL wins all conflicts.
   - Armors: COBJs created and edited thoroughly, and the Outfit Master Patch has a lot of stuff as master.
   - Most COBJs either require a perk or a quest completion to be obtained.
+  - Not worth updating unless it's only mesh/texture edits
+  - in the same vein, Bodyslide is set at CBBE Athletic with as many Physics as possible.
   - Resave in CK after Merging. 
 - Playerhomes Merge: Can be easily modified but not updated as almost all ESPs have been edited.
   - If an ESP depends on "For Sale.esp", it has been modified.
