@@ -159,6 +159,8 @@ On top of those required files, there is a high chance that the mods in [this sp
 
 The download and installation process can take a very long time (10+hours) depending on your system specs. Wabbajack will calculate the amount of threads it will use at the start of the installation. To have the highest amount of threads and thus the fastest speed, it is advised to have the working folder on an SSD.
 
+#### The BSA creation is an extremely important step to avoid the list being over 500GB in size and gain performance. It will take over 10hours for some people and that is normal. Avoid closing Wabbajack during it. Complaining about it in support isn't going to make it faster so please avoid doing so.
+
 1. Open the Wabbajack.exe and select "Browse Modlists".
 2. Scroll until you find Aldrnari, you can make it easier using the filter at the top for Games, in it select Skyrim Special Edition.
 3. Create a folder for the List at the root of your drive (like the Wabbajack folder) called "Aldrnari".
@@ -170,6 +172,8 @@ The download and installation process can take a very long time (10+hours) depen
 9. Wait for Wabbajack to finish.
 
 This is the biggest list on Wabbajack at the time of writing this, so it is normal that it takes an incredibly long time the first time you install it, users have reported downloading and installing for more than 10h, without Wabbajack ever erroring, thus, it is highly recommended to leave it over-night.
+
+#### The BSA creation is an extremely important step to avoid the list being over 500GB in size and gain performance. It will take over 10hours for some people and that is normal. Avoid closing Wabbajack during it. Complaining about it in support isn't going to make it faster so please avoid doing so.
 
 
 ### Problems with Wabbajack
