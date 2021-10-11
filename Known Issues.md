@@ -5,6 +5,7 @@
 ### With Fix:
 - Random Crashes refering skeletons: Can't fix. It's animation related, the game renders an NPC in a weird position and crashes. [Example](https://pastebin.com/1rjAwJnp) - Fix: Avoid the location for a few hours and come back later.
 - "Prophet" Quest not starting correctly / Isran not going to Serana / Serana not here. Fix: [Pinned in Support Discord](http://prntscr.com/1stoif9)
+- "First Lessons" not working for Conjuration trial "Conjure a Flame Atronach". Fix : in the console; ``setstage MG01 30``                     èè
 
 ### Without Fix:
 - Fellglow Keep missing Walls
