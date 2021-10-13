@@ -49,7 +49,7 @@ It is deeply inspired by games like Dark Souls and Hellblade: Senua's Sacrifice,
 
 If you have any questions regarding the list, you're free to ask in the [Official Wabbajack Discord](https://discord.gg/wabbajack).
 
-This project started as a collaboration between Althro and I on Tinvaak 2. Over time, however, we realised our end goals were different, and he gave permission for me to use the base that had been created. Aldrnari would not exist without Althro and the work he put into creating and patching Tinvaak 2. Go show him some love and play Tinvaak 2 when he releases it. [Permission proof](http://i.prntscr.com/NwKOu-apRU6DrMDb9R5eOw.png)
+This project started as a collaboration between Althro and I on Tinvaak 2. Over time, however, we realised our end goals were different, and he gave permission for me to use the base that had been created. Aldrnari would not exist without Althro and the work he put into creating and patching Tinvaak 2. Go show him some love and play [Tinvaak 2](https://github.com/Althro/Tinvaak2) when he releases it. [Permission proof](http://i.prntscr.com/NwKOu-apRU6DrMDb9R5eOw.png)
 
 This list, alongside [QWEST!](https://www.wabbajack.org/#/modlists/info?machineURL=qwest), is part of ``Sovn's Modding Legacy on Wabbajack``. This means it has originally been developed by **[Sovn](https://github.com/SovnSkyrim)** but is not actively being developped by him. The development of the list is currently **halted**; the list's ability to be downloaded is maintained by **[cacophony](https://github.com/cacophony-wj)**, author of [Licentia](https://github.com/cacophony-wj/LeS). More information on Sovn's departure can be found [here](https://www.patreon.com/posts/56166905).
 
