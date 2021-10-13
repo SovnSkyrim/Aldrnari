@@ -51,7 +51,7 @@ If you have any questions regarding the list, you're free to ask in the [Officia
 
 This project started as a collaboration between Althro and I on Tinvaak 2. Over time, however, we realised our end goals were different, and he gave permission for me to use the base that had been created. Aldrnari would not exist without Althro and the work he put into creating and patching Tinvaak 2. Go show him some love and play Tinvaak 2 when he releases it. [Permission proof](http://i.prntscr.com/NwKOu-apRU6DrMDb9R5eOw.png)
 
-This list, alongside [QWEST!](https://www.wabbajack.org/#/modlists/info?machineURL=qwest) is part of ``Sovn's Modding Legacy on Wabbajack``. This means it has originally been developped by **Sovn** but is not actively being developped by him. The development of the list is currently **halted**; the list's ability to be downloaded is maintained by **cacophony**. More information on Sovn's departure can be found [here](https://www.patreon.com/posts/56166905).
+This list, alongside [QWEST!](https://www.wabbajack.org/#/modlists/info?machineURL=qwest), is part of ``Sovn's Modding Legacy on Wabbajack``. This means it has originally been developped by **Sovn** but is not actively being developped by him. The development of the list is currently **halted**; the list's ability to be downloaded is maintained by **cacophony**. More information on Sovn's departure can be found [here](https://www.patreon.com/posts/56166905).
 
 The art for the list was made by [Crithion/m.vlad](https://mvlad.design/), a fellow Modlist Developer (author of [Narsil](https://mvlad.design/narsil/), a VR list), and artist. I commissioned him and he did an amazing job!
 
