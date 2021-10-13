@@ -407,7 +407,7 @@ Please Note: Do NOT change sex or race with showracemenu after first confirming 
 
 ### Removing the Modlist
 
-You can just remove the MO2 folder and be done with it. SKSE and ENB files will still be in your game folder so I recommend using [ENB and ReShade Manager](https://www.nexusmods.com/skyrimspecialedition/mods/4143) if you want to remove the ENB.
+You can just remove the MO2 folder and be done with it. Aldrnari uses the Stock Game system, which copies a game installation within it's installation folder, thus, it is entirely self contained.
 
 ### Gamepad Support?
 [Check this guide by Evanidus14](https://github.com/Evanidus14/Aldrnari-Gamepad-Setup)
@@ -475,7 +475,7 @@ CC Content isn't considered like DLCs (Dawnguard/Dragonborn/Hearthfire) and will
 Using them with Aldrnari would be like installing your own mods: Support is forfeited and they will NOT work without patching.
 
 ### Why don't you wanna use Inigo/Legacy of the Dragonborn (LOTD)????? They're the best mods ever!!!!
-[Modified Gameplay.md](https://github.com/SovnSkyrim/Aldrnari/blob/main/Modified%20Gameplay.md) has the answer, use Ctrl+F in there. Refusing to hear my opinion and accept it is a warnable behavior in my Discord.
+[Modified Gameplay.md](https://github.com/SovnSkyrim/Aldrnari/blob/main/Modified%20Gameplay.md) has the answer, use Ctrl+F in there.
 
 ### Please give us more fps... / A more performance friendly profile??
 
