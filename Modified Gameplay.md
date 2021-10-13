@@ -8,11 +8,12 @@ I will start with what the list isn't.
 ## What the list isn't
 
 This is not a list for thieves, pickpockets, or assassins. Such archetypes and skill trees have been nerfed. Why? I simply don't enjoy such builds and it is to discourage you from playing these types of builds. [RAID](https://www.nexusmods.com/skyrimspecialedition/mods/2345) is set to high on both interiors and exteriors; furthermore, no additional tools for assassins are added, unlike QWEST! which has Sneak Tools.
-The combat, magic and gameplay overhauls are chosen for warriors, paladins, mages, and wizards.
+The quest mods, combat, magic and gameplay overhauls are chosen for warriors, paladins, mages, and wizards.
 
 This is not a list for Legacy of the Dragonborn (LotD) and item hoarders. LotD is not in simply because I do not like how it forces you to become an item hoarder. I made QWEST! for the ultimate LotD experience, and now I'm making the complete opposite. 
-LotD also displays the lowest quality armor and weapons mods in my opinion (Looking at you, Immersive Armors and Immersive Weapons). At the time you're reading this, Aldrnari may have way less unique items, but that is bound to change.
+LotD also displays the lowest quality armor and weapons mods in my opinion (Looking at you, Immersive Armors and Immersive Weapons). To compensate that lack, I've handplaced hundreds of items throughout the world such as spell tomes, weapons or gave unique NPCs unique gear like in From Software's games.
 You're free from hoarding random items, and you have cool player homes with room for displaying what you want, not what LotD deemed worthy. [This is the kind of behavior I hope to avoid](https://cdn.discordapp.com/attachments/747132474647248917/855547604561297428/unknown.png)
+Even the [Dev Aveza](https://www.nexusmods.com/skyrimspecialedition/mods/24587), my favourite part of LotD, is in, without being held back.
 
 ## What the list is
 ## Gameplay - Combat | Engarde
