@@ -252,7 +252,7 @@ Gotta have quest mods if there is no Legacy of the Dragonborn, right?
 
 ## Gameplay - New NPC Encounters and Followers
 
-- **[Extended Encounters](https://www.nexusmods.com/skyrimspecialedition/mods/44810)** and [Immersive World Encounters](https://www.nexusmods.com/skyrimspecialedition/mods/18330) will bring enough diversity to the game so something is always happening in Skyrim.
+- **[Extended Encounters](https://www.nexusmods.com/skyrimspecialedition/mods/44810)** and **[Immersive World Encounters](https://www.nexusmods.com/skyrimspecialedition/mods/18330)** will bring enough diversity to the game so something is always happening in Skyrim.
 - **[Inconsequential NPCs](https://www.nexusmods.com/skyrim/mods/36334)** adds new NPCs and scenes to Skyrim to enhance the ambiance. These NPCs are, as the name says, inconsequential. They are meant to blend in the background but they are unique and fully voiced and are intended to fill the gaps in various social environments of Skyrim.
 - **[Citizens of Tamriel](https://www.nexusmods.com/skyrimspecialedition/mods/29069)** places unique NPCs with varied stories but everything is questless. Have a chat in a tavern or while adventuring, take five minutes to listen to some nifty backstories and world building.
 - **[Lucien](https://www.nexusmods.com/skyrimspecialedition/mods/20035)** is a fully voiced Imperial follower with around 3000 lines of immersive, lore-friendly dialogue. Though he arrives in Skyrim as a cowardly scholar, he'll gradually gain strength and confidence by your side until he grows into a hero in his own right.
