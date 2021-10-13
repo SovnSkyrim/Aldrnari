@@ -59,9 +59,9 @@ The art for the list was made by [Crithion/m.vlad](https://mvlad.design/), a fel
 
 ### READING THIS README IN ITS ENTIRETY IS REQUIRED FOR THE LIST TO WORK. IT WILL NOT WORK IF YOU DON'T READ. THIS ISN'T ROCKET SCIENCE SO BE PATIENT AND READ CAREFULLY. THE README DOESN'T END AT "HOW TO START UP THE LIST". 
 ### I am going to answer "readme" to any question answered in this document - you have been warned. 
-### THIS LIST MASSIVELY CHANGES THE GAME, IT HAS BEEN TAILORED IN A CERTAIN WAY THAT YOU WOULDNT HAVE THE SAME EXPERIENCE IF YOU MODDED THE GAME YOURSELF WITH THE SAME MODS; THUS, DO NOT REPORT ANY BUG/ERROR/ISSUE/PROBLEM TO MOD AUTHORS BUT ONLY TO ME THROUGH WABBAJACK'S OR MY DISCORD and please follow the MCM Setup to the letter.
+### THIS LIST MASSIVELY CHANGES THE GAME, IT HAS BEEN TAILORED IN A CERTAIN WAY THAT YOU WOULDNT HAVE THE SAME EXPERIENCE IF YOU MODDED THE GAME YOURSELF WITH THE SAME MODS; THUS, DO NOT REPORT ANY BUG/ERROR/ISSUE/PROBLEM TO MOD AUTHORS BUT ONLY TO ME THROUGH WABBAJACK'S DISCORD.
 
-**Any changes that is not written in this readme breaks the rules of the Discord servers you're expected to join when seeking support for the list.**
+**Any changes that is not written in this readme breaks the rules of the Wabbajack Discord you're expected to join when seeking support for the list, thus avoid such behaviors and help will be provided.**
 
 
 # Noteworthy Mods and what gameplay to expect.
