@@ -260,6 +260,7 @@ Gotta have quest mods if there is no Legacy of the Dragonborn, right?
 - **[Hoth](https://www.nexusmods.com/skyrimspecialedition/mods/16137)** is a fully voiced nord bounty hunter living in Morthal's Tavern. A ruthless two-handed companion who has many one-of-a-kind features, such as being a quest giver for infinite bounty hunt contracts. 
 - **[Livia Salvian](https://www.nexusmods.com/skyrimspecialedition/mods/33318)** is a fully voiced imperial legionnaire taking a break from her duties in Dragonsreach. Perfect companion for paladins, she wants to protect what she holds dear and be a hero to her people.
 - **[Gladys the Corgi](https://www.nexusmods.com/skyrimspecialedition/mods/50164)** is a custom Corgi follower that you can buy at the Solitude Docks. It has unique functionality like looting from the environment as well as the ability to play fetch!
+- **[Merlin the Corgi](https://www.nexusmods.com/skyrimspecialedition/mods/56433)** is a custom Corgi follower that is combat oriented! Travel to the Summoning Circle just north of Morthal to meet your new friend.
 
 ### Inigo...?
 A majority of people like him. I personally don't. On top of that, users reported non-issues from other Wabbajack lists to his Nexus page which led them to make a public pinned post about their [non-favorable stance with what we do](http://prntscr.com/1b2tt18). He needs tweaks, he is too strong and unbalanced, all followers above have been tweaked, since I am not allowed to do so by the Mod Author, I will not include him. This decision is final.
