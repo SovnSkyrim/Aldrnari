@@ -1,6 +1,6 @@
 ## V1.2 | 'till it's over.
 
-**Released at**: `Unreleased`
+**Released at**: `23/10/2021`
 
 **Notes** : Not Savefile Compatible
 
