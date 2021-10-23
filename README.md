@@ -96,6 +96,10 @@ These steps are only needed if you install the Modlist for the first time. If yo
 
 I doubt you need to do this since you likely already have this installed. This package is required for MO2 and you can download it from [Microsoft](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads). Download the x64 version under "Visual Studio 2015, 2017 and 2019". [Direct link](https://aka.ms/vs/16/release/vc_redist.x64.exe) if you can't find it.
 
+#### Installing Microsoft .NET 5.0
+
+Please ensure you have .NET v5.0 installed. Download the desktop app installer from Microsoft here https://dotnet.microsoft.com/download/dotnet/5.0/runtime.
+
 #### Steam Library
 
 If you have your Steam library in Program Files, read [this](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide) to put it somewhere else.
