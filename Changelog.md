@@ -1,3 +1,98 @@
+## V1.2 | 'till it's over.
+
+**Released at**: `Unreleased`
+
+**Notes** : Not Savefile Compatible
+
+Added:
+- Merlin the Corgi - A Magical Dog Follower Mod
+- Ilieh - Cry of the Damned
+- College Prestige Mage Outfit SE
+- JK's Riverwood Trader
+- The Distinct JK's Riverwood Trader (Patch)
+- JK's Temple of Dibella
+- The Distinct JK's Temple of Dibella (patch)
+- JK's Temple of Kynareth
+- Temple Antique Statues for JK's Temple of Kynareth
+- Vitrium - Spells and Tools Pack
+- The Forgotten City - Delayed Start
+- Frozen Electrocuted Combustion
+- Store Entrance Doorbells
+- Bloodskal Blade - Tweaks and Enhancements
+- Picta Series - ENB Particle Light
+- ENB Lights For Effect Shaders
+- Rudification - Rudy Candles Expanded
+- Quest Journal Limit Bug Fixer - Recover Disappeared Quests
+- A Matter Of Time - Settings Loader for New Game
+- Nether's Follower Framework - Settings Loader
+- VioLens - A Killmove Mod SE - Settings Loader
+- moreHUD SE - Settings Loader
+- Immersive World Encounters AddOn - High Poly Uniques
+- First Person Combat Animations Overhaul 2.0 -SIZE MATTERS
+- Dragons Fall Down - Immersive Airborne Death
+- Dragon Ragdoll Sounds
+- VIGILANT SE - DeadPile Flesh re-texture
+- VIGILANT SE - CBBE (3BA) Bodyslide
+- UNSLAAD SE - CBBE (3BA) Bodyslide
+- CoMAP - Common Marker Addon Project
+- Cities of the North - Dawnstar - Unique Door Design
+- Cities of the North - Map Marker Addons
+- Static Mesh Improvement Mod Improvement Mod
+- Fluffworks (Fluffy Animals)
+- AnimTentacles4GlowingMushroom
+- 3D Riften Trellis and Roofs
+- Water in Wells - mesh-only animated wells
+- Animated Embers
+- SkyUI - Ghost Item Bug Fix
+
+Swapped:
+- Better Dynamic Snow for Simplicity of Snow
+- BURP Spell Tomes is now a visual only overhaul; no realignment.
+- JS Dragon Claws for JS Dragon Claws AE Anniversary Edition
+- Modpocalypse's overhauls instead of High Poly NPCs
+
+Fixes: 
+- Beast Races Crashes.
+- "First Lessons" Atronachs not progressing the quest.
+- VIGILANT Npcs not having a voice. 
+
+Updated:
+- Lux
+- Lanterns of Skyrim II
+- DynDOLOD
+- Sidequests of Skyrim
+- Palladium Racials
+- SPID 
+- Strange Runes
+- powerofthree's Papyrus Extender
+- True Directional Movement - Modernized Third Person Gameplay
+- True Directional Movement Boss Ini Tweaks
+- Ice skating fixed for real - No more attack sliding movement
+- I'm Glad You're Here
+- Water for ENB
+- Serana Dialogue Add-On
+- Immersive World Encounters. FINAL SE
+- A little tree mod
+- Dragon War - A Dragon Overhaul
+- JK's Understone Keep
+- JK's The Bee and Barb
+- JK's Mistveil Keep
+- The Distinct JK's Bee and Barb (Patch)
+- Conditional Expressions
+- All of Janquel's Patch Collections
+- Skyland - Riften/Solitude 
+- Oblivion Interaction Icons
+- Interesting Beasts and Beards to Find Them - Beast Race Replacer for Interesting Npcs (3dNPCs)
+- Scrambled Bugs
+- Nyghtfall - Epic Immersive Fantasy Music
+- SPID for Footprints
+- Footprints Sand patch
+- Sanguine - Enhanced Blood Retexture SE
+- Vigilant Armors and Weapons Retexture SE
+- Carriage and Ferry Travel Overhaul - Fixes and Winterhold
+- OnHit Animations Framework - SSE
+
+
 ## V1.1 | Bugfixing
 
 **Released at**: `22/09/2021`
