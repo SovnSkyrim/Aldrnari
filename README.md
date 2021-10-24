@@ -274,11 +274,6 @@ Do not press enter as you will be teleported into an area which will nullify all
 #### Game Difficulty
 - The difficulty in this Modlist is quite harder (more info on that in [Modified Gameplay.md](https://github.com/SovnSkyrim/Aldrnari/blob/main/Modified%20Gameplay.md)) so I highly suggest not using Legendary. I personally play on Expert. Adept is also fine.
 
-#### A Matter of Time
-
-- Presets :
-  - Load User Settings
-
 #### All Geared up Derivative
 - Weapons - Player
     - Shield Stay on arm while Equipped: Enable
@@ -314,21 +309,12 @@ Do not press enter as you will be teleported into an area which will nullify all
     - Defensive Actions
         - Modifier is by default Shift
         - Swap stuff around depending on what you want, leave as default if you're new to Engarde. Keep in mind off-hand action requires shift to be pressed
-        - Defensive Action key: C
-
-#### Follower Framework
-- System :
-- Settings
-  - Load From File
+        - Defensive Action key: C 
 
 #### Heartbreaker (Optional) 
 - Main Settings
     - Learn Spell Power: Enabled
     - It gives you a power to put npcs in stagger once per IRL hour so you can rip out their hearts; you can also bind it so you can do it anytime.
-
-#### MoreHUD:
-- Presets
-    - Load User Settings?: GO
 
 #### OBIS - Bandits
 - Leave as is
@@ -396,9 +382,6 @@ Cycle through all the tabs
   - Modify Barter Settings: Enabled
     - Presets
        - Difficult Preset
-
-#### VioLens
-- Load Preset
 
 # How to start playing
 
