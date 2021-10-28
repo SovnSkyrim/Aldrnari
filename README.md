@@ -80,6 +80,8 @@ Full PC Part Picker setup is [here](https://fr.pcpartpicker.com/list/ZHQQgt). I 
 
 TitansBane, author of [Elysium](https://github.com/TitansBane/Elysium) has stated this: "When using Zangdar's ENB, the one within Elysium that **doesn't fit the weather mod** used in this list, I had more FPS than with Elysium, reaching a steady 60 FPS with a 3080, unlike Elysium which would dip to 50FPS. The key here is that the **recommended ENBs**, suited for NLA, are even **heavier** resulting in dips at 45FPS at times, all of this at 1440p."
 
+If you want to join the community discord; click [here](https://discord.gg/Hg7HgzuZ)!
+
 No performance options are available for now. If your PC does not meet the specifications required for this list, my other list, [QWEST!](https://github.com/SovnSkyrim/QWEST), will probably work for you. It's made so that everyone can play it.
 
 Disclaimer: Any questions regarding the specs and performance of the list will be redirected to here if you're asking me. I cannot stress how much I will not change the performance of the list. It is primarily made for screen-archery with innovative gameplay. You are free to modify the list once you have it to fit your frames dream, but I will not support you in doing so.
