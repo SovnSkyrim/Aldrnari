@@ -292,4 +292,4 @@ These are the new/upgraded player homes currently available in Aldrnari. This li
 - **[Bluthanch](https://www.nexusmods.com/skyrim/mods/59552)**
 - **[Ravenholm](https://www.nexusmods.com/skyrim/mods/65528)**
 
-And that's it for this document! Thanks for reading all the way down. I hope you will have a good time with Aldrnari!
+And that's it for this document! Thanks for reading all the way down. I hope you will have a good time with Aldrnari! If you wanna join the community discord; click [here](https://discord.gg/Hg7HgzuZ)!
