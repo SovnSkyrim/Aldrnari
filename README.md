@@ -98,7 +98,9 @@ I doubt you need to do this since you likely already have this installed. This p
 
 #### Installing Microsoft .NET 5.0
 
-Please ensure you have .NET v5.0 installed. Download the desktop app installer from Microsoft here https://dotnet.microsoft.com/download/dotnet/5.0/runtime.
+Please ensure you have .NET v5.0 installed. Download the **desktop app installer and console app x64** from Microsoft here https://dotnet.microsoft.com/download/dotnet/5.0/runtime.
+
+## FAILING TO INSTALL MICROSOFT VISUAL C++ AND MICROSOFT .NET 5.0 WILL RESULT IN CTDS WHEN LAUNCHING THE GAME. PLEASE INSTALL THEM.
 
 #### Steam Library
 
