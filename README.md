@@ -396,6 +396,9 @@ Please Note: Do NOT change sex or race with showracemenu after first confirming 
 
 ## FAQ
 
+### Community Discord?
+If you want to join the community discord; click [here](https://discord.gg/Hg7HgzuZ)!
+
 ### Removing the Modlist
 
 You can just remove the MO2 folder and be done with it. Aldrnari uses the Stock Game system, which copies a game installation within it's installation folder, thus, it is entirely self contained.
