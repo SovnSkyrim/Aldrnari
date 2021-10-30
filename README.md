@@ -396,6 +396,10 @@ Please Note: Do NOT change sex or race with showracemenu after first confirming 
 
 ## FAQ
 
+### A word on transformation based builds
+
+Vampire lords and werewolves are currently being investigated due to a large amount of bug reports, so unless you want to actively help the development by submitting detailled bug reports, I strongly advise against running such builds. (Liches are fine though)
+
 ### Community Discord?
 If you want to join the community discord; click [here](https://discord.gg/Hg7HgzuZ)!
 
