@@ -8,6 +8,7 @@
 - Inability to jump: Caused by Convenient Horses overwritten jump for it's "quick get out of horse" command. Simply ride your horse back and dismount normally.
 
 ### Without Fix:
+- Transformation Based Builds are crashing
 - Fellglow Keep missing Walls
 - Ravenscore Spire Landscape
 - Silver Longsword Scabbard not having a texture
