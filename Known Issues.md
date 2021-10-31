@@ -15,6 +15,7 @@
 - NPC Vampire Lords and Werewolves are invisible
 - Character Invisibility: Caused by HDT Armors
 - NPC pathfinding issues in the entrance of Whiterun
+- Reach Trees are invisible
 
 ### More Random Issues:
 - Slow loading times: Can't fix Skyrim Engine; It's a big list, get a faster drive.
