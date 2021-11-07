@@ -320,6 +320,10 @@ Do not press enter as you will be teleported into an area which will nullify all
     - Learn Spell Power: Enabled
     - It gives you a power to put npcs in stagger once per IRL hour so you can rip out their hearts; you can also bind it so you can do it anytime.
 
+#### MoreHUD:
+- Presets
+    - Load User Settings?: GO
+
 #### OBIS - Bandits
 - Leave as is
     - Why? Enabling in the MCMs is only for the additional spawns option, but that is not the aim of the encounter mods chosen in Aldrnari. I'm buffing everyone instead of giving you hordes of enemies.
