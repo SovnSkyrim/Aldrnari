@@ -47,11 +47,13 @@ Because yes, this list is heavily inspired by the Souls Games in the combat and 
 This list is made to be challenging, rewarding, and, eventually, you will become an overpowered Dragonborn who goes against terrible and fierce enemies. 
 It is deeply inspired by games like Dark Souls and Hellblade: Senua's Sacrifice, while having an artistic direction that comes close to screen-archery.
 
-If you have any questions regarding the list, you're free to ask in the [Official Wabbajack Discord](https://discord.gg/wabbajack).
+### Remarks
 
-This project started as a collaboration between Althro and I on Tinvaak 2. Over time, however, we realised our end goals were different, and he gave permission for me to use the base that had been created. Aldrnari would not exist without Althro and the work he put into creating and patching Tinvaak 2. Go show him some love and play [Tinvaak 2](https://github.com/Althro/Tinvaak2) when he releases it. [Permission proof](http://i.prntscr.com/NwKOu-apRU6DrMDb9R5eOw.png)
+If you have any questions regarding the list, feel free to ask in the [Official Wabbajack Discord](https://discord.gg/wabbajack) or on the [Elysium and Aldrnari Community Discord](https://discord.gg/FAfPb9T).
 
-This list, alongside [QWEST!](https://www.wabbajack.org/#/modlists/info?machineURL=qwest), is part of ``Sovn's Modding Legacy on Wabbajack``. This means it has originally been developed by **[Sovn](https://github.com/SovnSkyrim)** but is not actively being developped by him. The development of the list is currently **halted**; the list's ability to be downloaded is maintained by **[Sovn](https://github.com/SovnSkyrim)** when he has time.
+This project started as a collaboration between Althro and I on Tinvaak 2. Over time, however, we realised our end goals were different, and he gave permission for me to use the base that had been created. Aldrnari would not exist without Althro and the work he put into creating and patching Tinvaak 2. Go show him some love and play [Tinvaak 2](https://github.com/Althro/Tinvaak2). [Permission proof](http://i.prntscr.com/NwKOu-apRU6DrMDb9R5eOw.png)
+
+Due to being in programming studies, I (Sovn) will be updating the list less than some more active list developpers, but this list isn't going to die soon.
 
 The art for the list was made by [Crithion/m.vlad](https://mvlad.design/), a fellow Modlist Developer (author of [Narsil](https://mvlad.design/narsil/), a VR list), and artist. I commissioned him and he did an amazing job!
 
@@ -94,11 +96,11 @@ Aldrnari is a big list, but it is in a constant evolution. Check the Wabbajack U
 
 These steps are only needed if you install the Modlist for the first time. If you are updating the Modlist, jump straight to [Updating](#updating).
 
-#### Installing Microsoft Visual C++ Redistributable Package | THIS DOES NOT COME WITH WINDOWS
+#### Installing Microsoft Visual C++ Redistributable Package - You do not have this on your computer natively!
 
 I doubt you need to do this since you likely already have this installed. This package is required for MO2 and you can download it from [Microsoft](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads). Download the x64 version under "Visual Studio 2015, 2017 and 2019". [Direct link](https://aka.ms/vs/16/release/vc_redist.x64.exe) if you can't find it.
 
-#### Installing Microsoft .NET 5.0
+#### Installing Microsoft .NET 5.0 - You do not have this on your computer natively!
 
 Please ensure you have .NET v5.0 installed. Download the **desktop app installer and console app x64** from Microsoft here https://dotnet.microsoft.com/download/dotnet/5.0/runtime.
 
@@ -405,7 +407,7 @@ Please Note: Do NOT change sex or race with showracemenu after first confirming 
 Vampire lords and werewolves are currently being investigated due to a large amount of bug reports, so unless you want to actively help the development by submitting detailled bug reports, I strongly advise against running such builds. (Liches are fine though)
 
 ### Community Discord?
-If you want to join the community discord; click [here](https://discord.gg/Hg7HgzuZ)!
+If you want to join the community discord; click [here](https://discord.gg/FAfPb9T)!
 
 ### Removing the Modlist
 
