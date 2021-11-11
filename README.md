@@ -145,6 +145,12 @@ After you have done everything above and got a clean SSE installation ready, sta
 
 Start the game and exit once you're in the main menu.
 
+## Anniversary Edition (AE) workaround
+
+This list isn't made for the Anniversary Edition of Skyrim released on the 11th November 2021, use this [tool](https://www.nexusmods.com/skyrimspecialedition/mods/57618?tab=description) to downgrade your local files to the last Skyrim Special Edition version the list has been made for.
+
+After Wabbajack has been completed, you can safely verify your files within Steam to get back the good files for any list using AE, you only need the downgraded files for the installation.
+
 ### Using Wabbajack
 
 ## Preparations
