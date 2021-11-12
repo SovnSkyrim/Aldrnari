@@ -161,7 +161,7 @@ Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-to
 
 Wabbajack will not work with Windows 7, I will not offer any kind of support for users of that operating system.
 
-You will also need those files that tend to not download themselves; so I'd recommend you download them manually, and simply drop them in your WJ downloads folder. This is the folder you set in the next step when starting the install. Do NOT unzip the files, just download the zip, and drop it in the folder as is. WJ will then realize the files are present and move on with the rest of the download.
+The following files are **NOT** going to download themselves through Wabbajack. Yes I know, it's annoying, but there is nothing I can do for now about it. So since taking down the list would be even worse, ensure that those are downloaded somewhere; the next step is the creation of the folders for Wabbajack to function, and you will place those files in the "Downloads" Folder you will create.
  
 - https://mega.nz/file/xUc0zRLY#NYwbmmHOZhpSF2hpV7hMRYejgZsL_MAIVv_DfjK9JRM - Elwaps Speedtree
 - https://mega.nz/#!x0QWjKKL!B9xkI29Dg0YoBPAo1fyXa_PxtBoma_f4UmSMOiwnv2A - HG Hairdos
@@ -169,7 +169,7 @@ You will also need those files that tend to not download themselves; so I'd reco
 - https://mega.nz/file/S0gjECST#TvdX1Mh33lZqqT1vCbRJnDDTKnQ5E1-FI8hVRDi9Kps - [SunJeong] Ninirim Collection - 3BBB bodyslide v0.2
  
 
-On top of those required files, there is a high chance that the mods in [this spreadsheet](https://docs.google.com/spreadsheets/d/1ouhJioGEfyNdpBbNU874-0zKjG_Q8Z3Xr57P4-2maMw/edit?usp=sharing) are gonna cause issues while downloading. So if you plan on leaving it overnight, [get those](https://docs.google.com/spreadsheets/d/1ouhJioGEfyNdpBbNU874-0zKjG_Q8Z3Xr57P4-2maMw/edit?usp=sharing) manually first, place in the downloads folder that is going to get created in the next step, and start the download as instructed in the next step. 
+On top of those required files, there is a high chance that the mods in [this spreadsheet](https://docs.google.com/spreadsheets/d/1ouhJioGEfyNdpBbNU874-0zKjG_Q8Z3Xr57P4-2maMw/edit?usp=sharing) are goint to cause issues while downloading. So if you plan on leaving it overnight, [get those](https://docs.google.com/spreadsheets/d/1ouhJioGEfyNdpBbNU874-0zKjG_Q8Z3Xr57P4-2maMw/edit?usp=sharing) manually first, place in the downloads folder that is going to get created in the next step, and start the download as instructed in the next step. 
 
 ## Downloading and Installing
 
