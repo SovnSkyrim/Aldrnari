@@ -6,6 +6,7 @@
 - Random Crashes refering skeletons: Can't fix. It's animation related, the game renders an NPC in a weird position and crashes. [Example](https://pastebin.com/1rjAwJnp) - Fix: Avoid the location for a few hours and come back later.
 - "Prophet" Quest not starting correctly / Isran not going to Serana / Serana not here. Fix: [Pinned in Support Discord](http://prntscr.com/1stoif9)
 - Inability to jump: Caused by Convenient Horses overwritten jump for it's "quick get out of horse" command. Simply ride your horse back and dismount normally.
+- Inability to jump2: Caused by Engarde. Turn it off and on in it's MCM.
 
 ### Without Fix:
 - Transformation Based Builds are crashing
