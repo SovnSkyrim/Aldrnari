@@ -84,7 +84,7 @@ TitansBane, author of [Elysium](https://github.com/TitansBane/Elysium) has state
 
 If you want to join the community discord; click [here](https://discord.gg/Hg7HgzuZ)!
 
-No performance options are available for now. If your PC does not meet the specifications required for this list, my other list, [QWEST!](https://github.com/SovnSkyrim/QWEST), will probably work for you. It's made so that everyone can play it.
+No performance options are available for now. There are some directions at the bottom of this readme but they're directions; **you're on your own**.
 
 Disclaimer: Any questions regarding the specs and performance of the list will be redirected to here if you're asking me. I cannot stress how much I will not change the performance of the list. It is primarily made for screen-archery with innovative gameplay. You are free to modify the list once you have it to fit your frames dream, but I will not support you in doing so.
 
