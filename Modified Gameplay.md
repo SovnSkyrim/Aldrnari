@@ -129,6 +129,46 @@ You have all the tools to conquer the world thanks to the absurd strength and ov
 
 Now that the bulk of the gameplay has been covered, I will continue on the atmosphere of the list.
 
+## Gameplay - Less known available tools.
+
+The main overhauls are what define most of your strenght; but a lot has been added on the side so you can clutch boss fights with a well prepared arsenal.
+
+#### [ScrollScribe SE - A Scroll Crafting Mod](https://www.nexusmods.com/skyrimspecialedition/mods/32439)
+
+You will very quickly notice how almost every bandit has access to magic.. sound annoying right? Especially since magic is quite overpowered in this list.
+Fear not, you have also access to very strong spells, that only get stronger, despite your lack of mana!
+
+Welcome to Scrollscribe, simply go to an inn and use the power in your magic tab to see how you can craft scrolls! Just requires paper and soul gem dust!
+
+Check out the [modpage](https://www.nexusmods.com/skyrimspecialedition/mods/32439) if you wanna dive deeper into it.
+
+#### [Alchemist Arsenal - Arrows Bolts Bombs and Traps](https://www.nexusmods.com/skyrimspecialedition/mods/42030)
+
+Always wanted to be a mad scientist in Skyrim? Welcome to Alchemist Arsenal! The first step of your journey is to visit a Alchemy vendor and purchase "The Alchemist Arsenal Guide" in one of the major cities. This is a Book / Journal that will allow you to build the kit at a forge.
+Afterward, with your newfound knowledage, you can make some really cool weapons
+
+Check out the [modpage](https://www.nexusmods.com/skyrimspecialedition/mods/42030) if you wanna dive deeper into it.
+
+#### [Mystic Condenser](https://www.nexusmods.com/skyrimspecialedition/mods/10176)
+
+Good job, you've killed a bandit camp, you now have 50 minor potion of healing, but you really dont want to use them as you have that animation when taking potions.. Is it still worth taking them? Yup it is! Thanks to Mystic Condenser, you can merge those little potions into bigger ones!
+
+Check out the [modpage](https://www.nexusmods.com/skyrimspecialedition/mods/10176) if you wanna dive deeper into it.
+
+#### [Vitrium](https://www.nexusmods.com/skyrimspecialedition/mods/57242)
+
+It's a tools pack, with cool animation, every buff is really significant: from bonus damage, imbuing your weapon with an element like a resin in Dark Souls or a temporary ward!
+
+Check out the [modpage](https://www.nexusmods.com/skyrimspecialedition/mods/57242) if you wanna dive deeper into it.
+
+#### [The Wizard Warrior](https://www.nexusmods.com/skyrimspecialedition/mods/14890)
+
+Last but no least, The Wizard Warrior allows for spellcasting via weapons. It is the absolute dreams for any spellsword character.
+
+Only downside: gatekept behind 70 Destruction, so it's not available right off the bat. But it's a build defining mod for sure!
+
+Check out the [modpage](https://www.nexusmods.com/skyrimspecialedition/mods/14890) if you wanna dive deeper into it. But keep in mind the mod's obtention of the spells and shouts are behind the perk, a specificity of the list!
+
 ## Visuals - Atmosphere
 ### The 2 Options - Explications
 
