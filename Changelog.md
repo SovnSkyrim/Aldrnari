@@ -1,3 +1,104 @@
+## 1.3 | I shall sing you safely home..
+
+**Released at**: `Unreleased`
+
+**Notes** : Not Savefile Compatible
+
+Added:
+
+- NAT.ENB III - Natural and Atmospheric Tamriel ENB 3.0
+- PRT XII - PhotoRealistic Tamriel 12 ENB
+- Skyrim Souls RE - Updated
+- Alternate Perspective
+- Cities of the North: Falkreath
+- JK's Temple of the Divines
+- The Dibellan Baths
+- The Wheel of Time - Fully Voiced Follower and Quests
+- LoonaShadow - Custom Voiced Follower Mod
+- Security Overhaul SKSE - Lock Variations
+- Art of the Catch SE Port
+- Nordenhamr - Viking Music
+- The Only Cure - Quest Expansion
+- Weapons Repositioner
+- 4thUnknown's Imps
+- Paulicus Poison Block (PPB) Updated
+- Serenity of Sleep
+- Horses Simply Turn Better
+- Conduit - Short-term Weapon Infusions
+- Respect for the Legate
+- Respect for the Arch-Mage
+- Song of the Green - Auri - Dismount AI fix
+- Song of the Green - Auri - Convenient Horses Patch
+- 4thUnknown's Dark Brotherhood Armor SE
+- Dark Brotherhood Armor SE - HD Textures
+- Antique Statue HD
+- ElSopa - HD Grindstone Redone SE
+- HD Textures for Solitude and Temple Frescoes
+- Dragonborn Ingredients
+- Simplicity of Snow - Cities of the North
+- FUS RO DON'T - PushActorAway Crash Prevention Script Tweak
+- Knee Fix Redux
+
+Removed:
+
+- The Great City of Falkreath and everything depending on it
+  - Replaced by Cities of the North: Falkreath
+- Sidequests of Skyrim
+  - I didn't like the mod, missives do a better job.
+- NLA / True Storms / Fogs of Tamriel mix with Apex Somber / Pacific Blue and fn ENBs
+  - Swapped for NAT.ENB III and PRT XII - PhotoRealistic Tamriel 12
+- Skyrim Unbound Reborn
+  - Swapped for Alternate Perspective
+
+Fixed:
+
+- Reach invisible trees
+- Vampire Lord crashes 
+  - (Werewolves still freeze mid transformation and corrupt saves, still searching. Avoid them (first transformation for companions is fine.).
+- Navmesh issues in front of Whiterun (refinalized the whole navmesh)
+
+Updated:
+
+- Lux
+- Ordinator
+- JK's Interiors Patch Collection
+- Water for ENB
+- Serana Dialogue Add-on
+- The Tools of Kagrenac
+- Wyrmstooth
+- Experience
+- Static Skill Leveling for Experience
+- Experience Patches
+- Experience Custom ini
+- Bass Dragons
+- Vitrium - Spells and Tools Pack
+- Pilgrim - A Religion Overhaul
+- Forceful Tongue
+- Thieves' Night On the Town
+- Apothecary - An Alchemy Overhaul
+- Apothecary - Food and Drink Addon
+- Undeath - Classical Lichdom
+- CoMAP - Common Marker Addon Project
+- VIGILANT SE - NPC Overhaul
+- Merlin the Corgi - A Magical Dog Follower Mod
+- Gladys the Corgi - A Custom Dog Follower Mod
+- JK's The Winking Skeever
+- The JK's Interiors of EEK's Whiterun
+- The Distinct JK's Winking Skeever (patch)
+- Cities of the North - Map Marker Addons
+- Strange Runes
+- Illieh - Cry of the Damned
+- Dragonborn - Shouts Perk Tree
+- Assorted Mesh Fixes
+- Sanguine - Enhanced Blood Retexture SE
+- Snow White Armor by Ultracriket - SE CBBE 3BA v2
+- NPC AI Process Position Fix - SSE
+- More Informative Console
+- Hypertrichosis -Werewolf Sounds Rework-
+- Equippable Underwear for NPCs
+- xEdit (that one's for me)
+- .NET Script Framework
+
 ## V1.2 | 'till it's over.
 
 **Released at**: `23/10/2021`
