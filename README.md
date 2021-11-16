@@ -80,7 +80,7 @@ Aldrnari is meant to use every single inch of my computer, and here are my specs
 
 Full PC Part Picker setup is [here](https://fr.pcpartpicker.com/list/ZHQQgt). I would recommend atleast 8GB+ of VRAM for 1080p, and for 1440p you will need a minimum of 10GB of VRAM, although more is highly recommended. There are tweaks at the bottom of this readme for 6GB of VRAM users, but they void support. I do not have stable 60FPS on 1440p everywhere with my setup because, frankly, I do not care about framerate if combat is fluid and I can take sexy screenshots. The average is 60FPS with dips in 50FPS in very few areas at 1080p because my screen is a 3840x1080p (no I don't play in ultrawide, that's pointless and no support will be offered for that either).
 
-TitansBane, author of [Elysium](https://github.com/TitansBane/Elysium) has stated this: "When using Zangdar's ENB, the one within Elysium that **doesn't fit the weather mod** used in this list, I had more FPS than with Elysium, reaching a steady 60 FPS with a 3080, unlike Elysium which would dip to 50FPS. The key here is that the **recommended ENBs**, suited for NLA, are even **heavier** resulting in dips at 45FPS at times, all of this at 1440p."
+TitansBane, author of [Elysium](https://github.com/TitansBane/Elysium) has stated this: "When using Zangdar's ENB, the one within Elysium that **doesn't fit the weather mod** used in this list, I had more FPS than with Elysium, reaching a steady 60 FPS with a 3080, unlike Elysium which would dip to 50FPS. The key here is that the **recommended ENBs**, suited for NAT III, are even **heavier** resulting in dips at 45FPS at times, all of this at 1440p."
 
 If you want to join the community discord; click [here](https://discord.gg/Hg7HgzuZ)!
 
@@ -145,12 +145,6 @@ After you have done everything above and got a clean SSE installation ready, sta
 
 Start the game and exit once you're in the main menu.
 
-## Anniversary Edition (AE) workaround
-
-This list isn't made for the Anniversary Edition of Skyrim released on the 11th November 2021, use this [tool](https://www.nexusmods.com/skyrimspecialedition/mods/57618?tab=description) to downgrade your local files to the last Skyrim Special Edition version the list has been made for.
-
-After Wabbajack has been completed, you can safely verify your files within Steam to get back the good files for any list using AE, you only need the downgraded files for the installation.
-
 ### Using Wabbajack
 
 ## Preparations
@@ -165,7 +159,6 @@ The following files are **NOT** going to download themselves through Wabbajack. 
  
 - https://mega.nz/file/xUc0zRLY#NYwbmmHOZhpSF2hpV7hMRYejgZsL_MAIVv_DfjK9JRM - Elwaps Speedtree
 - https://mega.nz/#!x0QWjKKL!B9xkI29Dg0YoBPAo1fyXa_PxtBoma_f4UmSMOiwnv2A - HG Hairdos
-- https://drive.google.com/file/d/15FORniyQfEMRvcJoEsU9dzqzD30MjoHz/view?usp=sharing - xLODGEN.83
 - https://mega.nz/file/S0gjECST#TvdX1Mh33lZqqT1vCbRJnDDTKnQ5E1-FI8hVRDi9Kps - [SunJeong] Ninirim Collection - 3BBB bodyslide v0.2
  
 
@@ -204,7 +197,6 @@ Some files are known to be problematic, it is likely those are the ones that fai
 
 - https://mega.nz/file/xUc0zRLY#NYwbmmHOZhpSF2hpV7hMRYejgZsL_MAIVv_DfjK9JRM - Elwaps Speedtree
 - https://mega.nz/#!x0QWjKKL!B9xkI29Dg0YoBPAo1fyXa_PxtBoma_f4UmSMOiwnv2A - HG Hairdos
-- https://drive.google.com/file/d/15FORniyQfEMRvcJoEsU9dzqzD30MjoHz/view?usp=sharing - xLODGEN.83
 - https://mega.nz/file/S0gjECST#TvdX1Mh33lZqqT1vCbRJnDDTKnQ5E1-FI8hVRDi9Kps - [SunJeong] Ninirim Collection - 3BBB bodyslide v0.2
 - https://docs.google.com/spreadsheets/d/1ouhJioGEfyNdpBbNU874-0zKjG_Q8Z3Xr57P4-2maMw/edit?usp=sharing - Spreadsheet with the remaining files
 
@@ -241,17 +233,18 @@ Otherwise, set a custom size for the drive it's currently on and increase the ma
 Here's [my setup, for example](http://prntscr.com/1zg7x61).
 
 ## Getting an ENB
+By default; Aldrnari comes with [NAT.ENB III](https://www.nexusmods.com/skyrimspecialedition/mods/27141) which is probably the best all rounded look for it.
+It isn't that heavy (no post processing) and looks pretty nice.
 
-Aldrnari comes with 3 ENBs tweaked for the list's Setup:
-- fnenb by Foxnne
-- Pacific Blue by FOSSTEN
-- Apex Somber by Digital Dreams
+If you want to spice it up, and make it absolutely stunning. Well; let me tell you about [PRT XII](https://www.nexusmods.com/skyrimspecialedition/mods/4743), the ENB that is a cinematic suite of effects.
+You can make it do anything, fantasy? check. Clear? check. Grim? check. It does everything and looks absolutely WONDERFUL!
+In the "ENBs" folder of the Installation folder, you'll have all the presets available on the modpage; you will have just 2 steps to install any of them:
 
-Info on them is in [Modified Gameplay.md](https://github.com/SovnSkyrim/Aldrnari/blob/main/Modified%20Gameplay.md) so I highly suggest reading it. (use control + F key combo to search for ENB).
+- Delete the following: [the enbseries folder, the enblocal.ini file and the enbseries.ini file](https://cdn.discordapp.com/attachments/623314477151944718910214194635350037/unknown.png) and enbcache folder if present.
+- copy and paste **THE CONTENTS OF THE FOLDER** named after the preset you want to use.
 
-How to install them? Simple, in the **installation folder** there will be a folder named **ENBs**, in there the three ENBs are located. Simply **copy the contents of the folder named after the preset you want to use to the Stock Game Folder located in the installation folder**.
-
-If it prompts you to overwrite something, press yes.
+Please re-do this steps every time you want to swap a preset! If you're curious, my favourite is the **GrittyReality** one.
+PRTX XII ENB Presets are extremely customizable, so go look up on it's modpage on how to do so if you're into tinkering the look of your game!
 
 ## How to start up Aldrnari
 
@@ -277,13 +270,13 @@ This means that any additional mods you have installed on top of the Modlist wil
 Updating is like installing. You only have to make sure that you select the same path and tick the _overwrite existing Modlist_ button.
 
 ## In-Game MCM Options
+Before this, you will be prompted with character customization. You can change your appearance at any time with the ```showracemenu``` command, but be warned that you **cannot** change race and/or sex after the initial choice.
+
+You may want to use the command ```player.sae idlestaticposeastart``` to stop your character doing animations when using Racemenu. Just jump when you've got the control of your character to reset it.
+
 Once the game has loaded, wait until there are no more messages on the top left corner. Then you can hit escape and click on Mod Configuration to continue this section.
 
 MCMs are not automated due to a personal choice: There are many important tweaks, a mountain of informations, and useful stuff in them that can solve problems or make your experience better. Those are my own and what I recommend for the least amount of problems and a balanced experience.
-
-Do NOT Select a **NON DRAGONBORN OPTION** within Skyrim Unbound! Doing so will result in broken questlines! You cannot escape your destiny!
-
-Do not press enter as you will be teleported into an area which will nullify all MCM's completed after it. Make sure you are still above Helgen whilst yuou are completing MCM's.
 
 #### Game Difficulty
 - The difficulty in this Modlist is quite harder (more info on that in [Modified Gameplay.md](https://github.com/SovnSkyrim/Aldrnari/blob/main/Modified%20Gameplay.md)) so I highly suggest not using Legendary. I personally play on Expert. Adept is also fine.
@@ -403,8 +396,10 @@ Cycle through all the tabs
 
 # How to start playing
 
-After you finish customizing all the MCMs, the last thing to check is the Skyrim Unbound MCM. You can safely experiment with all the options in there, **EXCEPT choosing a Non-Dragonborn character.**
-Anything else in that menu can be customized to your liking. When you're ready, simply press the Start Adventure button in the Unbound MCM. You will then be prompted to create your character as usual.
+Once done with the MCMs, talk to the Dragon in front of you and choose a start. Or use the door to be welcomed in a lively Helgen. 
+
+In order to start the main quest, you will need to visit Helgen and rent a room at the new inn there with the dialogue option "I'd like to stay for a while. (Start Intro (XX gold))". Once you sleep in the room, a familiar scene unfolds before you.....
+IMPORTANT: Please sure you start the intro during the DAYTIME, not at night!! It will not work otherwise!
 
 You may want to use the command ```player.sae idlestaticposeastart``` to stop your character doing animations when using Racemenu. Just jump when you've got the control of your character to reset it.
 
