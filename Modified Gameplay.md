@@ -161,6 +161,12 @@ It's a tools pack, with cool animation, every buff is really significant: from b
 
 Check out the [modpage](https://www.nexusmods.com/skyrimspecialedition/mods/57242) if you wanna dive deeper into it.
 
+#### [Conduit](https://www.nexusmods.com/skyrimspecialedition/mods/58023)
+
+When holding a weapon in one hand and a spell in the other, you are able to temporarily "conduct" the spell through that weapon. Different categories of spells make the weapon do different things!
+
+Check out the [modpage](https://www.nexusmods.com/skyrimspecialedition/mods/58023) if you wanna dive deeper into it.
+
 #### [The Wizard Warrior](https://www.nexusmods.com/skyrimspecialedition/mods/14890)
 
 Last but no least, The Wizard Warrior allows for spellcasting via weapons. It is the absolute dreams for any spellsword character.
@@ -169,49 +175,29 @@ Only downside: gatekept behind 70 Destruction, so it's not available right off t
 
 Check out the [modpage](https://www.nexusmods.com/skyrimspecialedition/mods/14890) if you wanna dive deeper into it. But keep in mind the mod's obtention of the spells and shouts are behind the perk, a specificity of the list!
 
-## Visuals - Atmosphere
-### The 2 Options - Explications
+## Visuals - Atmosphere and Weathers
+### Welcome to NAT.ENB III
 
-The list uses [NLA](https://www.nexusmods.com/skyrimspecialedition/mods/43166) as the weather mod. This choice shows a want of a bright, cold, atmospheric feeling, more on the realistic side of ENBs.
+NAT.ENB is l00ping's last work, it is an extremely varied weather. It is made to be as customizable as possible for ENBs and comes with a decent one (reminder, it's a Weather+ENB Combo). By default NAT III isn't the greatest looking but still holds up against modern ENBs. 
 
-It was chosen over the usual Cathedral Weathers or Obsidian Weathers because I did not want something geared toward fantasy, but that doesn't mean there isn't another option.
+It shines most when replacing it with l00Ping's photography suite ***[PRT XII - PhotoRealistic Tamriel 12](https://www.nexusmods.com/skyrimspecialedition/mods/4743)*** and it becomes, in my opinion, the best ENB currently released.
+It does everything, and it's preset selection shows it. All the available presets are in the "ENBs" folder in the installation folder, pick one, see if you like, uninstall, if you don't like, repeat. *It's really that simple.*
 
-I also tested a more dark fantasy feel with [Apex Somber](https://www.nexusmods.com/skyrimspecialedition/mods/41598) which gave an unique look.
+My favourite preset? GrittyReality.
 
-Before downloading anything, keep in mind all the ENBs have been manually tweaked by me to give an even better feeling than their base options. They are located under ``Installation Folder\ENBs``. Simply drag and drop the files to the **Stock Game Folder within the Installation folder** although I would suggest you read the following parts to get more information on which to choose.
-
-ENBs being the most impactful part of the list, textures were chosen to have a more realistic approach of Skyrim, especially weapons and armors (that got total overhauls instead of simple texture upscales). I tried to have the best texture, nifs, alpha etc.. for the item in question; almost everything that is smaller than your hand will be 1K, swords and armors are 2K, and architecture and elements larger than you are 4K. What makes the list heavy is mostly the added items in the worldpsace, not the choice of textures; it is also the high LODs used.
-
-Because yes using 4K textures when playing at 1080p, when the mesh is wide, allows the rendered object to not appear blurry. Dragons and mountains are the first examples that come to mind. 
-
-### Visuals - fnenb / Pacific Blue 
-
-Those 2 ENBS are on the bright side.
-- **[fnenb](https://www.nexusmods.com/skyrimspecialedition/mods/43998)** is more of a screenarchery ENB, it isn't good at every single moment, but it is so infrequent that I love it. It's lights are less blinding than the second enb but it is [brighter](https://cdn.discordapp.com/attachments/761564792766726194/868966326566273095/unknown.png). It is made by Foxnne.
-- **[Pacific Blue](https://www.nexusmods.com/skyrimspecialedition/mods/44542)** is more clear than bright. That's where the difference is, but its lights are blinding a bit more, like [this](https://cdn.discordapp.com/attachments/761564792766726194/869238390468521984/unknown.png) and it uses a filmic lens, like a real camera. It is made by FOSSTEN
-
-Both of those enbs have a realistic vibe which is what the list aims at.
-
-### Visuals - Apex Somber 
-
-**[Apex Somber ENB](https://www.nexusmods.com/skyrimspecialedition/mods/41598)** by Digital Dreams has been a long time favourite of mine, for longer than the 2 above.
-It changes the world into a [more grayscale shade](https://cdn.discordapp.com/attachments/761564792766726194/869559862479183922/unknown.png) while still being [bright](https://cdn.discordapp.com/attachments/761564792766726194/869564077586931772/unknown.png). It really has a unique vibe and its interiors are [insanely dark](https://cdn.discordapp.com/attachments/761564792766726194/869560649892642846/unknown.png). In a dungeon, it really makes you think twice on where to go.
-
-### Visuals - Other Enbs?
-
-Those are the recommended ENBs, and the only ones I know that fit the Weather/Lighting mod used in Aldrnari. You are free to try anything else on Nexus, but keep in mind the screenshots from the modpage won't match what you have in game because we use **[NLA](https://www.nexusmods.com/skyrimspecialedition/mods/43166)** and **[Lux](https://www.nexusmods.com/skyrimspecialedition/mods/43158)** if the mod specifically stipulates that it is for another Weather/Lighting combo.
+If you're into tailoring your graphics, this ENB is made for you, go read it's modpage, you'll be able to reach summits you never could never imagine. 
 
 ### Visuals - City Overhauls
 
 - Base is [JK's Lite](https://www.nexusmods.com/skyrim/mods/71018) for most cities. On top of that, we use [Civil War Checkpoints](https://www.nexusmods.com/skyrimspecialedition/mods/17364) so the world looks really at war.
 - Riverwood has [Galaxy's Riverwood](https://www.nexusmods.com/skyrimspecialedition/mods/46360) and [Riverwood Flowering](https://www.nexusmods.com/skyrimspecialedition/mods/39229), it gives it a unique and cheerful look.
-- [Cities of the North: Dawnstar](https://www.nexusmods.com/skyrimspecialedition/mods/28952), [Cities of the North: Morthal](https://www.nexusmods.com/skyrimspecialedition/mods/34168) and [Cities of the North: Winterhold](https://www.nexusmods.com/skyrimspecialedition/mods/40088) give those cities a really unique and Nordic atmosphere.
+- [Cities of the North: Dawnstar](https://www.nexusmods.com/skyrimspecialedition/mods/28952), [Cities of the North: Falkreath](https://www.nexusmods.com/skyrimspecialedition/mods/56731) , [Cities of the North: Morthal](https://www.nexusmods.com/skyrimspecialedition/mods/34168) and [Cities of the North: Winterhold](https://www.nexusmods.com/skyrimspecialedition/mods/40088) give those cities a really unique and Nordic atmosphere.
 - Whiterun is now real fortified place thanks to [Fortified Whiterun](https://www.nexusmods.com/skyrimspecialedition/mods/40094). It also has a lot of hand-placed trees so its connection to Kyne is felt throughout the city.
 - Solitude now feels like a capital city with [The Great City of Solitude](https://www.nexusmods.com/skyrimspecialedition/mods/22243), [Drengin's Blue Palace Terrace](https://www.nexusmods.com/skyrimspecialedition/mods/35180) and [Solitude Skyway](https://www.nexusmods.com/skyrimspecialedition/mods/8250) fully patched together!
 - Windhelm also feels like a capital, with [Capital Windhelm Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/42990) and [City Entrances Overhaul: Windhelm](https://www.nexusmods.com/skyrimspecialedition/mods/19400)
 - Riften is now a real influencial fishing port thanks to [Riften Docks Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/40021) and gains some verticality thanks to [Another Skyrim: Riften](https://www.nexusmods.com/skyrim/mods/86586).
 - Markarth's wall is now massive thanks to [City Entrances Overhaul: Markarth](https://www.nexusmods.com/skyrimspecialedition/mods/37375)
-- "The Great City" Series overhauls a good number of minor towns and cities; we're talking [Falkreath](https://www.nexusmods.com/skyrimspecialedition/mods/19709), [Rorikstead](https://www.nexusmods.com/skyrimspecialedition/mods/20151), [Mixwater Mill](https://www.nexusmods.com/skyrimspecialedition/mods/36350), [Karthwasten](https://www.nexusmods.com/skyrimspecialedition/mods/33032), [Kynesgrove](https://www.nexusmods.com/skyrimspecialedition/mods/42639), [Old Hroldan](https://www.nexusmods.com/skyrimspecialedition/mods/33189), [Ivarstead](https://www.nexusmods.com/skyrimspecialedition/mods/34505) and [Shor's Stone](https://www.nexusmods.com/skyrimspecialedition/mods/35977).
+- "The Great City" Series overhauls a good number of minor towns and cities; we're talking [Rorikstead](https://www.nexusmods.com/skyrimspecialedition/mods/20151), [Mixwater Mill](https://www.nexusmods.com/skyrimspecialedition/mods/36350), [Karthwasten](https://www.nexusmods.com/skyrimspecialedition/mods/33032), [Kynesgrove](https://www.nexusmods.com/skyrimspecialedition/mods/42639), [Old Hroldan](https://www.nexusmods.com/skyrimspecialedition/mods/33189), [Ivarstead](https://www.nexusmods.com/skyrimspecialedition/mods/34505) and [Shor's Stone](https://www.nexusmods.com/skyrimspecialedition/mods/35977).
 - Dragon Bridge is overhauled by [Rodryk](https://www.nexusmods.com/skyrimspecialedition/mods/42510)
 - [Settlements Expanded](https://www.nexusmods.com/skyrimspecialedition/mods/7777) make sure even miners around small mines have houses.
 - Raven Rock isn't forgotten, we use [Quaint Raven Rock](https://www.nexusmods.com/skyrimspecialedition/mods/20851)
@@ -239,7 +225,7 @@ This is made so you are not cluttered with 2000 free gear at level 1.
 ## Gameplay - Quests
 ### Gameplay - Main Questline, Daedric Quests, Miscellaneous Quests and DLCs
 
-- [Skyrim Unbound](https://www.nexusmods.com/skyrimspecialedition/mods/27962) is the alternate start choice of Aldrnari. The main quest has been altered slightly due to this mod. You do not have to go and gather the Dragonstone for Farengar. After a few weeks, Dragons will start spawning in the world and slaying your first Dragon will progress the main quest as normal. **YOU MUST SELECT THE DRAGONBORN OPTIONS, THE LIST RELIES ON BEING A DRAGONBORN, IT WILL BREAK IF NOT SELECTED**
+- [Alternate Perspective](https://www.nexusmods.com/skyrimspecialedition/mods/50307) is the alternate start choice of Aldrnari. Basically, Helgen is still there and you can interract with it. When you're ready, walk up to the barkeeper and rent a room; sleeping in it will make the intro start but from an.. alternate perspective.
 - [Timing is Everything](https://www.nexusmods.com/skyrimspecialedition/mods/25464) modifies the level and quest requirements to begin the DLCs, Daedric questlines, and some miscellaneous quests. These are the new triggers to begin the respective quests:
   - Hearthfire: 15
   - Dawnguard: 20 | But you can go early without problem by going straight to the Fort, getting Dexion will be extremely harder especially Dawnguard Side
@@ -299,6 +285,8 @@ Gotta have quest mods if there is no Legacy of the Dragonborn, right?
 - **[Auri](https://www.nexusmods.com/skyrimspecialedition/mods/11278)** is a fully voiced Bosmer follower with over 800 lines of custom dialogue. You can find her in her home somewhere in Falkreath Hold. She has custom scenes with some vanilla Bosmer NPCs as well as compatible dialogue with other custom followers. She is my favourite modded follower.
 - **[Hoth](https://www.nexusmods.com/skyrimspecialedition/mods/16137)** is a fully voiced nord bounty hunter living in Morthal's Tavern. A ruthless two-handed companion who has many one-of-a-kind features, such as being a quest giver for infinite bounty hunt contracts. 
 - **[Livia Salvian](https://www.nexusmods.com/skyrimspecialedition/mods/33318)** is a fully voiced imperial legionnaire taking a break from her duties in Dragonsreach. Perfect companion for paladins, she wants to protect what she holds dear and be a hero to her people.
+- **[The Wheel of Time](https://www.nexusmods.com/skyrimspecialedition/mods/55404)** Based on the fantasy book series "The Wheel of Time" this mod adds the follower Aviendha and Wheel of Time related quests, with over 700 custom-voiced lines! Something will happen when you cross the Riverwood bridge..
+- **[LoonaShadow - Custom Voiced Follower Mod](https://www.nexusmods.com/skyrimspecialedition/mods/43634)** is a half dunmer, half bosmer archer that you can find at Haelga's Bunkhouse in Riften. Underrated follower!
 - **[Gladys the Corgi](https://www.nexusmods.com/skyrimspecialedition/mods/50164)** is a custom Corgi follower that you can buy at the Solitude Docks. It has unique functionality like looting from the environment as well as the ability to play fetch!
 - **[Merlin the Corgi](https://www.nexusmods.com/skyrimspecialedition/mods/56433)** is a custom Corgi follower that is combat oriented! Travel to the Summoning Circle just north of Morthal to meet your new friend.
 
