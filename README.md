@@ -240,8 +240,8 @@ If you want to spice it up, and make it absolutely stunning. Well; let me tell y
 You can make it do anything, fantasy? check. Clear? check. Grim? check. It does everything and looks absolutely WONDERFUL!
 In the "ENBs" folder of the Installation folder, you'll have all the presets available on the modpage; you will have just 2 steps to install any of them:
 
-- Delete the following: [the enbseries folder, the enblocal.ini file and the enbseries.ini file](https://cdn.discordapp.com/attachments/623314477151944718910214194635350037/unknown.png) and enbcache folder if present.
-- copy and paste **THE CONTENTS OF THE FOLDER** named after the preset you want to use.
+- Delete the following: [the enbseries folder, the enblocal.ini file and the enbseries.ini file](https://cdn.discordapp.com/attachments/623314477151944718910214194635350037/unknown.png) and enbcache folder if present; in the Stock Game folder located in your installation folder..
+- copy and paste **THE CONTENTS OF THE FOLDER** named after the preset you want to use to the Stock Game folder located in your installation folde.
 
 Please re-do this steps every time you want to swap a preset! If you're curious, my favourite is the **GrittyReality** one.
 PRTX XII ENB Presets are extremely customizable, so go look up on it's modpage on how to do so if you're into tinkering the look of your game!
