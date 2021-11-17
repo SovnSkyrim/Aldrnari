@@ -254,12 +254,7 @@ Head over to the installation folder and locate an executable named `ModOrganize
 
 If a message [Registry Key do not match](https://cdn.discordapp.com/attachments/879580504351981598/881915659188060230/mah1.jpg) appear, press Yes.
 
-Upon pressing New Game, you will spawn on the walls of Helgen burning down. Once all the messages on the top left corner of the screen are gone, set the MCMs as instructed below.
-
-If you press enter, you will be teleported to a location where you will be able to personalize your character.
-After confirming your character, please note that you should not use the 'showracemenu' console command to change sex or race, it will break a lot more than you think. If you want to customize the MCMs or need some more time to setup Skyrim Unbound, you can use the "Stay there" option.
-
-Do NOT Select a NON DRAGONBORN OPTION within Skyrim Unbound! Doing so will result in broken questlines! You cannot escape your destiny!
+Upon pressing New Game, you will be in a little room, with a dragon in front of you. This means the game is modded and you can go to MCMs; after a little note on updating the list.
 
 ## Updating
 
