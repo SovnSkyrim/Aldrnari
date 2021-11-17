@@ -278,6 +278,16 @@ MCMs are not automated due to a personal choice: There are many important tweaks
 #### Game Difficulty
 - The difficulty in this Modlist is quite harder (more info on that in [Modified Gameplay.md](https://github.com/SovnSkyrim/Aldrnari/blob/main/Modified%20Gameplay.md)) so I highly suggest not using Legendary. I personally play on Expert. Adept is also fine.
 
+#### Before everything.
+
+If you have trouble setting up a hotkey at any point in the following MCM section; do the following:
+
+- Save and close the game.
+- in ```SKSE Based Mods```, untick "Skyrim Souls RE - Updated"
+- Load back the game, and end the MCM setup.
+- Save and close the game again.
+- Tick it back on.
+
 #### All Geared up Derivative
 - Weapons - Player
     - Shield Stay on arm while Equipped: Enable
