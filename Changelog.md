@@ -54,7 +54,7 @@ Fixed:
 
 - Reach invisible trees
 - Vampire Lord crashes 
-  - (Werewolves still freeze mid transformation and corrupt saves, still searching. Avoid them (first transformation for companions is fine.).
+  - Werewolves still freeze mid transformation and corrupt saves, still searching. Avoid them (first transformation for companions is fine.).
 - Navmesh issues in front of Whiterun (refinalized the whole navmesh)
 
 Updated:
