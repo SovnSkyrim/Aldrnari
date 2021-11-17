@@ -283,7 +283,7 @@ MCMs are not automated due to a personal choice: There are many important tweaks
 If you have trouble setting up a hotkey at any point in the following MCM section; do the following:
 
 - Save and close the game.
-- in ```SKSE Based Mods```, untick "Skyrim Souls RE - Updated"
+- in ```SKSE Based Mods``` (a separator, on the left panel of MO2), untick "Skyrim Souls RE - Updated"
 - Load back the game, and end the MCM setup.
 - Save and close the game again.
 - Tick it back on.
