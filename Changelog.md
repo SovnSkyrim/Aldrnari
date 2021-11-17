@@ -1,6 +1,6 @@
 ## 1.3 | I shall sing you safely home..
 
-**Released at**: `Unreleased`
+**Released at**: `17/11/2021`
 
 **Notes** : Not Savefile Compatible
 
