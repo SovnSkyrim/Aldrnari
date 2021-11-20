@@ -1,3 +1,37 @@
+## 1.3.1 | Fixes
+
+**Released at**: `Unreleased`
+
+**Notes** : Not Savefile Compatible
+
+Added:
+
+- JK's Temple of Talos
+- Ave's Moon-and-Star
+- Simple Wearable Lanterns
+- Wall mounted dead animals
+- Awesome Potions Simplified by Revoith
+- Awesome Potions Simplified -ENB Lights
+
+Removed :
+
+- LoonaShadow
+  - Conflicts with other followers
+- Port of Pretty Animated Potions
+  - Replaced by Awesome Potions Simplified
+
+Updated:
+
+- Smoothcam
+- Undeath - Classical Lichdom
+- JK's Interiors Patch Collection
+
+Fixed:
+
+- False Safe corruption - Thanks Conneria
+- 1xp reward
+- Honed Metal not working
+
 ## 1.3 | I shall sing you safely home..
 
 **Released at**: `17/11/2021`
