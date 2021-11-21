@@ -414,6 +414,10 @@ Please Note: Do NOT change sex or race with showracemenu after first confirming 
 
 Vampire lords and werewolves are currently being investigated due to a large amount of bug reports, so unless you want to actively help the development by submitting detailled bug reports, I strongly advise against running such builds. (Liches are fine though)
 
+What's wrong with them? They make your game freeze when they transform; and if you don't then you can't load savefiles after using the powers.
+
+The original transformation during the Companions questline is harmless.
+
 ### Community Discord?
 If you want to join the community discord; click [here](https://discord.gg/FAfPb9T)!
 
