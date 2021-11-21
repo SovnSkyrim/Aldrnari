@@ -1,6 +1,6 @@
 ## 1.3.1 | Fixes
 
-**Released at**: `Unreleased`
+**Released at**: `21/11/2021`
 
 **Notes** : Not Savefile Compatible
 
