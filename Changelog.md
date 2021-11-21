@@ -25,6 +25,7 @@ Updated:
 - Smoothcam
 - Undeath - Classical Lichdom
 - JK's Interiors Patch Collection
+- Conduit - Short-term Weapon Infusions
 
 Fixed:
 
