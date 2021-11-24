@@ -9,8 +9,9 @@
 - Inability to jump2: Caused by Engarde. Turn it off and on in it's MCM.
 
 ### Without Fix:
+- Crashes in the following cells: the Winking Skeever
+- Wall problems in the following cells: the Bannered Mare | Fellglow Keep
 - Transformation Based Builds are crashing
-- Fellglow Keep missing Walls
 - Ravenscore Spire Landscape
 - Silver Longsword Scabbard not having a texture
 - NPC Vampire Lords and Werewolves are invisible
