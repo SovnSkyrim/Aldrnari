@@ -155,7 +155,7 @@ Wabbajack will not work with Windows 7, I will not offer any kind of support for
 
 The following files are **NOT** going to download themselves through Wabbajack. Yes I know, it's annoying, but there is nothing I can do for now about it. So since taking down the list would be even worse, ensure that those are downloaded somewhere; the next step is the creation of the folders for Wabbajack to function, and you will place those files in the "Downloads" Folder you will create.
  
-- https://mega.nz/file/xUc0zRLY#NYwbmmHOZhpSF2hpV7hMRYejgZsL_MAIVv_DfjK9JRM - Elwaps Speedtree
+- https://mega.nz/file/xUc0zRLY#NYwbmmHOZhpSF2hpV7hMRYejgZsL_MAIVv_DfjK9JRM - Elwaps Speedtree | if this file does not download; try another PC/a VPN
 - https://mega.nz/#!x0QWjKKL!B9xkI29Dg0YoBPAo1fyXa_PxtBoma_f4UmSMOiwnv2A - HG Hairdos
 - https://mega.nz/file/S0gjECST#TvdX1Mh33lZqqT1vCbRJnDDTKnQ5E1-FI8hVRDi9Kps - [SunJeong] Ninirim Collection - 3BBB bodyslide v0.2
  
@@ -193,7 +193,7 @@ If a mod updated and the old files got deleted, it is impossible to download the
 
 Some files are known to be problematic, it is likely those are the ones that failed. You can download them here and place the archives **AS IS** in the downloads folder.
 
-- https://mega.nz/file/xUc0zRLY#NYwbmmHOZhpSF2hpV7hMRYejgZsL_MAIVv_DfjK9JRM - Elwaps Speedtree
+- https://mega.nz/file/xUc0zRLY#NYwbmmHOZhpSF2hpV7hMRYejgZsL_MAIVv_DfjK9JRM - Elwaps Speedtree | if this file does not download; try another PC/a VPN
 - https://mega.nz/#!x0QWjKKL!B9xkI29Dg0YoBPAo1fyXa_PxtBoma_f4UmSMOiwnv2A - HG Hairdos
 - https://mega.nz/file/S0gjECST#TvdX1Mh33lZqqT1vCbRJnDDTKnQ5E1-FI8hVRDi9Kps - [SunJeong] Ninirim Collection - 3BBB bodyslide v0.2
 - https://docs.google.com/spreadsheets/d/1ouhJioGEfyNdpBbNU874-0zKjG_Q8Z3Xr57P4-2maMw/edit?usp=sharing - Spreadsheet with the remaining files
