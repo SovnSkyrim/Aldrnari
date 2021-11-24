@@ -155,6 +155,14 @@ Good job, you've killed a bandit camp, you now have 50 minor potion of healing, 
 
 Check out the [modpage](https://www.nexusmods.com/skyrimspecialedition/mods/10176) if you wanna dive deeper into it.
 
+#### [Dragonborn - Shouts Perk Tree](https://www.nexusmods.com/skyrimspecialedition/mods/41950)
+
+Once the Way of the Voice done; you will unlock a new power: *“Ysmir Meditation”*. It will allow you to access a perk tree dedicated to shout empowering.
+
+Use your shouts to get experience and levels in that new perk tree; and become the strongest shout wielding hero known to Nirn.
+
+Check out the [modpage](https://www.nexusmods.com/skyrimspecialedition/mods/41950) if you wanna dive deeper into it.
+
 #### [Vitrium](https://www.nexusmods.com/skyrimspecialedition/mods/57242)
 
 It's a tools pack, with cool animation, every buff is really significant: from bonus damage, imbuing your weapon with an element like a resin in Dark Souls or a temporary ward!
