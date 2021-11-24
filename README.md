@@ -262,6 +262,10 @@ This means that any additional mods you have installed on top of the Modlist wil
 
 Updating is like installing. You only have to make sure that you select the same path and tick the _overwrite existing Modlist_ button.
 
+## Gameplay advices
+
+An entire document has been made to give you as much information as I could without going too deep in analysis of mods. This document is called **[Modified Gameplay.md](https://github.com/SovnSkyrim/Aldrnari/blob/main/Modified%20Gameplay.md)** and acts as a second readme for the core gameplay and questions about what to expect. So go read [it](https://github.com/SovnSkyrim/Aldrnari/blob/main/Modified%20Gameplay.md)! 
+
 ## In-Game MCM Options
 Before this, you will be prompted with character customization. You can change your appearance at any time with the ```showracemenu``` command, but be warned that you **cannot** change race and/or sex after the initial choice.
 
