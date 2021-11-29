@@ -497,6 +497,12 @@ Using them with Aldrnari would be like installing your own mods: Support is forf
 ### Why don't you wanna use Inigo/Legacy of the Dragonborn (LOTD)????? They're the best mods ever!!!!
 [Modified Gameplay.md](https://github.com/SovnSkyrim/Aldrnari/blob/main/Modified%20Gameplay.md) has the answer, use Ctrl+F in there.
 
+### Oh my fucking god the very far mountains are so low poly... Isn't it supposed to look 4K everywhere?
+
+No it isn't. The inis used are based on medium and optimized for the best of extreme and performance. The graphics are stunning at close range and that's what I care about; not lods.
+
+If you REALLY want those to be better; slap ```uLargeRefLODGridSize``` to like 21 in SkyrimPrefs.ini; the one located in your profiles folder.
+
 ### Please give us more fps... / A more performance friendly profile??
 
 I have 2 tips one that voids support, one that doesnt:
