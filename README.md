@@ -231,8 +231,14 @@ Otherwise, set a custom size for the drive it's currently on and increase the ma
 Here's [my setup, for example](http://prntscr.com/1zg7x61).
 
 ## Getting an ENB
+
+**Aldrnari has to be ran with an ENB**. 
+
 By default; Aldrnari comes with [NAT.ENB III](https://www.nexusmods.com/skyrimspecialedition/mods/27141) which is probably the best all rounded look for it.
-It isn't that heavy (no post processing) and looks pretty nice.
+It isn't that heavy (no post processing) and looks pretty nice. It is also the reason why Aldrnari has to be ran with an ENB; I quote from NAT.III's modpage:
+
+**"NAT-ENB.esp PLUGIN IS NOT MEANT TO BE USED WITHOUT THE NAT.ENB preset,**
+**NEITHER THE ENB PRESET CANNOT BE USED WITHOUT THE NAT-ENB.esp PLUGIN."" **
 
 If you want to spice it up, and make it absolutely stunning. Well; let me tell you about [PRT XII](https://www.nexusmods.com/skyrimspecialedition/mods/4743), the ENB that is a cinematic suite of effects.
 You can make it do anything, fantasy? check. Clear? check. Grim? check. It does everything and looks absolutely WONDERFUL!
