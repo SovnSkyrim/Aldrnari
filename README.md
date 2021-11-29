@@ -238,6 +238,7 @@ By default; Aldrnari comes with [NAT.ENB III](https://www.nexusmods.com/skyrimsp
 It isn't that heavy (no post processing) and looks pretty nice. It is also the reason why Aldrnari has to be ran with an ENB; I quote from NAT.III's modpage:
 
 **"NAT-ENB.esp PLUGIN IS NOT MEANT TO BE USED WITHOUT THE NAT.ENB preset,**
+
 **NEITHER THE ENB PRESET CANNOT BE USED WITHOUT THE NAT-ENB.esp PLUGIN."" **
 
 If you want to spice it up, and make it absolutely stunning. Well; let me tell you about [PRT XII](https://www.nexusmods.com/skyrimspecialedition/mods/4743), the ENB that is a cinematic suite of effects.
