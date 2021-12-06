@@ -550,7 +550,7 @@ I have a [Patreon](https://www.patreon.com/Sovn) but please, consider donating t
 - _YOU_ for actually reading the readme. Thanks a ton!!
 - Halgari and everyone in the Wabbajack Team - Wabbajack is awesome and so are you for contributing to the project in the past or future.
 - Special thanks to certain of my friends in the Wabbajack Team, namely Lively, JTK, Xanza, Jdsmith, Tate Taylor, Dylan Perry, Total, Luca, TitansBane, Unnoen, Fantastigasmical Alice, Patchier, Tsukino, cacophony, Wartortle, KFC, Chanka, TheSpaniard, Chris, Derryl, JanuarySnow, and Crithion - My life wouldn't be the same if I didn't join Wabbajack; this project has been influenced in one way or another by each and everyone of you.
-- Althro for the creation of the base and being a very resourceful person. None of my work would simply exist without you. 
+- Althro for the creation of the base. None of this work would simply exist without you. 
 - Crithion aka m.vlad for the art; trully amazing, I never spent my money so well.
 - Every each of my Patreons for supporting me, and with the Special Folks of my discord, for helping with the development.
 
