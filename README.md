@@ -331,6 +331,11 @@ If you have trouble setting up a hotkey at any point in the following MCM sectio
         - Swap stuff around depending on what you want, leave as default if you're new to Engarde. Keep in mind off-hand action requires shift to be pressed
         - Defensive Action key: C 
 
+#### Follower Framework
+- Activity
+    - Sparring
+    	- Allow Sparring: Disabled 
+
 #### Heartbreaker (Optional) 
 - Main Settings
     - Learn Spell Power: Enabled
