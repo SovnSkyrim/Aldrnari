@@ -1,3 +1,154 @@
+## 1.4 | Life from every death,death from every life.
+
+**Released at**: `Unreleased`
+
+**Notes** : Not Savefile Compatible
+
+Added:
+
+- Integrated the Free creation club "Saints and Seducers"
+  - Also added the Unofficial Patch, CBBE Patch, Apothecary Patch, Lucien Patch and Upscaled the textures
+- New Weapons and armors distributed in the World
+  - Nordic Leather Armor
+  - Studded Elven Armord
+  - Elven Defender - Armor
+  - Nordic Carved Light
+  - Fantastic Cloaks
+- New armors behind crafting perks
+  - Gray Raven Ayla Outfit Set SSE CBBE 3BA
+- 4thUnknown's Daedric Armor - Replaces Skyrim Immersive Creatures' Daedric Lord Armor
+- 4thUnknown's Ogres SE
+- 4thUnknown's Wraiths SE + Xtudo's Patches
+- Andromeda - Unique Standing Stones of Skyrim
+  - Convenient Horses Patch / Lover's Stone Nerf
+- Wintersun - Faiths of Skyrim
+  - Extended Encounters and Wintersun - Vigilants Hunt True Daedra Worshippers
+  - Follow on your knees for Wintersun (Sneak to Follow)
+  - Wintersun Y'ffre Shrine (Artifacts - The Breton Paladin)
+  - The Great Town of Shor's Stone - Wintersun Addon
+  - Wintersun - More Tolerant Talos
+  - Wintersun - More interesting Kynareth and Jephre
+  - Wintersun - More interesting Mara
+  - All the patches I could find
+- Frozen in Time - Definitely Not A Snow Elf Waifu Mod
+- Zephyr - Standalone Rabbit Companion and Friend
+- Arissa - The Wandering Rogue
+- Awakening - Vampires Of Skyrim
+- TsunDal - A Tsun Bossfight Overhaul
+- Curse of the Undying - Undead Resurrect - Spell Perk Item Distributor Addon
+- AllGUD fix for Skyrim Outfit System SE Revived
+- CBPC Equipment Physics
+- Yol'Kreh - The Infernal Scythes
+- Floating Dragon Priest Masks
+- Simple Wearable Lanterns - Toggle Hotkey
+- Better life for Angi
+- Bow Charge Plus (no dodge)
+- Soul-Cairn Objects Secured
+- Pandorable's Devoted Dames
+- Security Overhaul SKSE - Add-ons
+- Security Overhaul SKSE - Some More Locks
+- Smooth Random Jump Animation
+- Vanargand Animations - One Handed Power Attacks
+- Vanargand Animations - One Handed Normal Attacks
+- Vanargand Animations - One Handed Mid Stance
+- Leviathan Animations - Two-Handed High Stance
+- Leviathan Animations - Two-Handed Normal Attacks
+- Leviathan Animations - Two-Handed Power Attacks
+- Vibrant Weapons - Animated Armoury Patch
+- Sleeping Expanded - Animations and NPC reactions
+- Solitude Paintings - for Dregin's Blue Palace Terrace
+- Mage Armor Script Fix
+- Xyn's Reworked Elemental Cloak Spells
+- Torch Cremation SE
+- Twin Souls - Storm and Frost Atronachs Sound SFX Rework -
+- Campfire Text Edits (More Vanilla-Like)
+- Sleeping Expanded - Animations and NPC reactions
+- Windmills of Skyrim - Unique Windmills with Colourful Sails
+- Water in Wash Basins - Mesh-only Replacer
+- Spiders of Solstheim - Transparency Fix
+- Mesh Patch for Various Mods
+- Smaller and Better Blood Potion
+- Janquel's Arguably Needed Quixotically Unifying ESP Library
+- Shalidor's Maze Puzzle Sound Fix (Labyrinthian)
+- Classic Paralysis
+- Automatic Animations - Including Icon Identification
+- CBBE Hoods
+- Vera's Female Skeleton
+- Vampires Cast No Shadow 2
+- Keyword Item Distributor (KID)
+- Use Telekinesis on Traps
+
+Removed:
+
+- Mundustar - Personal Standing Stones Overhaul
+  - Replaced by Andromeda - Unique Standing Stones of Skyrim
+- Pilgrim - A Religion Overhaul | And all its addons
+  - Replaced by Wintersun - Faiths of Skyrim and all its addons
+- Quick Light SE
+  - Replaced by Simple Wearable Lanterns - Toggle Hotkey
+- Hedge Mage Armor
+  - Figuring out a way to implement it without crashing but respecting the quest
+
+Updated:
+
+- uLargeRefLODGridSize > from 7 to 14
+- Lux
+- Immersive World Encounters. FINAL SE
+- Storm Lightning for SSE and VR (Minty Lightning 2019)
+- PRT XII - PhotoRealistic Tamriel 12
+- Conduit - Short-term Weapon Infusions
+- Water for ENB
+- Lanterns Of Skyrim II > this one was tough
+- Undeath - Classical Lichdom
+- Reliquary of Myth - Artifact Overhaul
+- Forceful Tongue - Shouts Overhaul
+- The Dibellan Baths
+- Stendarr Rising - The Hall of the Vigilant Rebuild
+- The JK's Interiors of EEK's Whiterun
+- JK's Palace of the Kings
+- JK's Temple of the Divines
+- JK's The Winking Skeever
+- JK's New Gnisis Cornerclub
+- JK's Interiors Patch Collection
+- Dog Backpacks and More
+- Merlin the Corgi
+- Security Overhaul SKSE - Lock Variations
+- Smooth Combat non Combat Animation
+- Smooth Random Magic idle Animation
+- Smooth Random Blocking Animation
+- SmoothCam
+- Animation Motion Revolution
+- Sky Idles SE
+- Sithis Armour - Special Edition
+- Sithis Armour - Special Edition - Mastercraft Version
+- Airgetlam -Modern Magic Sounds Rework
+- The Only Cure Quest Expansion - Patches-
+- CBPC - CBP Physics with Collisions
+- CoMAP - Common Marker Addon Project
+- Cities of the North - Falkreath - Water for ENB Patch
+- Cities of the North - Falkreath Patch Collection
+- Cities of the North - Morthal Patch Collection
+- Cities of the North - Winterhold Patch Collection
+- Cities of the North - Dawnstar Patch Collection
+- The Great Village of Kynesgrove Patch Collection
+- The Great Village of Mixwater Mill Patch Collection
+- The Great Village of Old Hroldan Patch Collection
+- SSE Engine Fixes (skse64 plugin)
+- Weapons Repositioner SE
+- Water in Wells - mesh-only animated wells
+- Assorted mesh fixes
+- Animated Tentacles for the GlowingMushrooms
+- powerofthree's Papyrus Extender
+- Essential Favorites
+
+Fixed:
+
+- Crash near Rorikstead > Removed Hedge Mage Temporarily
+- Testing some Werewolves fixes; it should be crash way less frequently and not corrupt savefiles. Need feedback
+- removed Spider Touch from Enemies due to many complaints.
+- removed double distribution of some spells and potions.
+
+
 ## 1.3.1 | Fixes
 
 **Released at**: `21/11/2021`
