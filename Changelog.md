@@ -1,4 +1,4 @@
-## 1.4 | Life from every death,death from every life.
+## 1.4 | Life from every death, death from every life.
 
 **Released at**: `Unreleased`
 
