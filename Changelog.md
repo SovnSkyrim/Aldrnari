@@ -30,6 +30,8 @@ Added:
   - Wintersun - More interesting Kynareth and Jephre
   - Wintersun - More interesting Mara
   - All the patches I could find
+- Kaidan 2 
+  - With the Voice Fixes, Visual Overhaul by PoeticAnt44, the Katana HD Replacer and HD Armor Replacer 
 - Frozen in Time - Definitely Not A Snow Elf Waifu Mod
 - Zephyr - Standalone Rabbit Companion and Friend
 - Arissa - The Wandering Rogue
