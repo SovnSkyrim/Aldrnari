@@ -1,6 +1,6 @@
 ## 1.4 | Life from every death, death from every life.
 
-**Released at**: `Unreleased`
+**Released at**: `15/12/2021`
 
 **Notes** : Not Savefile Compatible
 
