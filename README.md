@@ -301,8 +301,6 @@ If you have trouble setting up a hotkey at any point in the following MCM sectio
 - Misc. Player :
   - Require Torso Armor : Enabled
   - (you can tweak stuff showing on you whenever you want, if something bothers you)
-- NPC :
-  - Enable Weapons : Enabled
 
 #### Better Vampire NPCs
 - Not an MCM   
