@@ -1,4 +1,4 @@
-## 1.4 | Fixes
+## 1.4.1 | Fixes
 
 **Released at**: `18/12/2021`
 
