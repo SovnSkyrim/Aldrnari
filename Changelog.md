@@ -1,3 +1,34 @@
+## 1.4 | Fixes
+
+**Released at**: `18/12/2021`
+
+**Notes** : Not Savefile Compatible
+
+Added:
+
+- JK's Haelga's Bunkhouse and Distinct Interiors Patch
+- VIGILANT SE - Footprints Patch
+
+Removed:
+
+- CBPC Equipment Physics
+- Curse of the Undying
+
+Updated:
+
+- Lux
+- Jk's Interiors Patch Collection
+- New Beginnings - Alternate Perspective Extension
+- Torch Cremation SE
+- Security Overhaul SKSE - Some More Locks
+- Torch Cremation
+- Automatic Animations
+- CBBE 3BA
+
+Fixed:
+
+- A lot of crashes
+
 ## 1.4 | Life from every death, death from every life.
 
 **Released at**: `15/12/2021`
