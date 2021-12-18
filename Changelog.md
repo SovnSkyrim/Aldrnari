@@ -1,3 +1,18 @@
+## 1.4.1 Re-released | Fixes
+
+**Released at**: `18/12/2021`
+
+**Notes** : Savefile Compatible
+
+Removed:
+
+- AllGUD fix for Skyrim Outfit System SE Revived
+  - Causes crashes when swapping armor without using OSSER
+
+Updated: 
+
+- Simplicity of Snow
+
 ## 1.4.1 | Fixes
 
 **Released at**: `18/12/2021`
