@@ -1,3 +1,32 @@
+## 1.4.2 | Fixes 2
+
+**Released at**: `20/12/2021`
+
+**Notes** : Not Savefile Compatible - Frequently Asked Tweaks / I'm tired of seeing complaints.
+
+Added:
+
+- Know Your Enemy Redux and Expansion Patches
+- SkyUI Weapons Pack SE Keywords
+- Vanargand Animations - Archery
+- Shaders of Solstheim - Ash and Moss
+
+Removed:
+
+- Weapons Repositioner SE
+- Saints and Seducers as a playable race. (was a mistake)
+  
+Adjustements:
+
+- Back to old Bodyslide Preset
+- More Synthesis Patchers
+  - LootableCrates
+  - SynBundler
+  - SynWeaponKeywords
+- No more Spider touch on mages
+- removed stagger when using swords on heavy armored foes
+  - Added KYE Redux instead.
+
 ## 1.4.1 Re-released | Fixes
 
 **Released at**: `18/12/2021`
