@@ -6,7 +6,6 @@
 
 Added:
 
-- Know Your Enemy Redux and Expansion Patches
 - SkyUI Weapons Pack SE Keywords
 - Vanargand Animations - Archery
 - Shaders of Solstheim - Ash and Moss
@@ -25,7 +24,6 @@ Adjustements:
   - SynWeaponKeywords
 - No more Spider touch on mages
 - removed stagger when using swords on heavy armored foes
-  - Added KYE Redux instead.
 
 ## 1.4.1 Re-released | Fixes
 
