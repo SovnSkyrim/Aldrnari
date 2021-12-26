@@ -97,9 +97,9 @@ They have been choosen because they enable many different playstyles and also ma
 
 One of the deviations from main EnaiRim. Why? Because it allows both NPCs and the Player to use its passive effects, and it has parts of Imperious along with parts of other race overhauls. It will also bring a good diversity of potential builds.
 
-- **[Mundustar](https://www.nexusmods.com/skyrimspecialedition/mods/41674)**
+- **[Andromeda](https://www.nexusmods.com/skyrimspecialedition/mods/14910)**
 
-Standing Stones overhaul with some drawbacks. I really wanted something different from the usual Andromeda, so I gave Mundustar a chance, and so far it has yet to disappoint me.
+Good old Andromeda; still as OP as the old days!
 
 - **[Odin](https://www.nexusmods.com/skyrimspecialedition/mods/46000)** for vanilla spells.
 - **[Arcanum](https://www.nexusmods.com/skyrimspecialedition/mods/23488)** and **[Triumvirate](https://www.nexusmods.com/skyrimspecialedition/mods/39170)** for added spells.
@@ -114,9 +114,9 @@ Forceful Tongue is used to overhaul Shouts as I've never really gotten into Thun
 
 As for Challenging Spell Learning, that's because eating books sucks and is too simple. This mod will trigger a sort of "ritual" where your magicka will be drained for 10 seconds and if it doesn't reach zero, you learn the spell. The strength of the drain depend on the level of the spell, it's mana cost, and your enchantments. Failing the ritual gives you a temporary debuff.
 
-- **[Pilgrim](https://www.nexusmods.com/skyrimspecialedition/mods/54099)**
+- **[Wintersun](https://www.nexusmods.com/skyrimspecialedition/mods/22506)**
 
-Simon's latest overhaul, I really wanted to test it since Wintersun was always just "here" in my eyes.
+Provides quite a few deities to follow; to make your character even stronger than it already is.
 
 - **[Apothecary](https://www.nexusmods.com/skyrimspecialedition/mods/52130)**
 
