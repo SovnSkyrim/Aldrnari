@@ -425,9 +425,7 @@ Please Note: Do NOT change sex or race with showracemenu after first confirming 
 
 ### A word on transformation based builds
 
-Werewolves are currently being investigated due to a large amount of bug reports, so unless you want to actively help the development by submitting detailled bug reports, I strongly advise against running such builds. (Liches and Vampire Lords should be fine though)
-
-What's wrong with them? They make your game freeze when you transform; and if you don't crash then you can't load savefiles after using the powers.
+Transformation based builds (Vampire Lords/Werewolves and Liches) causes game freezes. Avoid making a build around those archetypes.
 
 The original transformation during the Companions questline is harmless.
 
