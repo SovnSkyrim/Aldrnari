@@ -371,7 +371,6 @@ If you have trouble setting up a hotkey at any point in the following MCM sectio
 #### Real Names
 - Basic Options:
 	- Settings
-		- Strangers Mode: Enabled
 		- Title Preference:Title and/or Surname>Epithet
 	- Special Exclusions:
 		- Exclude Dragon Priests?: Enabled
