@@ -409,6 +409,10 @@ Cycle through all the tabs
     - Presets
        - Difficult Preset
 
+#### True Directional Movement
+- General
+  - Directional Movement (Drawn): Disable
+
 # How to start playing
 
 Once done with the MCMs, talk to the Dragon in front of you and choose a start. Or use the door to be welcomed in a lively Helgen. 
