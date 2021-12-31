@@ -424,9 +424,7 @@ Please Note: Do NOT change sex or race with showracemenu after first confirming 
 
 ### A word on transformation based builds
 
-Transformation based builds (Vampire Lords/Werewolves and Liches) causes game freezes. Avoid making a build around those archetypes.
-
-The original transformation during the Companions questline is harmless.
+Transformation based builds (Vampire Lords/Werewolves) causes game freezes if you save your game while transformed. So avoid doing that.
 
 ### Community Discord?
 If you want to join the community discord; click [here](https://discord.gg/FAfPb9T)!
