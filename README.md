@@ -429,6 +429,7 @@ Please Note: Do NOT change sex or race with showracemenu after first confirming 
 ### A word on transformation based builds
 
 Transformation based builds (Vampire Lords/Werewolves) causes game freezes if you save your game while transformed. So avoid doing that.
+It also has been reported that saving as a Vampire Lord in Castle Volkihar, right after the transformation corrupts savefiles (but going out and fast traveling is fine afterwards) so avoid that too!
 
 ### Community Discord?
 If you want to join the community discord; click [here](https://discord.gg/FAfPb9T)!
