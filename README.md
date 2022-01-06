@@ -132,6 +132,9 @@ I highly recommend uninstalling the game through Steam, deleting the game folder
 
 Skyrim got an update on the 11th of November, with free Creation Club content. We use this update for ease of installation, despite downgrading the .exe through Wabbajack and not using any Creation Club Content. This list does not require the Anniversary Edition Upgrade, if you have this version installed Wabbajack should still recognize your Skyrim installation; it will simply not use any Creation Club Content installed.
 
+#Temporary Notice:
+Use the downgrade patcher found [here](https://www.nexusmods.com/skyrimspecialedition/mods/57618?tab=files); the **Patch353to342.exe**. Else it will not work and the installation will not proceed!
+
 ## Start Skyrim
 
 After you have done everything above and got a clean SSE installation ready, start the Launcher and open the _Options_ menu.
