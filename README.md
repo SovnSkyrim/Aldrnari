@@ -132,9 +132,6 @@ I highly recommend uninstalling the game through Steam, deleting the game folder
 
 Skyrim got an update on the 11th of November, with free Creation Club content. We use this update for ease of installation, despite downgrading the .exe through Wabbajack and not using any Creation Club Content. This list does not require the Anniversary Edition Upgrade, if you have this version installed Wabbajack should still recognize your Skyrim installation; it will simply not use any Creation Club Content installed.
 
-#Temporary Notice:
-Use the downgrade patcher found [here](https://www.nexusmods.com/skyrimspecialedition/mods/57618?tab=files); the **Patch353to342.exe**. Else it will not work and the installation will not proceed!
-
 ## Start Skyrim
 
 After you have done everything above and got a clean SSE installation ready, start the Launcher and open the _Options_ menu.
@@ -165,6 +162,8 @@ The following files are **NOT** going to download themselves through Wabbajack. 
 
 On top of those required files, there is a high chance that the mods in [this spreadsheet](https://docs.google.com/spreadsheets/d/1ouhJioGEfyNdpBbNU874-0zKjG_Q8Z3Xr57P4-2maMw/edit?usp=sharing) are goint to cause issues while downloading. So if you plan on leaving it overnight, [get those](https://docs.google.com/spreadsheets/d/1ouhJioGEfyNdpBbNU874-0zKjG_Q8Z3Xr57P4-2maMw/edit?usp=sharing) manually first, place in the downloads folder that is going to get created in the next step, and start the download as instructed in the next step. 
 
+## Temporary Notice:
+Use the downgrade patcher (the **Patch353to342.exe**) found [here](https://www.nexusmods.com/skyrimspecialedition/mods/57618?tab=files); the **Patch353to342.exe**. Else it will not work and the installation will not proceed!
 ## Downloading and Installing
 
 The download and installation process can take a very long time (10+hours) depending on your system specs. Wabbajack will calculate the amount of threads it will use at the start of the installation. To have the highest amount of threads and thus the fastest speed, it is advised to have the working folder on an SSD.
