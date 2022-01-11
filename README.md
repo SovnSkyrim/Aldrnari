@@ -171,6 +171,8 @@ Use the downgrade patcher found [here](https://www.nexusmods.com/skyrimspecialed
 
 Else Wabbajack will not work and the installation will not proceed!
 
+## Downloading and Installing
+
 The download and installation process can take a very long time (10+hours) depending on your system specs. Wabbajack will calculate the amount of threads it will use at the start of the installation. To have the highest amount of threads and thus the fastest speed, it is advised to have the working folder on an SSD.
 
 #### The BSA creation is an extremely important step to avoid the list being over 500GB in size and gain performance. It will take over 10hours for some people and that is normal. Avoid closing Wabbajack during it. Complaining about it in support isn't going to make it faster so please avoid doing so.
