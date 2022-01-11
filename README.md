@@ -163,8 +163,13 @@ The following files are **NOT** going to download themselves through Wabbajack. 
 On top of those required files, there is a high chance that the mods in [this spreadsheet](https://docs.google.com/spreadsheets/d/1ouhJioGEfyNdpBbNU874-0zKjG_Q8Z3Xr57P4-2maMw/edit?usp=sharing) are goint to cause issues while downloading. So if you plan on leaving it overnight, [get those](https://docs.google.com/spreadsheets/d/1ouhJioGEfyNdpBbNU874-0zKjG_Q8Z3Xr57P4-2maMw/edit?usp=sharing) manually first, place in the downloads folder that is going to get created in the next step, and start the download as instructed in the next step. 
 
 ## Temporary Notice:
-Use the downgrade patcher (the **Patch353to342.exe**) found [here](https://www.nexusmods.com/skyrimspecialedition/mods/57618?tab=files); the **Patch353to342.exe**. Else it will not work and the installation will not proceed!
-## Downloading and Installing
+**DOWNGRADE TO SKYRIM 1.6.353**
+
+Use the downgrade patcher found [here](https://www.nexusmods.com/skyrimspecialedition/mods/57618?tab=files); 
+
+**DOWNGRADE TO SKYRIM 1.6.353**
+
+Else Wabbajack will not work and the installation will not proceed!
 
 The download and installation process can take a very long time (10+hours) depending on your system specs. Wabbajack will calculate the amount of threads it will use at the start of the installation. To have the highest amount of threads and thus the fastest speed, it is advised to have the working folder on an SSD.
 
