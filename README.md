@@ -163,11 +163,11 @@ The following files are **NOT** going to download themselves through Wabbajack. 
 On top of those required files, there is a high chance that the mods in [this spreadsheet](https://docs.google.com/spreadsheets/d/1ouhJioGEfyNdpBbNU874-0zKjG_Q8Z3Xr57P4-2maMw/edit?usp=sharing) are goint to cause issues while downloading. So if you plan on leaving it overnight, [get those](https://docs.google.com/spreadsheets/d/1ouhJioGEfyNdpBbNU874-0zKjG_Q8Z3Xr57P4-2maMw/edit?usp=sharing) manually first, place in the downloads folder that is going to get created in the next step, and start the download as instructed in the next step. 
 
 ## Temporary Notice:
-**DOWNGRADE TO SKYRIM 1.6.353**
+**DOWNGRADE TO SKYRIM 1.6.342**
 
 Use the downgrade patcher found [here](https://www.nexusmods.com/skyrimspecialedition/mods/57618?tab=files); 
 
-**DOWNGRADE TO SKYRIM 1.6.353**
+**DOWNGRADE TO SKYRIM 1.6.342**
 
 Else Wabbajack will not work and the installation will not proceed!
 
