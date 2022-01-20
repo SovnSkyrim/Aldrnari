@@ -164,10 +164,12 @@ On top of those required files, there is a high chance that the mods in [this sp
 
 ## Temporary Notice:
 **DOWNGRADE TO SKYRIM 1.6.342**
+**THE VERSION FROM THE 12TH DECEMBER**
 
-Use the downgrade patcher found [here](https://www.nexusmods.com/skyrimspecialedition/mods/57618?tab=files); 
+Use the download patcher found [here](https://www.nexusmods.com/skyrimspecialedition/mods/61756);
 
 **DOWNGRADE TO SKYRIM 1.6.342**
+**THE VERSION FROM THE 12TH DECEMBER**
 
 Else Wabbajack will not work and the installation will not proceed!
 
