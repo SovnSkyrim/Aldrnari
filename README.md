@@ -43,7 +43,6 @@ It is an ode to my love for folk music; in fact, the idea came when I began list
 Aldrnari means "the nourisher of life" and is one of the many ways to say "fire" in Old Norse.
 The idea came from the Heilung track [Elddansurin](https://www.youtube.com/watch?v=Xph2Phcj0LA) (it means [The fire dancer](https://lyricstranslate.com/en/elddansurin-fire-dancer.html)) because it represents how folk helped heal my soul and how, in Dark Souls, fire is extremely important.
 Because yes, this list is heavily inspired by the Souls Games in the combat and gameplay mechanics, as you'll see further below.
-
 This list is made to be challenging, rewarding, and, eventually, you will become an overpowered Dragonborn who goes against terrible and fierce enemies. 
 It is deeply inspired by games like Dark Souls and Hellblade: Senua's Sacrifice, while having an artistic direction that comes close to screen-archery.
 
@@ -82,7 +81,7 @@ Full PC Part Picker setup is [here](https://fr.pcpartpicker.com/list/ZHQQgt). I 
 
 TitansBane, author of [Elysium](https://github.com/TitansBane/Elysium) has stated this: "When using Zangdar's ENB, the one within Elysium that **doesn't fit the weather mod** used in this list, I had more FPS than with Elysium, reaching a steady 60 FPS with a 3080, unlike Elysium which would dip to 50FPS. The key here is that the **recommended ENBs**, suited for NAT III, are even **heavier** resulting in dips at 45FPS at times, all of this at 1440p."
 
-If you want to join the community discord; click [here](https://discord.gg/Hg7HgzuZ)!
+If you want to join the community Discord; click [here](https://discord.gg/FAfPb9T)!
 
 No performance options are available for now. There are some directions at the bottom of this readme but they're directions; **you're on your own**.
 
