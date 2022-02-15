@@ -247,7 +247,7 @@ PRTX XII ENB Presets are extremely customizable, so go look up on it's modpage o
 
 Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. Once it's launched, there will be a dropdown box on the top right and a big run button next to it. Ensure it is set to SKSE by selecting it in the dropdown box and then hitting the run button.
 
-If a message [Registry Key do not match](https://cdn.discordapp.com/attachments/879580504351981598/881915659188060230/mah1.jpg) appear, press Yes.
+If a message [Registry Key does not match](https://cdn.discordapp.com/attachments/879580504351981598/881915659188060230/mah1.jpg) appear, press Yes.
 
 Upon pressing New Game, you will be in a little room, with a dragon in front of you. This means the game is modded and you can go to MCMs; after a little note on updating the list.
 
