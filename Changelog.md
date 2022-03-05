@@ -1,3 +1,325 @@
+## 1.5 And he's called Allfather..
+
+**Released at**: `Unreleased`
+
+**Notes** : Not Savefile Compatible
+
+### A new combat setup 
+- Base / Plugins required
+  - Skyrim Platform
+  - IFrame Generator
+  - Ultimate Combat and Creatures Behaviour compatibility for Nemesis
+  - Stagger On Hit SKSE
+  - Flinching - Script Free Edition
+  - Attack Speed Framework
+  - Regen Adjuster SKSE
+  - Everyone's Stamina Matters -- Stamina Overhaul (SKSE)
+  - Elder Souls - Sweep Attacks Standalone SE
+  - Action Based Projectiles - Dodgeable Range Attacks
+  - TK Dodge RE
+  - Smooth TK Dodge Attack
+  - Elden Ring Step Dodge
+  - Unblockable
+  - Strike Obstruction Systems - Combat Blocking Overhaul
+- Core: SkySA
+  - SkySA - Combat Behavior Compulsion
+  - SkySA - First Person View SSE
+  - SkySA - Intense Combat
+  - SkySa Bug Fix
+  - JH Combat Animation Pack
+  - Rapier/Claw/Battlestaff/Dual Mace Animations for SkySA
+  - Black Flame Friede Dual-Wield Animations SE
+- Flavouring:
+  - Shield debuff
+  - Distance Based Combat
+  - AMMCO (Arena Movement - Movement Combat Overhaul)
+  - Hotkey Potions
+  - Casting Aiming Reloading Impede Movement
+  - CGO Stripped / Quiet Better Jumping for CGO Stripped
+  - Better Third Person Selection - BTPS
+- The mods that stay (no changements)
+- VioLens/Heartbreaker/Bow Charge Plus/Smoothcam/zxslice Backstab parry and Potions
+- Thu'um/Smooth's Animations for Sheathing/walking/Vanargand Animations
+
+It is worth noting that most animations in the game has been changed, not just combat ones.
+
+### Added:
+- Berserkyr ENB
+  - Now the default ENB
+- Sovn's Spell Books for Summermyst Enchants
+  - It's a private mod made for the list. 
+  - Summary: You'll find books that look like spell tomes, but they teach you Summermyst Enchants instead of spells.
+- New Weapons and armors distributed in the World
+  - Bluthund - A Longsword
+  - Eikbiter - A Long Axe
+  - Blades of Ice
+  - Wind Ruler Armor SE (and Wind Ruler Armor SE - hdt-SMP Patch)
+  - Stormcloak Warmaiden Armor
+  - Imperial Quaestor Armor
+  - Kreiste's Archer Outfit
+  - Kreiste's Scholar Outfit
+  - Fancy Bows with ENB Lights
+  - Dwueth'Var - The Star Razor
+  - Armors of the Velothi Pt. I
+- New Weapons and armors obtainable through a specific crafting perk:
+  - Kreiste's Snow Strider Outfit
+  - DX RedRibbon
+  - Knight of the Village - My version SE-AE
+- Revamp of Horse Management with:
+  - Horses for Followers
+  - Iron Dusk's Saddlebags for Horses
+  - Simple Horse SE / MCM Addon
+- Schlitzohr's new cities with their Modpocalypse NPCs Addons:
+  - Lainalten
+  - Sunthgat
+  - Amber Guard
+  - Granitehall
+  - Reich Corigate
+  - Granite Hill Village
+  - Dunpar Wall
+  - Oakwood
+- New Shout Overhauls
+  - Ultimate Shouts
+  - Thunderchild - Epic Shouts and Immersion
+  - Unique Dragon Aspect
+- New Dragons Setup
+  - Dragon Combat Overhaul UPGRADED BABY YEAH / UNOFFICIAL Tweaks and Patches
+  - Diverse Dragons Collection SE (DDCse)
+  - Splendor - Dragon Variants SE
+  - Deadly Dragons + Patches for DDCse/Splendor
+- New Magic Learning/Execution Methods
+  - Spell Tutor
+  - FIZZLE
+- Fast Travel Overhauls
+  - Sojourn Over Signposts - Witcher-Style Fast Travel Alternative
+  - Fast Travel by Horse SE
+- Lux Orbis
+- Wintersun Skillrate Alternative
+- Campfire Skillrate Alternative
+- Contextual Crosshair
+- Simple Dual Sheath
+- Immersive Equipment Displays
+- RedBag's Rorikstead
+- Snazzy Furniture and Clutter Overhaul SE
+- JK's Jorrvaskr
+- JK's High Hrothgar
+- JK's Sky Haven Temple
+- Sky Haven Temple - Gardens
+- JKs Guild HQ Interiors Patch Collection
+- Half-Moon Mill - Cities of the North Addon / Patch Collection
+- Darkwater Crossing - A Great Towns and Villages of Eastmarch Addon / Patch Collection / Lux Patch
+- Anga's Mill - Cities of the North Addon / Lux Patch
+- Heartwood Mill - TGC Riften Lumbermill
+- Kolskeggr Mine - A Great Towns and Villages of the Reach Addon / Lux Patch
+- Emily - An Adoptable Kid
+- Undeath Classical Lichdom - The Ascension (Lite)
+- Heroic Ancient Nords
+- Ghosts of Akavir - A Boss mod
+- Honed Metal -NPC Crafting and Enchanting Services- / Ordinator Perks Patch / Additional Materials UPDATED Patch
+  - Replaces the old Honed Metal that was in; unsure if it's an update.
+- Faster HDT-SMP
+- Enhanced Invisibility
+- Oxygen Meter 2
+- Custom Difficulty UI
+- Swiftly Order Squad - Follower Commands UI
+- Screenshot Helper
+- Detection Meter
+- Better Third Person Selection - BTPS
+- Enhanced Volumetric Lighting and Shadows (EVLaS)
+- Bandit Lines Expansion
+- Dapper Deliveries - A Courier Overhaul
+- Smooth Random Equip Animation(1H/2H/Dagger/Unarmed)
+- The Elder Scrolls Legends - Loading Screens
+- Fan Art Loading Screen Replacer for New Worldspaces
+- Riften-Style Autumnwatch Lodge
+- TESL Loading Screens - Tweaks and Addons
+- Vittorias Alternate Wedding
+- Venjhammet dungeons - Unique rewards - SE-AE
+- Bosmer NPCs have Antlers - Texture Patch
+- Cathedral 3D Mountain Flowers for Hearthfire
+- VIGILANT SE - HD Project - Arkay
+- At Your Own Pace - Thieves Guild
+- At Your Own Pace - Misc
+- At Your Own Pace - Dark Brotherhood
+- Listen - Dark Brotherhood Radiant Quests
+- XPMSSE - Nemesis - Papyrus Stack Fix
+- Search and Seizure for Good Guys / Dialog Patch
+- Attunement Sphere and Lexicon Distributor
+- Detailed NPCs - Bandages for NPCs (SPID)
+- Detailed NPCs - Simple Wearable Lanterns for NPCs (SPID)
+- Detailed NPCs - Hip Bags for NPCs (SPID) / Simplified Bags for Detailed NPCs - Hip Bags for NPCs (SPID)
+- Detailed NPCs - Dog Backpacks for NPDogs (SPID)
+- Carriages HD UHD
+- Eerie Ectoplasm
+- Dusty Vampire Dust
+- Surreal Spriggan Sap
+- High poly Mudcrab n Retexture
+- Security Overhaul SKSE - Regional Locks
+- Neloth's Experimental Subject Quest (DLC2TTR4a) Fix
+- XNFRain's Civil War Map Flag Replacer SE
+- Apocrypha ENB Light
+- Dwemer Tech Glowmapped With ENB Light
+- Particle Lights for ENB - Dwarven Spiders
+- Particle Lights for ENB - Falmer Drips
+- Particle Lights for ENB - Moon Crests
+- Masque of Clavicus Vile
+- Pause Menu After Load Screens
+- Runic Dawnguard - Separated Lost Relic Questline
+- Conditional tavern cheering and applause animation variety for NPC (DAR mod)
+- Valkyr HDT-SMP Hairstyles
+- Valkyr HDT-SMP Hairstyles 02
+- Niohoggr Warpaints
+- Immersive folded hands - new idles and offsetarmscrossed.hkx replacer for NPC with new variants by conditions (DAR mod)
+- NPC Animation Remix (DAR)
+- Random first person magic animation SSE with DAR
+- Immersive Kaidan Start
+- Elegant Candlelight
+- Elder Council Amulet Replacer
+- Base Object Swapper
+- Unique Markarth Doors - Security Overhaul SKSE - Base Object Swapper
+- Stones of Solitude - Better Blended Rock Piles
+- Mediocre Lux Patches for Cells Added by New Worlds
+- Unofficial Lux Patchhub
+- Lux Variants
+- The Tournament of Ten Tweaks
+- Cathedral 3D Mountain Flowers - Base Object Swapper
+- Dynamic Things Alternative - Base Object Swapper
+- Apothecary - Awesome Potions Simplified Patch
+- Fancy Sleeping Tree Replacer
+- Simple Offence Suppression / MCM / Combat Only
+- Daedric Shrines - Peryite
+- Daedric Shrines - Hircine
+- Daedric Shrines - Mephala
+- Daedric Shrines - Sanguine
+- Major Cities Mesh Overhaul
+- Fix blocking move
+- Darkend nerf and balance patch SSE - Updated
+- Cold Region Behavior - Fur Hoods Fix
+- Party Damage Control SSE
+- Flickering Meshes Fix
+- Unofficial Lux Patchhub
+- Skyrim Priority SE AE - skse plugin
+- ENB Input Disabler
+- Water Effects Brightness and Reflection Fix
+- CC Saints and Seducers - Less Obnoxious Elytra Footsteps
+- LOD Unloading Bug Fix
+- Floating Ash Pile Fix
+- FYX - 3D Honeyside Deck Floor
+- FYX - 3D Dock Ramp
+- Bright Falling Leaves Fix
+- Intimate Refined - Smoothcam Preset
+- Summerset Shadows Banner Fix
+- New Legion and Guard Armor Replacer Back shields fix
+- Disable NPC stretching idle
+- WIDeadBodyCleanupScript Crash Fix
+- Enchanted Weapon Charge Fix
+
+### Fixed:
+
+- Dark Brotherhood Armor using the wrong paths for the texture.
+- Miraak Floating Mask not having right spell.
+- Some Forgotten Magic Spelltomes had missing riddles.
+- Kaidan and Aviendha being too strong
+- Actually contains King of Worms | Queen of Dawn
+- Dragon Aspect
+- bunch of other stuff
+
+### Removed:
+
+- Forceful Tongue / Shouts in the Dragon Tongue
+  - Replaced by the new Shout Overhauls
+- Dragon War and it's Variants Addon
+  - Deemed too weak. Replaced by the new Dragon Setup
+- Challenging Spell Learning
+  - Replaced by Spell Tutor
+- Lanterns of Skyrim II - Tamriel Master Lights
+  - Fuck WiZkiD and his Discord full of pirated mods - Replaced by Lux Orbis
+- Embers HD and Inferno - Fire Effect Redux
+  - Replaced by Embers XD
+- Serana Dialogue Edit
+  - Serana Dialogue Add-on does the job quite well and both next to one another doesn't make sense anymore.
+- Immersive Fort Dawnguard
+  - Temporary removal until I fix it's implementation; or switch Fort Dawnguard Overhaul
+- All Geared Up Derivative
+  - Replaced by Immersive Equipment Displays and Simple Dual Sheath
+- Oblivion-like Loading Menu
+  - Removed in favor of The Elder Scrolls Legends - Loading Screens
+- Ravenholm
+  - Lots of CTDs
+- Skald's mail
+  - Wasn't using it as much as I thought I would. Dapper Deliveries is now a thing
+- Thieves Guild Requirements
+  - Replaced by At Your Own Pace - Thieves Guild
+- Your Choices Matter - A Dark Brotherhood Expansion SSE
+  - Should've never been there in the first place, remains of testing.
+  - Replaced by Listen - Dark Brotherhood Radiant Quests and At Your Own Pace - Dark Brotherhood
+- The Great City of Rorikstead
+  - Replaced by RedBag's Rorikstead
+- EVG Conditional Idles
+- Settlements Expanded
+  - Replaced by the COTN/TGC addons for little settlements and Schlitzohr's new cities
+- Dynamic Volumetric Lighting and Sun Shadows
+  - Replaced by Enhanced Volumetric Lighting and Shadows
+- Oxygen Meter
+  - Replaced by Oxygen Meter 2
+- Immersive HUD
+  - Replaced by Contextual Crosshair
+
+### Updated:
+
+- Lux
+- Immersive Sounds Compendium to 3.0 (big update)
+- Serana Dialogue Add-on
+- Ash's Pilgrim Garments
+- Growl - Werebeasts of Skyrim
+- Vitrium - Spells and Tools Pack
+- Wraiths - My patches SE-AE
+- Literally Unplayable - Remove Not Needed Head Parts from Character Creation
+- Smooth Random Sprint Animation
+- Smooth Magic Casting Animation
+- Smooth Staff Animation
+- Smooth Combat non Combat idle Animation
+- Vanargand Animations - Female Idle Walk and Run
+- Security Overhaul SKSE - Lock Variations
+- Undeath - Classical Lichdom
+- Water for ENB
+- Deiform Alduin
+- Conduit
+- The Wheel of Time
+- The Distinct JK's Drunken Huntsman (Patch)
+- The Distinct JK's New Gnisis Cornerclub
+- The Distinct JK's Bits and Pieces (Patch)
+- Enemy Friendly Fire
+- Dynamic Animation Replacer
+- Rodryk's Dragon Bridge - Patch Collection
+- JK's Interiors Patch Collection
+- Fixed Mesh Lighting
+- Paulicus Poison Block
+- Vominheim - My addons and patches
+- JK's Haelga's Bunkhouse
+- JK's Understone Keep
+- Fabulous Familiars
+- Simplicity of Snow
+- Daedric Armor - My patches SE
+- Kaidan 2 Follower Voice Fixes and Additional Dialogue
+- Afterlife - Resurrected
+- SPID INI Reworked
+- Believable Weapons
+- More Wooden Bridges
+- SPID for Footprints
+- Heart Breaker - A Killmove Mod SE
+- Cover Your Head for Sacrosanct
+- Assorted Mesh Fixes
+- powerofthree's Papyrus Extender
+- Equip Enchantment Fix
+- Open World Loot - Encounter Zone and Loot Overhaul
+- OBIS-Missives Addon and OBIS-Missives-HeadHunter Addon
+- Dragon Priest Fix - Behaviour Overhaul
+- Enchanted Weapon Charge Fix
+- ModOrganizer 2
+- much more mods that I forgot about, sorry.
+  - I updated as much as I found in the updated tab of Nexus.
+
 ## 1.4.2 | Fixes 2
 
 **Released at**: `20/12/2021`
