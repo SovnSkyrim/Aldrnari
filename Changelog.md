@@ -1,4 +1,4 @@
-## 1.5 And he's called Allfather..
+## 1.5 | And he's called Allfather..
 
 **Released at**: `Unreleased`
 
