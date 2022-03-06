@@ -266,15 +266,13 @@ Updating is like installing. You only have to make sure that you select the same
 
 An entire document has been made to give you as much information as I could without going too deep in analysis of mods. This document is called **[Modified Gameplay.md](https://github.com/SovnSkyrim/Aldrnari/blob/main/Modified%20Gameplay.md)** and acts as a second readme for the core gameplay and questions about what to expect. So go read [it](https://github.com/SovnSkyrim/Aldrnari/blob/main/Modified%20Gameplay.md)! 
 
-## In-Game MCM Options
+## In-Game Options
 
 Before this, you will be prompted with character customization. You can change your appearance at any time with the ```showracemenu``` command, but be warned that you **cannot** change race and/or sex after the initial choice.
 
 You may want to use the command ```player.sae idlestaticposeastart``` to stop your character doing animations when using Racemenu. Just jump when you've got the control of your character to reset it.
 
-Once the game has loaded, wait until there are no more messages on the top left corner. Then you can hit escape and click on Mod Configuration to continue this section.
-
-MCMs are not automated due to a personal choice: There are many important tweaks, a mountain of informations, and useful stuff in them that can solve problems or make your experience better. Those are my own and what I recommend for the least amount of problems and a balanced experience.
+Once the game has loaded, wait until there are no more messages on the top left corner.
 
 #### Game Difficulty
 
