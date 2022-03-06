@@ -227,20 +227,21 @@ Here's [my setup, for example](https://cdn.discordapp.com/attachments/8795805043
 
 **Aldrnari has to be ran with an ENB**. 
 
-By default; Aldrnari comes with [NAT.ENB III](https://www.nexusmods.com/skyrimspecialedition/mods/27141) which is probably the best all rounded look for it.
-It isn't that heavy (no post processing) and looks pretty nice. It is also the reason why Aldrnari has to be ran with an ENB; I quote from NAT.III's modpage:
+By default; Aldrnari comes with **[Berserkyr ENB](https://www.nexusmods.com/skyrimspecialedition/mods/62381)** which is probably the best look for the list.
+You cannot remove the ENB as per NAT-ENB's modpage:
 
 **"NAT-ENB.esp PLUGIN IS NOT MEANT TO BE USED WITHOUT THE NAT.ENB preset, NEITHER THE ENB PRESET CANNOT BE USED WITHOUT THE NAT-ENB.esp PLUGIN.""**
 
-If you want to spice it up, and make it absolutely stunning. Well; let me tell you about [PRT XII](https://www.nexusmods.com/skyrimspecialedition/mods/4743), the ENB that is a cinematic suite of effects. It is also made by L00ping and requires NAT.III so no worries on that side.
+If you want to try other stuff, check out **[PRT XII](https://www.nexusmods.com/skyrimspecialedition/mods/4743)**, the ENB that is a cinematic suite of effects. It is also made by L00ping and requires NAT.III so no worries on that side.
 
-You can make it do anything, fantasy? check. Clear? check. Grim? check. It does everything and looks absolutely WONDERFUL!
-In the "ENBs" folder of the Installation folder, you'll have all the presets available on the modpage; you will have just 2 steps to install any of them:
+You can make it do anything, fantasy? check. Clear? check. Grim? check. It does everything and looks absolutely wonderful!
+In the "ENBs" folder of the Installation folder, you'll have all the presets available on the modpage; you will have just 3 steps to install any of them:
 
 - Delete the following: [the enbseries folder, the enblocal.ini file and the enbseries.ini file](https://cdn.discordapp.com/attachments/623314477151944718910214194635350037/unknown.png) and enbcache folder if present; in the Stock Game folder located in your installation folder..
-- copy and paste **THE CONTENTS OF THE FOLDER** named after the preset you want to use to the Stock Game folder located in your installation folde.
+- copy and paste **THE CONTENTS OF THE FOLDER** named after the preset you want to use to the Stock Game folder located in your installation folder.
+- Untick the mod ``Berserkyr ENB`` under ``Stuff I like at the bottom``
 
-Please re-do this steps every time you want to swap a preset! If you're curious, my favourite is the **GrittyReality** one.
+Please re-do this steps every time you want to swap a preset!
 PRTX XII ENB Presets are extremely customizable, so go look up on it's modpage on how to do so if you're into tinkering the look of your game!
 
 ## How to start up Aldrnari
@@ -266,6 +267,7 @@ Updating is like installing. You only have to make sure that you select the same
 An entire document has been made to give you as much information as I could without going too deep in analysis of mods. This document is called **[Modified Gameplay.md](https://github.com/SovnSkyrim/Aldrnari/blob/main/Modified%20Gameplay.md)** and acts as a second readme for the core gameplay and questions about what to expect. So go read [it](https://github.com/SovnSkyrim/Aldrnari/blob/main/Modified%20Gameplay.md)! 
 
 ## In-Game MCM Options
+
 Before this, you will be prompted with character customization. You can change your appearance at any time with the ```showracemenu``` command, but be warned that you **cannot** change race and/or sex after the initial choice.
 
 You may want to use the command ```player.sae idlestaticposeastart``` to stop your character doing animations when using Racemenu. Just jump when you've got the control of your character to reset it.
@@ -275,136 +277,41 @@ Once the game has loaded, wait until there are no more messages on the top left 
 MCMs are not automated due to a personal choice: There are many important tweaks, a mountain of informations, and useful stuff in them that can solve problems or make your experience better. Those are my own and what I recommend for the least amount of problems and a balanced experience.
 
 #### Game Difficulty
+
 - The difficulty in this Modlist is quite harder (more info on that in [Modified Gameplay.md](https://github.com/SovnSkyrim/Aldrnari/blob/main/Modified%20Gameplay.md)) so I highly suggest not using Legendary. I personally play on Expert. Adept is also fine.
 
-#### Before everything.
+You will be able to edit the percentage of damage taken and received through [Custom Difficulty UI](https://www.nexusmods.com/skyrimspecialedition/mods/14362)'s MCM, so don't hesitate pumping the difficulty high when you're op.
 
-If you have trouble setting up a hotkey at any point in the following MCM section; do the following:
+#### MCM Setup
+
+The MCMs have been automated thanks to [MCM Recorder](https://www.nexusmods.com/skyrimspecialedition/mods/61719).
+
+#### Keybindings
+
+Aldrnari has a multitude of new keys, here are the main changes:
+
+- TK Dodge: the Dodge key is on C
+  - to modify that key, open the mod in explorer and go to ```\SKSE\Plugins``` and open the ```TK Dodge RE.ini```
+- Smoothcam: Shoulder camera swap is on C aswell
+  - Modifiable in MCM
+- Simple Horse: H to call the horse
+  - Modifiable in MCM
+- SWL Toggle: L to light the lantern on when equipped
+  - Modifiable in MCM
+- True Directional Movement: G to use target lock
+  - Modifiable in MCM - Highly recommended to be put on a mouse button.
+- Hotkey Potions: Y for Healing potions, U for Stamina Potions
+  - Modifiable in MCM - Highly recommended to be put on a mouse button.
+- Campfire: N to create an item, B to build a campfire, H to harvest wood
+  - Modifiable in MCM
+
+If you cannot modify a keybind in a MCM; do the following:
 
 - Save and close the game.
 - in ```SKSE Based Mods``` (a separator, on the left panel of MO2), untick "Skyrim Souls RE - Updated"
 - Load back the game, and end the MCM setup.
 - Save and close the game again.
 - Tick it back on.
-
-#### All Geared up Derivative
-- Weapons - Player
-    - Shield Stay on arm while Equipped: Enable
-    - Toggle un/equipping Torso Armor: Enable 
-- Misc. Player :
-  - Require Torso Armor : Enabled
-  - (you can tweak stuff showing on you whenever you want, if something bothers you)
-
-#### Better Vampire NPCs
-- Not an MCM   
-    - In your inventory there's an item called "Vampire's Bloodgem" allowing to tweak stuff by clicking on it while crouched. 
-        - I leave it as default. You can tweak it all you want. Experimental stuff may cause issues as expected. When done drop the bloodgem.
-
-#### Campfire
-- Gameplay
-  - Hotkeys
-    - Set your Hotkeys however you want
-    - I go by :
-    - Create item : N
-    - Build Campfire : B
-    - Harvest wood : H
-    - Instincts : Nothing
-
-#### Cold Region Behavior
-- General Settings
-	- Main Settings
-		- Enable Mod Features
-
-#### Engarde: 
-- Keybutton
-    - Defensive Actions
-        - Modifier is by default Shift
-        - Swap stuff around depending on what you want, leave as default if you're new to Engarde. Keep in mind off-hand action requires shift to be pressed
-        - Defensive Action key: C 
-
-#### Follower Framework
-- Activity
-    - Sparring
-    	- Allow Sparring: Disabled 
-
-#### Heartbreaker (Optional) 
-- Main Settings
-    - Learn Spell Power: Enabled
-    - It gives you a power to put npcs in stagger once per IRL hour so you can rip out their hearts; you can also bind it so you can do it anytime.
-
-#### MoreHUD:
-- Presets
-    - Load User Settings?: GO
-
-#### OBIS - Bandits
-- Leave as is
-    - Why? Enabling in the MCMs is only for the additional spawns option, but that is not the aim of the encounter mods chosen in Aldrnari. I'm buffing everyone instead of giving you hordes of enemies.
-
-#### OBIS - Patrols
-- Settings
-    - Enable: Enabled
-
-#### Optimal Potion Hotkey
-- Set one keybind (mine is "<" for Health only, I don't use the other ones)
-
-#### Radiant Requirements
-- Settings
-  - Dragon lair: 10
-  - Draugr Crypt: 5
-  - Forsworn Camp: 10
-  - Hagraven Nest: 20
-  - Vampire Lair: 25
-  - Werewolf Lair: 25
-  - Dragon Priest Lair: 25
-  - Falmer Hive: 20
-  - Giant Camp: 20
-  - Spriggan Grove: 10
-  - Warlock Lair: 1
-
-#### Real Names
-- Basic Options:
-	- Settings
-		- Title Preference:Title and/or Surname>Epithet
-	- Special Exclusions:
-		- Exclude Dragon Priests?: Enabled
-		- Excluse Corpses?: Enabled
-
-#### SkyUI
-- Advanced → SWF Version Checking : 
-  - Map Menu : Disabled
-  - Favorites Menu : Disabled
-  - Inventory Menu : Disabled
-  - Barter Menu : Disabled
-  - Container Menu : Disabled
-  - Crafting Menu : Disabled
-
-#### SmoothCam  -for 3rd person players-
-- Presets
-  - Load Preset
-    There are two presets available for you to use. I personally prefer the Modern one but some prefer Souls Like, try both and see which you like!
-- Make sure only the Alternate Conversation Camera Patch is ticked in Compatibility.
-
-#### Thieves Guild Requirements
-- Misc Options 
-  - Load Preset  
-Cycle through all the tabs
- - Load Preset again (now it will stick)
-  
-#### Timing is Everything
-- Extra Options 
-  - Load Preset  
-Cycle through all the tabs
- - Load Preset again (now it will stick)
-
-#### Trade and Barter
-- Barter Rates
-  - Modify Barter Settings: Enabled
-    - Presets
-       - Difficult Preset
-
-#### True Directional Movement
-- General
-  - Directional Movement (Drawn): Disable
 
 # How to start playing
 
@@ -419,12 +326,8 @@ Please Note: Do NOT change sex or race with showracemenu after first confirming 
 
 ## FAQ
 
-### A word on transformation based builds
-
-Transformation based builds (Vampire Lords/Werewolves) causes game freezes if you save your game while transformed. So avoid doing that.
-It also has been reported that saving as a Vampire Lord in Castle Volkihar, right after the transformation corrupts savefiles (but going out and fast traveling is fine afterwards) so avoid that too!
-
 ### Community Discord?
+
 If you want to join the community discord; click [here](https://discord.gg/FAfPb9T)!
 
 ### Removing the Modlist
@@ -432,7 +335,8 @@ If you want to join the community discord; click [here](https://discord.gg/FAfPb
 You can just remove the MO2 folder and be done with it. Aldrnari uses the Stock Game system, which copies a game installation within it's installation folder, thus, it is entirely self contained.
 
 ### Gamepad Support?
-[Check this guide by Evanidus14](https://github.com/Evanidus14/Aldrnari-Gamepad-Setup)
+
+There isn't one at the moment. Feel free to test anything and come back to me.
 
 ### Nevernude for streaming/suspicious wife?
 
@@ -453,6 +357,7 @@ The 5th Facepart is a lie. Known and unsolvable. | Make sure to have selected a 
 Some NPCs have a neck seam, that's known, I'm waiting for an update of [EasyNPC](https://www.nexusmods.com/skyrimspecialedition/mods/52313?tab=description) to solve them, I talk to the author so don't worry, it'll come. Play with them for now.
 
 ### What perk does the new weapons use?
+
 - Rapiers get sword perks
 - Pikes get greatsword perks
 - Halberds get two-handed axe perks
@@ -473,12 +378,6 @@ If you wonder how they look, [here's a document which lists what overhauls who (
 If you do not find someone, they're either from [Pride of Skyrim AIO](https://www.nexusmods.com/skyrimspecialedition/mods/48904) if a male, or [Courageous Women of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/50812) if female. If neither of those have an overhaul, it'll be from [Modpocalypse](https://www.nexusmods.com/skyrimspecialedition/mods/54422). 
 
 Any criticism on that is NOT welcome, and it is, in fact, the only aspect of the game I do not take ANY criticism from. Hearing complaints about this stuff gives me an instant headache. I cannot please everybody, so I decided to please myself.
-
-### I can't dodge! C is swapping shoulders/Making me run!
-
-Watch [this video](https://www.youtube.com/watch?v=ZzyHYVAzQ8E) to replicate the setup.
-
-If it still isn't working, check SmoothCam's MCM and your vanilla keybindings to check if something is conflicting. C is merely a placeholder and can be anything, same for < for the potions, it can be anything you wish.
 
 ### New armors have different textures/invisible on my beast race character..
 
