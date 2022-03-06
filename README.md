@@ -365,7 +365,9 @@ Some NPCs have a neck seam, that's known, I'm waiting for an update of [EasyNPC]
 
 ### My character T-Poses!
 
-Cap your framerate, either with BethINI, SSE Display Tweaks, or ENB.
+If this is upon loading your savefile, that is normal.
+
+If it's constantly; cap your framerate, either with BethINI, SSE Display Tweaks, or ENB.
 
 ### "I am bothered by the way NPCs look in the game!" and "How do NPCs look?? Are they rugged? Are they supermodels? Are they vanilla?"
 
