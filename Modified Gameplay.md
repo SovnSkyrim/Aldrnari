@@ -2,7 +2,7 @@
 
 ![Logo](https://i.imgur.com/qOPBy7D.png)
 
-Yes, with 1800+ Mods, the game has changed quite a lot. I will try to describe, in the most comprehensive manner, what exactly the list is and what goal it's trying to achieve.
+Yes, with 2000+ Mods, the game has changed quite a lot. I will try to describe, in the most comprehensive manner, what exactly the list is and what goal it's trying to achieve.
 I will start with what the list isn't.
 
 ## What the list isn't
@@ -16,26 +16,15 @@ You're free from hoarding random items, and you have cool player homes with room
 Even the [Dev Aveza](https://www.nexusmods.com/skyrimspecialedition/mods/24587), my favourite part of LotD, is in, without being held back.
 
 ## What the list is
-## Gameplay - Combat | Engarde
+## Gameplay - Combat | SkySA, dodging, AIs and Parrying
 
-The main combat overhaul of Aldrnari is **[Engarde](https://www.nexusmods.com/skyrimspecialedition/mods/25673) - "Fixing Skyrim's melee combat one tweak at a time"**.
+[SkySA](https://www.nexusmods.com/skyrimspecialedition/mods/31390) in a nutshell, it's attack commitment. If you attack, you commit to it. You also loose stamina. It's the core, all animations revolve around it. Don't worry though [Everyone's Stamina Matters](https://www.nexusmods.com/skyrimspecialedition/mods/50502) makes it so your enemies are also struggling. [Casting Aiming Reloading Impede Movement](https://www.nexusmods.com/skyrimspecialedition/mods/63459) forces you to decide when to cast spells and use your bow. It's all commitment now.
 
-It is one of the most diverse combat overhauls on Nexus and a really fun one when mastered. Here I will describe a few core mechanics, but since it has so many mechanics, I highly suggest reading and watching videos on it (or don't and figure out techniques and mechanics by yourself, at the price of a lot of deaths).
+Now to dodge, there's [TK Dodge RE](https://www.nexusmods.com/skyrimspecialedition/mods/56956), to overhaul AI there's [Arena Movement](https://www.nexusmods.com/skyrimspecialedition/mods/53528) and [Distance Based Combat](https://www.nexusmods.com/skyrimspecialedition/mods/60855). Finally, to overhaul parrying we got [Strike Obstruction Systems](https://www.nexusmods.com/skyrimspecialedition/mods/53050) combined with [Unblockable](https://www.nexusmods.com/skyrimspecialedition/mods/41294).
 
-Unique Mechanics:
-- Stamina Management: It is more similar to the Dark Souls Style; two or three slashes will deplete your full stamina and you wont be able to attack anymore, you will need to back off (and use the walk button) to regenerate a part of it. Power Attacks and blocking also depletes it. 
-- Power Attacks: It is bound to a third button, detached from your usual click, and it has a cooldown. No more power attack spam with a warhammer to kill every bandit.
-- Off-hand: By default, if you have a Sword and a spell on your off-hand, using your left hand key will block and not use the spell. This allows dual wield blocking (which is needed in Aldrnari). To use the spell in your off-hand, press shift (by default) and your left hand key at the same time.
-- Enemies actually use stamina, so if they spam power attacks, play defensively and wait for the moment to strike!
-- Weapons have different ranges depending on what type they are.
-- Armors have resistances based on their keywords. If you use a dagger against steel armor, it obviously won't penetrate the steel. The same system applies to you, though, so play smart!
-- [Dodging is extremely important](http://prntscr.com/1i3k35m), the default key is C (when following my MCM Setup) and will only work when weapons are drawn. The invincibility frames, also known as iFrames, are generous, and it'll get you out of trouble a lot.
-
-### Gameplay - Combat | Other Combat Overhauls
-
-The list doesn't only ship with Engarde! Other mods come to make an ever more Dark Souls-inspired combat experience;
+Now for some other mods to make an ever more Dark Souls-inspired combat experience;
 - [ZUPA](https://www.nexusmods.com/skyrimspecialedition/mods/45182) forces 3rd person and plays an animation when drinking a potion, like how there's an animation for Estus in Dark Souls.
-- [Smart Optimal Salves](https://www.nexusmods.com/skyrimspecialedition/mods/42402) is an add-on to ZUPA, so you don't have to go in your inventory to drink a potion!
+- [Hotkey Potions](https://www.nexusmods.com/skyrimspecialedition/mods/60243) is an add-on to ZUPA, so you don't have to go in your inventory to drink a potion!
 - [zxlice BackStab and Parry](https://www.nexusmods.com/skyrimspecialedition/mods/43436) is self-explanatory! Backstabs and attacks of opportunity after succesful blocks... A really neat add-on.
 - [Heartbreaker](https://www.nexusmods.com/skyrimspecialedition/mods/1847) allows you to rip people's hearts straight from their chest. Metal, isn't it?
 - [SmoothCam](https://www.nexusmods.com/skyrimspecialedition/mods/41252) and [True Directional Movement](https://www.nexusmods.com/skyrimspecialedition/mods/51614) for the camera control, so it's actually usable in 3rd person.
@@ -51,7 +40,7 @@ Enemies will be drastically changed; I have made a very thorough merge of many p
 - [High Level Enemies](https://www.nexusmods.com/skyrimspecialedition/mods/3231) which, instead of the usual more variants, adds level 60+ enemies into leveled lists. 
 - [Real Bosses](https://www.nexusmods.com/skyrimspecialedition/mods/18183) because Skyrim Revamped does not touch bosses, for some reason, so this overhauls those to make sure the minions aren't stronger than the actual boss.
 - [SkyTEST](https://www.nexusmods.com/skyrimspecialedition/mods/1104) for animals only so they are an actual threat passed level 5.
-- [Dragon War](https://www.nexusmods.com/skyrimspecialedition/mods/51310) and its Variants add-on are what brings diversity and difficulty to Dragons so every encounter is a new challenge.
+- [Dragon Combat Overhaul UPGRADED BABY YEAH](https://www.nexusmods.com/skyrimspecialedition/mods/56082) will make you run for your life when facing dragons. Especially coupled with [Deadly Dragons](https://www.nexusmods.com/skyrimspecialedition/mods/23723), [Diverse Dragons Collection](https://www.nexusmods.com/skyrimspecialedition/mods/695) and [Splendor](https://www.nexusmods.com/skyrimspecialedition/mods/9670).
 - My very own **Sovn's Enchanted Spheres - Porting Requiem Enemies to Vanilla Skyrim** to bring some actual bosses in Dwarven ruins.
 - A set of 30+ Mihail Mods, which adds new enemies that dot the landscape. You can find them in the modlist under "MM -".
 - [Skyrim Immersive Creatures](https://www.nexusmods.com/skyrimspecialedition/mods/12680) is now fixed, implementing a ton of new enemies which will obviously help a lot bringing diversity to the world!
@@ -104,15 +93,21 @@ Good old Andromeda; still as OP as the old days!
 - **[Odin](https://www.nexusmods.com/skyrimspecialedition/mods/46000)** for vanilla spells.
 - **[Arcanum](https://www.nexusmods.com/skyrimspecialedition/mods/23488)** and **[Triumvirate](https://www.nexusmods.com/skyrimspecialedition/mods/39170)** for added spells.
 - **[Forgotten Magic Redone](https://www.nexusmods.com/skyrimspecialedition/mods/12711)** for reward spells. (more info below)
-- **[Forceful Tongue](https://www.nexusmods.com/skyrimspecialedition/mods/36276)** for shouts.
 - **[Reliquary of Myth](https://www.nexusmods.com/skyrimspecialedition/mods/31612)** for artifact enchantments.
-- **[Challenging Spell Learning](https://www.nexusmods.com/skyrimspecialedition/mods/20521)** for spell learning.
 
 I really wanted a certain spell that loots bodies around you from Odin, so it's how this one got chosen over Mysticism. Many have suggested Arcanum in my old list, so I'm giving it a chance here. Trust me, there's more than enough spells for any type of mage with this setup, so no need for Apocalypse or similar large package mods! Forgotten Magic Redone's tomes have been **handplaced throughout the world, quest mods included, so they're rewarded at completion of quests and key moments in the game**. Let's be honest, that mod's spells are absolutely OP, and they're supposed to be lost, so why would a merchant sell them in the Bannered Mare? A notes with hints on where to get them lies on a bench where knowledge is gathered within Skyrim. Triumvirate just makes sense, due to some spells fitting the atmosphere.
 
-Forceful Tongue is used to overhaul Shouts as I've never really gotten into Thunderchild, so I wanted something I'd actually use. In the total opposite mindset, Reliquary of Myth is used because it simply is so much more fun than Zim's in my opinion.
+- **[Spell Tutor](https://www.nexusmods.com/skyrimspecialedition/mods/45275)** and **[FIZZLE](https://www.nexusmods.com/skyrimspecialedition/mods/18180)**
 
-As for Challenging Spell Learning, that's because eating books sucks and is too simple. This mod will trigger a sort of "ritual" where your magicka will be drained for 10 seconds and if it doesn't reach zero, you learn the spell. The strength of the drain depend on the level of the spell, it's mana cost, and your enchantments. Failing the ritual gives you a temporary debuff.
+Spell Tutor overhauls the learning process, makes learning spells like a trial to actually learn them. FIZZLE makes sure you don't cast anything too high level too often.
+
+- **[Summermyst](https://www.nexusmods.com/skyrimspecialedition/mods/6285)**
+
+You will find those enchantements on spell tomes, when defeating strong enemies. Good hunting!
+
+- **[Ultimate Shouts](https://www.nexusmods.com/skyrimspecialedition/mods/57722)** and **[Thunderchild](https://www.nexusmods.com/skyrimspecialedition/mods/1460)**
+
+One makes shouts actually viable, the other adds new shouts! That's about it really, have fun with new cool stuff!
 
 - **[Wintersun](https://www.nexusmods.com/skyrimspecialedition/mods/22506)**
 
@@ -123,11 +118,13 @@ Provides quite a few deities to follow; to make your character even stronger tha
 I have sworn to never use kryptopyr's CACO ever again. This overhaul does *exactly* what it needs to do and is actually not a pain to patch. This is why it has been chosen. 
 We use both the Main mod and it's Food addon!
 
-
-
 You have all the tools to conquer the world thanks to the absurd strength and overpowered items, but those tools are also available to your enemies which will be forever challenging.
 
 Now that the bulk of the gameplay has been covered, I will continue on the atmosphere of the list.
+
+## Gameplay - Reducing the amount of Fast Travel and horse overhauls
+
+Fast travel is op.. I want you guys to discover the world, by foot. This is why we use [Sojourn over Signposts](https://www.nexusmods.com/skyrimspecialedition/mods/51567) and [Fast Travel by Horse](https://www.nexusmods.com/skyrimspecialedition/mods/17616). This makes you forced to use those damn horsies! They're cute and overhauled now! Thanks to [Simple Horse SE](https://www.nexusmods.com/skyrimspecialedition/mods/12650) and [Saddlebags](https://www.nexusmods.com/skyrim/mods/91395) (you access the bag by crouching and activating your horse)!
 
 ## Gameplay - Less known available tools.
 
@@ -184,16 +181,11 @@ Only downside: gatekept behind 70 Destruction, so it's not available right off t
 Check out the [modpage](https://www.nexusmods.com/skyrimspecialedition/mods/14890) if you wanna dive deeper into it. But keep in mind the mod's obtention of the spells and shouts are behind the perk, a specificity of the list!
 
 ## Visuals - Atmosphere and Weathers
-### Welcome to NAT.ENB III
+### Welcome to Berserkyr ENB
 
-NAT.ENB is l00ping's last work, it is an extremely varied weather. It is made to be as customizable as possible for ENBs and comes with a decent one (reminder, it's a Weather+ENB Combo). By default NAT III isn't the greatest looking but still holds up against modern ENBs. 
+**[Berserkyr ENB](https://www.nexusmods.com/skyrimspecialedition/mods/62381) by JPSteel2 is probably the most nordic looking ENB Preset out there.
 
-It shines most when replacing it with l00Ping's photography suite ***[PRT XII - PhotoRealistic Tamriel 12](https://www.nexusmods.com/skyrimspecialedition/mods/4743)*** and it becomes, in my opinion, the best ENB currently released.
-It does everything, and it's preset selection shows it. All the available presets are in the "ENBs" folder in the installation folder, pick one, see if you like, uninstall, if you don't like, repeat. *It's really that simple.*
-
-My favourite preset? GrittyReality.
-
-If you're into tailoring your graphics, this ENB is made for you, go read it's modpage, you'll be able to reach summits you never could never imagine. 
+If you wish to try other stuff, **[PRT XII](https://www.nexusmods.com/skyrimspecialedition/mods/4743)** still holds up as the best suite of effects for you to tinker.
 
 ### Visuals - City Overhauls
 
@@ -205,9 +197,9 @@ If you're into tailoring your graphics, this ENB is made for you, go read it's m
 - Windhelm also feels like a capital, with [Capital Windhelm Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/42990) and [City Entrances Overhaul: Windhelm](https://www.nexusmods.com/skyrimspecialedition/mods/19400)
 - Riften is now a real influencial fishing port thanks to [Riften Docks Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/40021) and gains some verticality thanks to [Another Skyrim: Riften](https://www.nexusmods.com/skyrim/mods/86586).
 - Markarth's wall is now massive thanks to [City Entrances Overhaul: Markarth](https://www.nexusmods.com/skyrimspecialedition/mods/37375)
-- "The Great City" Series overhauls a good number of minor towns and cities; we're talking [Rorikstead](https://www.nexusmods.com/skyrimspecialedition/mods/20151), [Mixwater Mill](https://www.nexusmods.com/skyrimspecialedition/mods/36350), [Karthwasten](https://www.nexusmods.com/skyrimspecialedition/mods/33032), [Kynesgrove](https://www.nexusmods.com/skyrimspecialedition/mods/42639), [Old Hroldan](https://www.nexusmods.com/skyrimspecialedition/mods/33189), [Ivarstead](https://www.nexusmods.com/skyrimspecialedition/mods/34505) and [Shor's Stone](https://www.nexusmods.com/skyrimspecialedition/mods/35977).
+- "The Great City" Series overhauls a good number of minor towns and cities; we're talking  [Mixwater Mill](https://www.nexusmods.com/skyrimspecialedition/mods/36350), [Karthwasten](https://www.nexusmods.com/skyrimspecialedition/mods/33032), [Kynesgrove](https://www.nexusmods.com/skyrimspecialedition/mods/42639), [Old Hroldan](https://www.nexusmods.com/skyrimspecialedition/mods/33189), [Ivarstead](https://www.nexusmods.com/skyrimspecialedition/mods/34505) and [Shor's Stone](https://www.nexusmods.com/skyrimspecialedition/mods/35977).
+- Rorikstead by [Redbag](https://www.nexusmods.com/skyrimspecialedition/mods/56114)!
 - Dragon Bridge is overhauled by [Rodryk](https://www.nexusmods.com/skyrimspecialedition/mods/42510)
-- [Settlements Expanded](https://www.nexusmods.com/skyrimspecialedition/mods/7777) make sure even miners around small mines have houses.
 - Raven Rock isn't forgotten, we use [Quaint Raven Rock](https://www.nexusmods.com/skyrimspecialedition/mods/20851)
 - The College of Winterhold is now a hub of magic thanks to [Obscure's College of Winterhold](https://www.nexusmods.com/skyrimspecialedition/mods/20514).
 - [Sepolcri](https://www.nexusmods.com/skyrimspecialedition/mods/34105) makes sure the cemeteries in Solitude, Riften, and Falkreath aren't lame.
@@ -246,7 +238,7 @@ This is made so you are not cluttered with 2000 free gear at level 1.
   - The Whispering Door: 40
   - Pieces of the past: 35
   - Boethiah's Calling: 40
-  - The Wolf Queen Awakened: 45 
+  - The Wolf Queen Awakened: 45
   - Unfathomable Depths: 32
   - Grimsever's Return: 32
   - Kill the Giant: 22 - Dawnstar Thane
@@ -301,6 +293,7 @@ Gotta have quest mods if there is no Legacy of the Dragonborn, right?
 - **[Gladys the Corgi](https://www.nexusmods.com/skyrimspecialedition/mods/50164)** is a custom Corgi follower that you can buy at the Solitude Docks. It has unique functionality like looting from the environment as well as the ability to play fetch!
 - **[Merlin the Corgi](https://www.nexusmods.com/skyrimspecialedition/mods/56433)** is a custom Corgi follower that is combat oriented! Travel to the Summoning Circle just north of Morthal to meet your new friend.
 - **[Zephy - Standalone Rabbit Companion and Friend](https://www.nexusmods.com/skyrimspecialedition/mods/32487)** can be found close to the basement stairs in Jorrvaskr in Whiterun; and become your companion!
+- **[Emily](https://www.nexusmods.com/skyrimspecialedition/mods/62004)** child follower! She'll hit people with a broom so don't expect her to be strong.
 
 ### Inigo...?
 A majority of people like him. I personally don't. On top of that, users reported non-issues from other Wabbajack lists to his Nexus page which led them to make a public pinned post about their [non-favorable stance with what we do](http://prntscr.com/1b2tt18). He needs tweaks, he is too strong and unbalanced, all followers above have been tweaked, since I am not allowed to do so by the Mod Author, I will not include him. This decision is final.
