@@ -1,6 +1,6 @@
 ## 1.5 | And he's called Allfather..
 
-**Released at**: `Unreleased`
+**Released at**: `06/03/2022`
 
 **Notes** : Not Savefile Compatible
 
