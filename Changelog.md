@@ -1,3 +1,29 @@
+## 1.5.1 | Bunch of bugfixes an
+
+**Released at**: `07/03/2022`
+
+**Notes** : Savefile Compatible
+
+Re-added:
+- Skyrim Souls RE
+  - Forgot to re-enable it before pushing 1.5, my bad
+
+Removed:
+
+- CGO Stripped
+  - makes jumps clunkier than first thought.
+- Casting Reloading Impedes Movement
+  - Bugs out movement
+
+Updated:
+
+- Berserkyr ENB
+- Strike Obstruction Systems
+- Enhanced Volumetric Lighting and Shadows
+- Better Third Person Selection
+- Water Effects Brightness and Reflection Fix
+- Conduit - Short-term Weapon Infusions
+
 ## 1.5 | And he's called Allfather..
 
 **Released at**: `06/03/2022`
