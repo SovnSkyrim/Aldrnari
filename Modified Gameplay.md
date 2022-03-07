@@ -18,7 +18,7 @@ Even the [Dev Aveza](https://www.nexusmods.com/skyrimspecialedition/mods/24587),
 ## What the list is
 ## Gameplay - Combat | SkySA, dodging, AIs and Parrying
 
-[SkySA](https://www.nexusmods.com/skyrimspecialedition/mods/31390) in a nutshell, it's attack commitment. If you attack, you commit to it. You also loose stamina. It's the core, all animations revolve around it. Don't worry though [Everyone's Stamina Matters](https://www.nexusmods.com/skyrimspecialedition/mods/50502) makes it so your enemies are also struggling. [Casting Aiming Reloading Impede Movement](https://www.nexusmods.com/skyrimspecialedition/mods/63459) forces you to decide when to cast spells and use your bow. It's all commitment now.
+[SkySA](https://www.nexusmods.com/skyrimspecialedition/mods/31390) in a nutshell, it's attack commitment. If you attack, you commit to it. You also loose stamina. It's the core, all animations revolve around it. Don't worry though [Everyone's Stamina Matters](https://www.nexusmods.com/skyrimspecialedition/mods/50502) makes it so your enemies are also struggling.
 
 Now to dodge, there's [TK Dodge RE](https://www.nexusmods.com/skyrimspecialedition/mods/56956), to overhaul AI there's [Arena Movement](https://www.nexusmods.com/skyrimspecialedition/mods/53528) and [Distance Based Combat](https://www.nexusmods.com/skyrimspecialedition/mods/60855). Finally, to overhaul parrying we got [Strike Obstruction Systems](https://www.nexusmods.com/skyrimspecialedition/mods/53050) combined with [Unblockable](https://www.nexusmods.com/skyrimspecialedition/mods/41294).
 
