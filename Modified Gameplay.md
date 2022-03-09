@@ -122,10 +122,6 @@ You have all the tools to conquer the world thanks to the absurd strength and ov
 
 Now that the bulk of the gameplay has been covered, I will continue on the atmosphere of the list.
 
-## Gameplay - Reducing the amount of Fast Travel and horse overhauls
-
-Fast travel is op.. I want you guys to discover the world, by foot. This is why we use [Sojourn over Signposts](https://www.nexusmods.com/skyrimspecialedition/mods/51567) and [Fast Travel by Horse](https://www.nexusmods.com/skyrimspecialedition/mods/17616). This makes you forced to use those damn horsies! They're cute and overhauled now! Thanks to [Simple Horse SE](https://www.nexusmods.com/skyrimspecialedition/mods/12650) and [Saddlebags](https://www.nexusmods.com/skyrim/mods/91395) (you access the bag by crouching and activating your horse)!
-
 ## Gameplay - Less known available tools.
 
 The main overhauls are what define most of your strenght; but a lot has been added on the side so you can clutch boss fights with a well prepared arsenal.
