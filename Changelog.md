@@ -1,4 +1,34 @@
-## 1.5.1 | Bunch of bugfixes an
+## 1.5.2 | Bunch of bugfixes²
+
+**Released at**: `09/03/2022`
+
+**Notes** : New Savefile recommended (guaranteed to not work if you own a horse)
+
+Added:
+
+- Simple Activate SKSE
+- Immersive Horses
+- Equestrian - An SC Horses Overhaul
+- Particle Lights for ENB - Fire Traps
+- Unbearable Taunt Animation
+- Saints and Seducers Flora ENB Light
+- FYX - 3D Whiterun Drawbridge Gate
+
+Removed:
+
+- Sojourn Over Signposts
+- Fast Travel By Horse
+- Simple Horse SE
+- Saddlebags
+
+Updated:
+
+- Berserkyr ENB
+- Paintaings for Blue Palace Terrace
+- Faster HDT SMP
+- Tourrnament of Ten Bloods
+
+## 1.5.1 | Bunch of bugfixes
 
 **Released at**: `07/03/2022`
 
