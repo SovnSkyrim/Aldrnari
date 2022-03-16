@@ -1,0 +1,11 @@
+*.o
+vgcore.*
+a.out
+stumper
+.vscode
+*.json
+*~
+~*
+*#
+.gitignore~
+test.c
