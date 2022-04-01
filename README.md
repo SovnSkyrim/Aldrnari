@@ -421,7 +421,7 @@ I have 2 tips one that voids support, one that doesnt:
 	- UseSelfIntersecting=false
 	- SourceTexturesScale=0.25
 	- SamplingQuality=1
-	- If you put intersecting to false, I strongly you to change SamplingRange=0.24 to SamplingRange=0.40 for balance the AO on face NPC in exterior
+	- If you put intersecting to false, I strongly recommend you to change SamplingRange's 0.24 value to 0.40, to balance the AO on the face  of NPCs in exterior cells.
      - [COMPLEXFIRELIGHTS]
 	- EnableShadow=false
      - [COMPLEXPARTICLELIGHTS]
