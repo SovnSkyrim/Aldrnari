@@ -354,6 +354,9 @@ The 5th Facepart is a lie. Known and unsolvable. | Make sure to have selected a 
 
 Some NPCs have a neck seam, that's known, I'm waiting for an update of [EasyNPC](https://www.nexusmods.com/skyrimspecialedition/mods/52313?tab=description) to solve them, I talk to the author so don't worry, it'll come. Play with them for now.
 
+### I am so slow in combat...
+Yes; [Arena Movement](https://www.nexusmods.com/skyrimspecialedition/mods/53528), this is not a bug, it is intended. Git gud.
+
 ### What perk does the new weapons use?
 
 - Rapiers get sword perks
