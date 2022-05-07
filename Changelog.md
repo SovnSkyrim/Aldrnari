@@ -1,3 +1,45 @@
+## 1.5.3 | Few textures update
+
+**Released at**: `07/05/2022`
+
+**Notes** : Savefile compatible
+
+Added:
+
+- JS Dwemer Artifacts SE
+- JS Dwemer Ichor Barrels SE
+- JS Dwemer Kitchenware SE
+- JS Dwarven Oil SE
+- JS Essence Extractor SE
+- ElSopa - Quivers Redone SE
+  - With their associated Ancient Dwemer Metal Patches
+- Mrf's Markarth
+- Sconces of Skyrim - Markarth Braziers Improved
+- JS Initiate's Ewer SE
+- JS Bloodstone Chalice SE
+- FYX - 3D Shack Kit Roofs
+- FYX - 3D Shack Kit Walls
+- FYX - Windhelm Stable Roof
+- Honningbrew Decanter Redone
+- Awesome Sigil Stones
+- Beautiful Sigils of Shalidor
+- Particle Lights for ENB - Ice Torches
+- Particle Lights for ENB - Falmer Things
+- Particle Lights for ENB - Riekling Outposts
+- Saints and Seducers - Voiced Narrative
+- CritterSpawn Congestion Fix
+- Allow Dialogue Progress Bugfix
+
+Removed:
+
+- The Dwemer
+- The Revamped Quiver
+- Bloodstone Chalice Reborn
+
+Updated:
+
+- Serana Dialogue Add-on
+
 ## 1.5.2 | Bunch of bugfixes²
 
 **Released at**: `09/03/2022`
