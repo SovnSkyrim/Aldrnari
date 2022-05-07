@@ -2,7 +2,7 @@
 
 **Released at**: `07/05/2022`
 
-**Notes** : Savefile compatible
+**Notes** : Savefile compatible if Dawnguard hasn't been started (literally first quest "Go to Fort Dawnguard").
 
 Added:
 
