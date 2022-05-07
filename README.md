@@ -133,12 +133,7 @@ Skyrim got an update on the 11th of November, with free Creation Club content. W
 
 ## Start Skyrim
 
-After you have done everything above and got a clean SSE installation ready, start the Launcher and open the _Options_ menu.
-
-1. Leave the quality to what Skyrim sets it to, but you can lower it if you wish. FPS gain is minor though.
-2. Set the _Aspect Ratio_ and _Resolution_ to your monitor's native values
-3. Set _Antialiasing_ to _Off_
-4. Check _Windowed Mode_ and _Borderless_
+After you have done everything above and got a clean SSE installation ready, just start the game to main menu and close it back. The options set in Vanilla Skyrim won't be used and your resolution will automatically be set by Wabbajack.
 
 Start the game and exit once you're in the main menu.
 
