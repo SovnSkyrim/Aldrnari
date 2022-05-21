@@ -279,6 +279,8 @@ You will be able to edit the percentage of damage taken and received through [Cu
 
 The MCMs have been automated thanks to [MCM Recorder](https://www.nexusmods.com/skyrimspecialedition/mods/61719).
 
+**But you should check that Timing is Everything doesn't display the default values, if it does, go to it's last panel and load the preset twice**
+
 #### Keybindings
 
 Aldrnari has a multitude of new keys, here are the main changes:
