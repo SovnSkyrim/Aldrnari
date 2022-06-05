@@ -172,7 +172,7 @@ Check out the [modpage](https://www.nexusmods.com/skyrimspecialedition/mods/5802
 
 Last but no least, The Wizard Warrior allows for spellcasting via weapons. It is the absolute dreams for any spellsword character.
 
-Only downside: gatekept behind 70 Destruction, so it's not available right off the bat. But it's a build defining mod for sure!
+Only downside: gatekept behind 80 Destruction, so it's not available right off the bat. But it's a build defining mod for sure!
 
 Check out the [modpage](https://www.nexusmods.com/skyrimspecialedition/mods/14890) if you wanna dive deeper into it. But keep in mind the mod's obtention of the spells and shouts are behind the perk, a specificity of the list!
 
