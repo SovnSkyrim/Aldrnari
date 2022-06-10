@@ -79,7 +79,7 @@ Aldrnari is meant to use every single inch of my computer, and here are my specs
 
 Full PC Part Picker setup is [here](https://fr.pcpartpicker.com/list/ZHQQgt). I would recommend atleast 8GB+ of VRAM for 1080p, and for 1440p you will need a minimum of 10GB of VRAM, although more is highly recommended. There are tweaks at the bottom of this readme for 6GB of VRAM users, but they void support. I do not have stable 60FPS on 1440p everywhere with my setup because, frankly, I do not care about framerate if combat is fluid and I can take sexy screenshots. The average is 60FPS with dips in 50FPS in very few areas at 1080p because my screen is a 3840x1080p (no I don't play in ultrawide, that's pointless and no support will be offered for that either).
 
-TitansBane, author of [Elysium](https://github.com/TitansBane/Elysium) has stated this: "When using Zangdar's ENB, the one within Elysium that **doesn't fit the weather mod** used in this list, I had more FPS than with Elysium, reaching a steady 60 FPS with a 3080, unlike Elysium which would dip to 50FPS. The key here is that the **recommended ENBs**, suited for NAT III, are even **heavier** resulting in dips at 45FPS at times, all of this at 1440p."
+TitansBane, author of [Elysium](https://github.com/TitansBane/Elysium-Remastered) has stated this: "When using Zangdar's ENB, the one within Elysium that **doesn't fit the weather mod** used in this list, I had more FPS than with Elysium, reaching a steady 60 FPS with a 3080, unlike Elysium which would dip to 50FPS. The key here is that the **recommended ENBs**, suited for NAT III, are even **heavier** resulting in dips at 45FPS at times, all of this at 1440p."
 
 If you want to join the community Discord; click [here](https://discord.gg/FAfPb9T)!
 
@@ -89,7 +89,7 @@ Disclaimer: Any questions regarding the specs and performance of the list will b
 
 #### Size on Drive
 
-Aldrnari is a big list, but it is in a constant evolution. Check the Wabbajack UI by simply hovering your mouse on the card for the list to check it's size. It is atleast 350GB+ so you will NEED an SSD, for the game. You can always put the downloads folder on an HDD, it'll only make the installation slower.
+Aldrnari is a big list, but it is in a constant evolution. Check the Wabbajack UI by simply hovering your mouse on the card for the list to check it's size. You need to ADD UP both download and install size to get the true number. It is atleast 350GB+ so you will NEED an SSD, for the game. You can always put the downloads folder on an HDD, it'll only make the installation slower.
 
 ### Pre-Installation
 
@@ -119,7 +119,7 @@ To ensure that Steam does not automatically update the game for you, head over t
 
 #### Set the Game language to English
 
-Just do it. This entire Modlist is in English and 99% of all mods you will find are also in English. I highly recommend playing the game in English and **I will not give support to people with a non-English game**.
+Just do it. This entire Modlist is in English and 99% of all mods you will find are also in English. I highly recommend playing the game in English and **I will not give support to people with a non-English game**. **Wabbajack WILL NOT WORK with non-english installs.**
 
 Open the Steam Properties window, navigate to the _Language_ tab and select _English_ from the dropdown menu.
 
@@ -147,15 +147,17 @@ Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-to
 
 Wabbajack will not work with Windows 7, I will not offer any kind of support for users of that operating system.
 
-The following files are **NOT** going to download themselves through Wabbajack. Yes I know, it's annoying, but there is nothing I can do for now about it. So since taking down the list would be even worse, ensure that those are downloaded somewhere; the next step is the creation of the folders for Wabbajack to function, and you will place those files in the "Downloads" Folder you will create.
+The following files are **NOT** going to download themselves through Wabbajack. As annoying as this is, it is currently neccessary to **MANUALLY DOWNLOAD** the following files **BEFORE** starting the Wabbajack installation process.
  
 - All the problematic files are in the spreadsheet [here](https://docs.google.com/spreadsheets/d/1ouhJioGEfyNdpBbNU874-0zKjG_Q8Z3Xr57P4-2maMw/edit#gid=0)
 
 If you do not download [those](https://docs.google.com/spreadsheets/d/1ouhJioGEfyNdpBbNU874-0zKjG_Q8Z3Xr57P4-2maMw/edit#gid=0), Wabbajack will not complete!
 
+The files you download manually will be in your normal Windows downloads folder. You will move these files from your Windows downloads folder to the Wabbajack downloads folder created in **Step 5.** of the next section, **BEFORE** starting the installation process.
+
 ## Downloading and Installing
 
-The download and installation process can take a very long time (10+hours) depending on your system specs. Wabbajack will calculate the amount of threads it will use at the start of the installation. To have the highest amount of threads and thus the fastest speed, it is advised to have the working folder on an SSD.
+The download and installation process can take a very long time (10+hours) depending on your system specs. Wabbajack will calculate the amount of threads it will use at the start of the installation. To have the highest amount of threads and thus the fastest speed, it is **highly advised** to have the working folder on an SSD. Using an HDD or external drive **will result in extremely long installation and loadtimes, aswell as potentially Performance/Stability issues ingame and is NOT supported.** As stated before, the only acceptable use for an HDD in this list is to put the Wabbajack downloads folder created in step 5. below there. 
 
 #### The BSA creation is an extremely important step to avoid the list being over 500GB in size and gain performance. It will take over 10hours for some people and that is normal. Avoid closing Wabbajack during it. Complaining about it in support isn't going to make it faster so please avoid doing so.
 
@@ -163,11 +165,13 @@ The download and installation process can take a very long time (10+hours) depen
 2. Scroll until you find Aldrnari, you can make it easier using the filter at the top for Games, in it select Skyrim Special Edition.
 3. Create a folder for the List at the root of your drive (like the Wabbajack folder) called "Aldrnari".
 4. Select the created folder in 3. as your installation folder.
-5. Go back to your drive, and create a new folder, called "Wabbajack Downloads Folder". This specific folder can be on a different drive if you wish.
-6. Put the files downloaded in the prior step into this folder AS IS. Do **not** extract the archives.
+5. Go back to your drive, and create a new folder, called "Wabbajack Downloads Folder". This specific folder can be on a different drive and/or HDD if you wish.
+6. Put the files you downloaded manually from the spreadsheet in the prior step into this folder AS IS. Do **not** extract the archives.
 7. Select the created folder in 5. as your downloads folder.
 8. Click the Go/Begin button.
 9. Wait for Wabbajack to finish.
+
+**YOU ARE NOT DONE AFTER WABBAJACK SAYS INSTALL COMPLETE, PLEASE KEEP READING UNTIL THE END TO SET UP YOUR GAME. YOU WILL HAVE ISSUES OTHERWISE.**
 
 This is the biggest list on Wabbajack at the time of writing this, so it is normal that it takes an incredibly long time the first time you install it, users have reported downloading and installing for more than 10h, without Wabbajack ever erroring, thus, it is highly recommended to leave it over-night.
 
@@ -184,6 +188,10 @@ Some files are required to be downloaded manually:
 
 - https://docs.google.com/spreadsheets/d/1ouhJioGEfyNdpBbNU874-0zKjG_Q8Z3Xr57P4-2maMw/edit?usp=sharing - Spreadsheet with the remaining files
 
+- Could not download anything with "Aldrnari" in the name: These output files can be big and are hosted on the Wabbajack network. Try ticking the "network workaround" option in Wabbajack settings, accessed by clicking on the gear symbol in the top right. [This](https://imgur.com/a/CUYKraB)
+If this does not fix your issue, please try connecting to a VPN and running Wabbajack again. 
+
+If the problem persists, please feel free to ask in the community discord available [here](https://discord.gg/FAfPb9T)
 
 
 **x is not a whitelisted download**:
@@ -198,7 +206,7 @@ Wabbajack will not work with a pirated version of the game. If you own the game 
 
 ## Stock Game
 
-Unlike regular Skyrim installation or some other Wabbajack Lists, Aldrnari comes with the **Stock Game Feature**, basically, it's a copy of a Skyrim installation located within your installation folder, cleaned and with everything in it, even an ENB! It allows you to not worry about conflicting files with Vortex or other Wabbajack lists. Thus, after Wabbajack completes, you need not to move anything to your regular Skyrim Installation.
+Unlike regular Skyrim installation or some other Wabbajack Lists, Aldrnari comes with the **Stock Game Feature**, basically, it's a copy of a Skyrim installation located within your installation folder, cleaned and with everything in it, even an ENB! It allows you to not worry about conflicting files with Vortex or other Wabbajack lists. Thus, after Wabbajack completes, you **DO NOT** need to move anything to your regular Skyrim Installation.
 
 There are more steps though, so please keep following the next steps to setup the game optimally.
 
@@ -220,7 +228,7 @@ Here's [my setup, for example](https://cdn.discordapp.com/attachments/8795805043
 
 ## Getting an ENB
 
-**Aldrnari has to be ran with an ENB**. 
+**Aldrnari has to be ran with an ENB. DISABLING IT WILL RESULT IN A BLURRY MESS, YOU HAVE BEEN WARNED.**
 
 By default; Aldrnari comes with **[Berserkyr ENB](https://www.nexusmods.com/skyrimspecialedition/mods/62381)** which is probably the best look for the list.
 You cannot remove the ENB as per NAT-ENB's modpage:
@@ -241,33 +249,21 @@ PRTX XII ENB Presets are extremely customizable, so go look up on it's modpage o
 
 ## How to start up Aldrnari
 
-Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. Once it's launched, there will be a dropdown box on the top right and a big run button next to it. Ensure it is set to SKSE by selecting it in the dropdown box and then hitting the run button.
+Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. If a message [Registry Key does not match](https://cdn.discordapp.com/attachments/879580504351981598/881915659188060230/mah1.jpg) appear, press Yes. Once it's launched, there will be a dropdown box on the top right and a big run button next to it. Ensure it is set to SKSE by selecting it in the dropdown box and then hitting the run button.
 
-If a message [Registry Key does not match](https://cdn.discordapp.com/attachments/879580504351981598/881915659188060230/mah1.jpg) appear, press Yes.
+Upon pressing New Game, you will be in a little room, with a dragon in front of you. This means the game is modded and you can go to MCMs, after creating your character.
 
-Upon pressing New Game, you will be in a little room, with a dragon in front of you. This means the game is modded and you can go to MCMs; after a little note on updating the list.
+## In-Game Options and Character Customization
 
-## Updating
-
-If this Modlist receives an update, please check the Changelog before doing anything. Always backup your saves or start a new game after updating.
-
-**Wabbajack will delete all files that are not part of the Modlist when updating!**
-
-This means that any additional mods you have installed on top of the Modlist will be deleted. Your saves will be kept, but please check each update changelog to see if the update is save compatible.  Your downloads folder will not be touched!
-
-Updating is like installing. You only have to make sure that you select the same path and tick the _overwrite existing Modlist_ button.
-
-## Gameplay advices
-
-An entire document has been made to give you as much information as I could without going too deep in analysis of mods. This document is called **[Modified Gameplay.md](https://github.com/SovnSkyrim/Aldrnari/blob/main/Modified%20Gameplay.md)** and acts as a second readme for the core gameplay and questions about what to expect. So go read [it](https://github.com/SovnSkyrim/Aldrnari/blob/main/Modified%20Gameplay.md)! 
-
-## In-Game Options
-
-Before this, you will be prompted with character customization. You can change your appearance at any time with the ```showracemenu``` command, but be warned that you **cannot** change race and/or sex after the initial choice.
+Before you can customize your MCMs, you will be prompted with character customization. You can change your appearance at any time with the ```showracemenu``` command, but be warned that you **cannot** change race and/or sex after the initial choice.
 
 You may want to use the command ```player.sae idlestaticposeastart``` to stop your character doing animations when using Racemenu. Just jump when you've got the control of your character to reset it.
 
-Once the game has loaded, wait until there are no more messages on the top left corner.
+Once the game has loaded, wait until there are no more messages on the top left corner. 
+
+## Gameplay advices
+
+An entire document has been made to give you as much information as I could without going too deep in analysis of mods. This document is called **[Modified Gameplay.md](https://github.com/SovnSkyrim/Aldrnari/blob/main/Modified%20Gameplay.md)** and acts as a second readme for the core gameplay and questions about what to expect. So go read [it](https://github.com/SovnSkyrim/Aldrnari/blob/main/Modified%20Gameplay.md)! **THIS DOCUMENT WILL ANSWER A LOT OF THE QUESTIONS YOU HAVE, SO READING IT IS ABSOLUTELY REQUIRED.**
 
 #### Game Difficulty
 
@@ -285,7 +281,7 @@ The MCMs have been automated thanks to [MCM Recorder](https://www.nexusmods.com/
 
 Aldrnari has a multitude of new keys, here are the main changes:
 
-- TK Dodge: the Dodge key is on C
+- TK Dodge: the Dodge key is on C, if you plan to keep it on C be sure to change the keybind for the "Autorun" button in Skyrim controls.
   - to modify that key, open the mod in explorer and go to ```\SKSE\Plugins``` and open the ```TK Dodge RE.ini```
 - Smoothcam: Shoulder camera swap is on C aswell
   - Modifiable in MCM
@@ -300,7 +296,7 @@ Aldrnari has a multitude of new keys, here are the main changes:
 - Campfire: N to create an item, B to build a campfire, H to harvest wood
   - Modifiable in MCM
 
-If you cannot modify a keybind in a MCM; do the following:
+**If you cannot modify a keybind in a MCM; do the following:**
 
 - Save and close the game.
 - in ```SKSE Based Mods``` (a separator, on the left panel of MO2), untick "Skyrim Souls RE - Updated"
@@ -310,14 +306,24 @@ If you cannot modify a keybind in a MCM; do the following:
 
 # How to start playing
 
-Once done with the MCMs, talk to the Dragon in front of you and choose a start. Or use the door to be welcomed in a lively Helgen. 
+Once done with the MCMs, talk to the Dragon in front of you and choose a start. Or use the door to be welcomed in a lively Helgen. **IF CHOOSING YOUR START DOES NOT WORK, PLEASE SELECT UR CHOSEN START TWICE BY TALKING TO THE DRAGON AGAIN.** This is a known issue right now.
 
 In order to start the main quest, you will need to visit Helgen and rent a room at the new inn there with the dialogue option "I'd like to stay for a while. (Start Intro (XX gold))". Once you sleep in the room, a familiar scene unfolds before you.....
 IMPORTANT: Please sure you start the intro during the DAYTIME, not at night!! It will not work otherwise!
+Please note that this intro scene can be quite buggy at times, so if it does get stuck please try the following [Fix](https://cdn.discordapp.com/attachments/903208785919737927/969706134527172618/unknown.png) 
 
-You may want to use the command ```player.sae idlestaticposeastart``` to stop your character doing animations when using Racemenu. Just jump when you've got the control of your character to reset it.
+Alternatively it has also been reported that killing lokir using the console advances the Scene should he get stuck.
 
-Please Note: Do NOT change sex or race with showracemenu after first confirming your character.
+## Updating
+
+If this Modlist receives an update, please check the Changelog before doing anything. **THE CHANGELOG WILL ALWAYS SPECIFICALLY MENTION IF A NEW SAVE IS REQUIRED, SO PLEASE CHECK IT FIRST.** Always backup your saves before updating.
+
+**Wabbajack will delete all files that are not part of the Modlist when updating!**
+
+This means that any additional mods you have installed on top of the Modlist will be deleted. Prefixing added mods with [NoDelete] as shown [here](https://cdn.discordapp.com/attachments/854794524302770216/984783333638692874/unknown.png) will keep Wabbajack from deleting them, but please keep [RULE 11](https://cdn.discordapp.com/attachments/854794524302770216/984782911045767188/unknown.png) in mind. Your saves will be kept, but please check each update changelog to see if the update is save compatible.  Your downloads folder will not be touched!
+
+Updating is like installing. You only have to make sure that you select the same path and tick the _overwrite existing Modlist_ button.
+
 
 ## FAQ
 
@@ -325,9 +331,11 @@ Please Note: Do NOT change sex or race with showracemenu after first confirming 
 
 If you want to join the community discord; click [here](https://discord.gg/FAfPb9T)!
 
-### Removing the Modlist
+### Removing the Modlist/Moving the Modlist
 
 You can just remove the MO2 folder and be done with it. Aldrnari uses the Stock Game system, which copies a game installation within it's installation folder, thus, it is entirely self contained.
+
+To move the Modlist to a new drive, simply cut and paste the install folder to your chosen drive. Afterwards be sure to change the SKSE path in the dropdown menu in MO2.
 
 ### Gamepad Support?
 
@@ -343,7 +351,7 @@ I have an ultra-wide, but it's just not worth the hassle of setting Skyrim up fo
 
 ### I have a question
 
-Ask it in Wabbajack's Discord, [link here](https://discord.com/invite/wabbajack). But make sure you're using the Aldrnari support channel and not a general channel!
+Ask it in our Community discord, [link here](https://discord.gg/sxBH2c2MqF). Please make sure to grab the appropriate roles in order to see the modlist specific channels.
 
 ### A face part is crashing me! | Some hair/facial hair clips!
 
@@ -354,7 +362,7 @@ Some NPCs have a neck seam, that's known, I'm waiting for an update of [EasyNPC]
 ### I am so slow in combat... My stamina man...
 Yes; [Arena Movement](https://www.nexusmods.com/skyrimspecialedition/mods/53528) and other combat mods listed in the gameplay readme, this is not a bug, it is intended. Git gud.
 
-### What perk does the new weapons use?
+### What perk do the new weapons use?
 
 - Rapiers get sword perks
 - Pikes get greatsword perks
@@ -365,7 +373,7 @@ Yes; [Arena Movement](https://www.nexusmods.com/skyrimspecialedition/mods/53528)
 
 ### My character T-Poses!
 
-If this is upon loading your savefile, that is normal.
+If this is upon loading your savefile, that is normal. This list uses lots of new Animations, it can take up to a few minutes for them fully load in. The same goes for Dodge not working on loading your save. 
 
 If it's constantly; cap your framerate, either with BethINI, SSE Display Tweaks, or ENB.
 
