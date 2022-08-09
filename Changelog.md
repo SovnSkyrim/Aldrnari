@@ -10,6 +10,8 @@ Added:
   - Elden Counter
   - Elden Parry
   - Elden Rim
+  - Precision
+  - SCAR
   - and much more
 - New Weapons and armors distributed in the World
   - HDT-SMP Traveler's Backpack / Xtudo's Version
