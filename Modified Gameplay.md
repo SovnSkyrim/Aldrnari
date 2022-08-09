@@ -26,7 +26,6 @@ Now to dodge, there's [TK Dodge RE](https://www.nexusmods.com/skyrimspecialediti
 
 Now for some other mods to make an ever more Dark Souls-inspired combat experience;
 
-// Add seamless combat camera/Jumping Attack/Bow Rapid Combo/Elden Rim
 - [ZUPA](https://www.nexusmods.com/skyrimspecialedition/mods/45182) forces 3rd person and plays an animation when drinking a potion, like how there's an animation for Estus in Dark Souls.
 - [Elden Rim](https://www.nexusmods.com/skyrimspecialedition/mods/65625) will allow you to perform Weapon Arts. I highly suggest checking its modpage to understand how.
 - [Hotkey Potions](https://www.nexusmods.com/skyrimspecialedition/mods/60243) is an add-on to ZUPA, so you don't have to go in your inventory to drink a potion!
