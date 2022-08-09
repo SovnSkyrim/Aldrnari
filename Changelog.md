@@ -1,4 +1,4 @@
-## 2.0 | Asja
+## 2.0 | Ásjá, angan, bjarga
 
 **Released at**: `09/08/2022`
 
