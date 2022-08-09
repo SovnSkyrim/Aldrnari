@@ -189,7 +189,7 @@ Some files are required to be downloaded manually:
 - https://docs.google.com/spreadsheets/d/1ouhJioGEfyNdpBbNU874-0zKjG_Q8Z3Xr57P4-2maMw/edit?usp=sharing - Spreadsheet with the remaining files
 
 - Could not download anything with "Aldrnari" in the name: These output files can be big and are hosted on the Wabbajack network. Try ticking the "network workaround" option in Wabbajack settings, accessed by clicking on the gear symbol in the top right. [This](https://imgur.com/a/CUYKraB)
-If this does not fix your issue, please try connecting to a VPN and running Wabbajack again. 
+If this does not fix your issue, please try connecting to a VPN and running Wabbajack again.
 
 If the problem persists, please feel free to ask in the community discord available [here](https://discord.gg/FAfPb9T)
 
@@ -259,6 +259,12 @@ Before you can customize your MCMs, you will be prompted with character customiz
 
 You may want to use the command ```player.sae idlestaticposeastart``` to stop your character doing animations when using Racemenu. Just jump when you've got the control of your character to reset it.
 
+After making your character a few options will appear in front of you:
+- First: Your race's history. This grants you different buffs.
+- Second: The choice between Ralof and Hadvar: Only important for Civil War Questline.
+- Third: The attack speed fix. **YOU MUST DISABLE IT**
+- Fourth: You can choose to not enable your health regeneration. You can choose either.
+
 Once the game has loaded, wait until there are no more messages on the top left corner. 
 
 ## Gameplay advices
@@ -281,13 +287,15 @@ The MCMs have been automated thanks to [MCM Recorder](https://www.nexusmods.com/
 
 Aldrnari has a multitude of new keys, here are the main changes:
 
+- **Power Attacks: U**
+  - To modify that key, open the ```One Click Power Attack``` mod in explorer and go to ```\SKSE\Plugins``` and open the ```OneClickPowerAttack.ini```. Modify the ```ForceRightKey``` keycode with the one you want in [this chart](https://www.creationkit.com/index.php?title=Input_Script)
 - TK Dodge: the Dodge key is on C, if you plan to keep it on C be sure to change the keybind for the "Autorun" button in Skyrim controls.
-  - to modify that key, open the mod in explorer and go to ```\SKSE\Plugins``` and open the ```TK Dodge RE.ini```
+  - to modify that key, open the mod in explorer and go to ```\SKSE\Plugins``` and open the ```TK Dodge RE.ini```. Modify the ```DodgeHotkey``` keycode with the one you want in [this chart](https://www.creationkit.com/index.php?title=Input_Script)
 - Smoothcam: Shoulder camera swap is on C aswell
   - Modifiable in MCM
 - Simple Horse: H to call the horse
   - Modifiable in MCM
-- SWL Toggle: L to light the lantern on when equipped
+- Quick Light: L to light the lantern on when equipped
   - Modifiable in MCM
 - True Directional Movement: G to use target lock
   - Modifiable in MCM - Highly recommended to be put on a mouse button.
@@ -295,24 +303,22 @@ Aldrnari has a multitude of new keys, here are the main changes:
   - Modifiable in MCM - Highly recommended to be put on a mouse button.
 - Campfire: N to create an item, B to build a campfire, H to harvest wood
   - Modifiable in MCM
+- Bow Rapid Combo: Mouse Key 2
+  - Modifiiable in MCM
+- Simplest Horses: U to access horse inventory.
+  - Modifiable in MCM
 
 **If you cannot modify a keybind in a MCM; do the following:**
 
 - Save and close the game.
 - in ```SKSE Based Mods``` (a separator, on the left panel of MO2), untick "Skyrim Souls RE - Updated"
-- Load back the game, and end the MCM setup.
+- Load back the game, and end your keybind setup.
 - Save and close the game again.
 - Tick it back on.
 
 # How to start playing
 
-Once done with the MCMs, talk to the Dragon in front of you and choose a start. Or use the door to be welcomed in a lively Helgen. **IF CHOOSING YOUR START DOES NOT WORK, PLEASE SELECT UR CHOSEN START TWICE BY TALKING TO THE DRAGON AGAIN.** This is a known issue right now.
-
-In order to start the main quest, you will need to visit Helgen and rent a room at the new inn there with the dialogue option "I'd like to stay for a while. (Start Intro (XX gold))". Once you sleep in the room, a familiar scene unfolds before you.....
-IMPORTANT: Please sure you start the intro during the DAYTIME, not at night!! It will not work otherwise!
-Please note that this intro scene can be quite buggy at times, so if it does get stuck please try the following [Fix](https://cdn.discordapp.com/attachments/903208785919737927/969706134527172618/unknown.png) 
-
-Alternatively it has also been reported that killing lokir using the console advances the Scene should he get stuck.
+Go through the cave exit, you've probably noticed it's the exit of Helgen. You can now enjoy the game.
 
 ## Updating
 
@@ -359,9 +365,6 @@ The 5th Facepart is a lie. Known and unsolvable. | Make sure to have selected a 
 
 Some NPCs have a neck seam, that's known, I'm waiting for an update of [EasyNPC](https://www.nexusmods.com/skyrimspecialedition/mods/52313?tab=description) to solve them, I talk to the author so don't worry, it'll come. Play with them for now.
 
-### I am so slow in combat... My stamina man...
-Yes; [Arena Movement](https://www.nexusmods.com/skyrimspecialedition/mods/53528) and other combat mods listed in the gameplay readme, this is not a bug, it is intended. Git gud.
-
 ### What perk do the new weapons use?
 
 - Rapiers get sword perks
@@ -404,6 +407,7 @@ CC Content isn't considered like DLCs (Dawnguard/Dragonborn/Hearthfire) and will
 Using them with Aldrnari would be like installing your own mods: Support is forfeited and they will NOT work without patching.
 
 ### Why don't you wanna use Inigo/Legacy of the Dragonborn (LOTD)????? They're the best mods ever!!!!
+
 [Modified Gameplay.md](https://github.com/SovnSkyrim/Aldrnari/blob/main/Modified%20Gameplay.md) has the answer, use Ctrl+F in there.
 
 ### Oh my fucking god the very far mountains are so low poly... Isn't it supposed to look 4K everywhere?

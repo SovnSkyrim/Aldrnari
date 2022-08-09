@@ -1,3 +1,249 @@
+## 2.0 | Asja
+
+**Released at**: `09/08/2022`
+
+**Notes** : Not Savefile Compatible
+
+Added:
+
+- A complete overhaul of combat based on ADXP - MCO
+  - Elden Counter
+  - Elden Parry
+  - Elden Rim
+  - and much more
+- New Weapons and armors distributed in the World
+  - HDT-SMP Traveler's Backpack / Xtudo's Version
+  - Visage of Mzund - Xtudo's Version
+  - Kellan HDT-SMP Armor / Xtudo's Version
+  - Falconer Armor / Xtudo's Version
+  - Northern God Armor / Xtudo's Version
+  - Extraplanar Sword Techniques
+  - Extraplanar Sword Techniques 2
+  - Seasoned Traveller Armor SE-AE
+  - The Shattered Blade of Baziar
+  - Ahzidal's Armor Set - Xtudo's Version
+  - Traveling Mage - Xtudo's Version
+  - DEATHBRAND - Xtudo's Version
+  - Drifter Armor and Outfit - Xtudo's Version
+  - Countess Armor
+  - Nibenean Strider Armor SE
+  - Bones of Alduin - Wrath of the Devourer (Draconic Artifact)
+  - Viridian Knight Armor
+  - Near Triss Armor
+- New Weapons and armors obtainable through a specific crafting perk:
+  - [Caenarvon] Calamity Queller
+  - [Caenarvon] Narukami
+  - [Caenarvon] Thorn Princess
+  - Stargazer - hdt SMP
+  - SC - Unsainted
+- Flat World Map Framework (and paper maps)
+- Skip The Opening Video
+- Ulvenwald
+- QW's Grass Patch 2
+- Lux Via
+- Ancient Land
+- Ryn's Standing Stones
+- Ryn's Farms
+- Nature of the Wildlands - Forest Debris Only
+- RYFTEN - Consistency of windows in Riften
+- RYFTEN DOWN - A little addition to the Riften canal
+- RYFTEN - Make Your Riften - Inner
+- JK's College of Winterhold
+- JK's Septimus Signus's Outpost
+- JK's Sinderion's Field Laboratory
+- Song of the Green - Auri - Kaidan Banter Patch
+- Paarthurnax - Quest Expansion
+- Caught Red Handed - Quest Expansion
+- Storm Calling Magic
+- Singularity
+- Simplest Horses
+- Quick Light SE
+- SJG Quick Light Patch
+- Quick Light SE Alternate Meshes
+- Horses On Patrol : Vanilla / Dawnguard / Stormcloaks / Orcs
+- JS Dwemer Puzzle Cube
+- JS Dwemer Control Cube SE
+- JS Attunement Sphere and Lexicons
+- JS Common Cages
+- JS Rumpled Rugs SE
+- JS Misplaced Septims SE
+- JS Shout Apart Skeletons SE
+- Riften of Reverie
+- Cathedral - 3D Clover Plant
+- Wyrmstooth Suleyk Retexture
+- UNSLAAD - Weapons and Armors Retexture
+- Im Talking to You
+- Immersive Display Overhaul
+- ENB Light Inventory Fix (ELIF)
+- Immersive Rejections
+- Pick Up Radius
+- NPCs Wear Amulets of Mara PLUS
+- Honorhall Orphanage Bugfixes and Expansion
+- Prince and The Pauper Refine (Fixes - Improvements - New Child Outfits - No NPC Edits)
+- Take a Peek - New Stealth Mechanic
+- Lepidoptera - More Butterflies and Moths
+- Saints and Seducers Bugs Around Skyrim
+- Taunt Your Enemies - Taunting Matters
+- Nocturnal Moths
+- Optimized ENB Light Meshes
+- Married NPCs Wear Wedding Bands (SPID - Left Hand Rings)
+- Bond of Matrimony (Wedding Band Enhancement - Left Hand Rings)
+- Actually Useful Butter Churns
+- Daedric Shrines - Sheogorath
+- Daedric Shrines - Azura
+- Daedric Shrines - Hermaeus Mora
+- Daedric Shrines - Vaermina
+- Daedric Shrines - Molag Bal
+- Daedric Shrines - Nocturnal
+- Daedric Shrines - Namira
+- Daedric Shrines by Mandragorasprouts - Quaint Raven Rock Add-on
+- Sigil Stone for Reliquary Dremora Staff
+- New Glazed Pots
+- Better Blended Mushrooms
+- High Poly Sweet Rolls SE
+- Actual Sweet Roll Variants (Base Object Swapper - New Flavours - High Poly)
+- Kaidan - Immersive Lap Sitting
+- Kaidan - Drinking Addon Patch
+- Axarien's Kaidan Animation Pack (DAR)
+- Immersive Equipment Displays - CBPC Horse Gear
+- Missile's Immersive Equipment Display Presets
+- Master Spells Runes
+- Misc Effects ENB Light
+- Dragonborn Aptitude - Dragon Souls Mod
+- SMIM Barrel Expansion - Mead Barrel - Oil Barrel - Butter Churn
+- Solitude Objects SMIMed - Solitude Well
+- Solitude Objects SMIMed - Castle Dour Spire
+- Solitude Objects SMIMed - festival ropes
+- Better Wooden Spikes Texture
+- Moveable Chain
+- Cybele follower SE
+- Splashes of Storms
+- Leveling Freedom - Configure your XP Curve - Gentler Smoother Steeper or Flat
+- Lion's Mane
+- Khajiit Lion Mane Wigs n Hair
+- Static Skill Leveling Upgraded
+- Nordic Metalworks
+- Cultured Orc Furniture
+- Whiterun Objects SMIMed (and fixes too)
+- FYX - 3D Stockades
+- FYX - 3D Stockades - Walls and Gate
+- FYX - Smooth Wells
+- FYX - 3D Whiterun Scaffold
+- FYX - 3D Whiterun Castle Bridge
+- FYX - Fortified Whiterun Consistency
+- FYX - 3D Whiterun Guard Towers
+- FYX - 3D Solitude SighPost
+- Spice of Life - FYX 3D Patches
+- 3D Whiterun Trellis Expansion
+- 3D Solitude Market Trellis Expansion
+- Tools not weapons DAR animations
+- Ghosts float DAR animations
+- Conditional Dog Barking (DAR)
+- Lively cart driver animation replacer - SE or AE
+- Random Prayer Animation
+- Riften Canals rounded - by Pfuscher
+- Riften Architectural Details
+- New Whiterun Table Cloth
+- Oxygen Meter 2 - Nordic UI like Skin
+- Better Chests
+- SMIM Furniture Improvement
+- Elegant Magelight
+- Elegant Candlelight
+- Fluffworks - Better Photoreal Foxes
+- Wayrest Insurgent Armor fix for Beyond Reach SE
+- Ebonmere Moons Restoration - ENB Light
+- Daedric Relic Rings SMIMed - ENB Light
+- Dialogue Movement Enabler
+- SPID for Footprints Fix
+- Unaggressive Dragon Priest Fix
+- Charcoal Stick
+- Actually flat flat snow drifts - fix hovering snow drift shadow with ENB
+- Draugr Ragdoll Bug Fix
+- Dragon Mound Dirt FIX
+- Sound Fix for Large Sector Drives
+
+Removed:
+
+- Alternate Perspective
+- The Paarthurnax Resolution
+- Immersive Horses
+- Wraiths SE
+- KG's Riften
+- Obscure's College of Winterhold
+- Another Skyrim - Riften
+- Civil War Checkpoints
+- Flowering Riverwood
+- Frolique's Fluffy Fields
+- Trees Addon
+- SpeedTree
+- Alchemy lab
+- Sovngarde Sweetrolls
+- Simple Wearable Lanterns
+- Triss Armor Recolors
+
+Updated:
+
+- Lux Orbis
+- Serana Dialogue Add-on
+- UNSLAAD
+- Mrf's Solitude
+- Simplicity of Snow
+- Audio Overhaul - Immersive Sounds Integration (AOS - ISC Compatibility Patch)
+- Kaidan 2 Follower Voice Fixes and Additional Dialogue
+- Saints and Seducers - Voiced Narrative
+- Vitrium - Spells and Tools Pack
+- At Your Own Pace - Thieves Guild
+- Experience
+- Static Skill Leveling (Experience Mod Add-on)
+- Immersive Equipment Displays
+- VioLens Compatibility Extension
+- Resurgence of the Morag Tong
+- Elegant Candlelight
+- JK's Riverwood Trader
+- JK's Jorrvaskr
+- JK's The Bee and Barb
+- JK's Arcadia's Cauldron
+- JK's Radiant Raiment
+- Awakening - Vampires Of Skyrim
+- Frozen Electrocuted Combustion
+- Better Third Person Selection
+- Nilheim - Misc Quest Expansion
+- Reliquary of Myth - Artifact Overhaul
+- Venjhammet dungeons - Unique rewards
+- SkyIdles
+- Conditional Expressions
+- Shoulderpacks
+- Dunmeri Outfits for Skyrim Dunmers (SPID Version)
+- JS Bloodstone Chalice
+- JS Shrines of the Divines
+- Immersive Kaidan Start
+- Anga's Mill - Cities of the North Addon
+- Nordenhamr - Viking Music
+- Swiftly Order Squad
+- Alternate Perspective
+- Strange Runes
+- Dragon Priest Fix - Behaviour Overhaul
+- Major Cities Mesh Overhaul
+- Base Object Swapper
+- Cathedral 3D Mountain Flowers - Base Object Swapper
+- FYX - 3D Shack Kit Roofs
+- Security Overhaul SKSE - Lock Variations
+- Security Overhaul SKSE - Add-ons
+- Fixed Mesh Lighting
+- Static Mesh Improvement Mod Improvement Mod
+- Assorted mesh fixes
+- Respect for the Arch-Mage
+- Regen Adjuster SKSE
+- Oxygen Meter 2
+- Unique Markarth Doors
+- Quest Journal Limit Bug Fixer
+- Equip Enchantment Fix
+- Simple Dual Sheath
+- Faster HDT SMP
+- More Informative Console
+- Papyrus Extender
+- Many more I couldnt be bothered.
+
 ## 1.5.3 | Few textures update
 
 **Released at**: `07/05/2022`
