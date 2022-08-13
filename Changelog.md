@@ -1,3 +1,36 @@
+## 2.0.1 | Bunch of Bugfixes
+
+**Released at**: `Unreleased`
+
+**Notes** : Savefile Compatible
+
+Added:
+
+- EVG Animated Traversal
+  - COTN - Falkreath - Ladder Animations Add-On
+  - EVG Animated Traversal - Patch Collection
+  - EVG Traversal Animations - Dungeons addons
+- Pride of the Companions - Shields of Jorrvaskr
+- NPCs Use Potions
+- FYX - The Temple of Mara
+- Better Ferns
+
+Removed:
+
+- Ryn's Farms
+- Smart NPC Potions - Enemies Use Potions and Poisons
+- Renthal's Fern
+
+Updated:
+
+- Palladium Racials
+- Serana Dialogue Addon
+- Sorcerer Combat Animation
+- Dragon Combat Overhaul UPGRADED Unofficial Tweaks n Fixes
+- JS Shout Apart Skeleton
+- Undeath Classical Lichdom
+- SCAR - Skyrim Combos AI Revolution
+
 ## 2.0 | Ásjá, angan, bjarga
 
 **Released at**: `09/08/2022`
