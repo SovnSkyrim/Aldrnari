@@ -36,6 +36,7 @@ Updated:
 Fixes: 
 - Stamina being consumed despite perfect parries
 - Flying grass around Whiterun
+- Standing Stones conflicts
 
 ## 2.0 | Ásjá, angan, bjarga
 
