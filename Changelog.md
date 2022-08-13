@@ -31,6 +31,10 @@ Updated:
 - Undeath Classical Lichdom
 - SCAR - Skyrim Combos AI Revolution
 
+Fixes: 
+- Stamina being consumed despite perfect parries
+- Flying grass around Whiterun
+
 ## 2.0 | Ásjá, angan, bjarga
 
 **Released at**: `09/08/2022`
