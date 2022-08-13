@@ -1,6 +1,6 @@
 ## 2.0.1 | Bunch of Bugfixes
 
-**Released at**: `Unreleased`
+**Released at**: `13/08/2022`
 
 **Notes** : Savefile Compatible
 
