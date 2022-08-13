@@ -20,6 +20,8 @@ Removed:
 - Ryn's Farms
 - Smart NPC Potions - Enemies Use Potions and Poisons
 - Renthal's Fern
+- ADXP l MCO Nordic Animation Complete Pack
+  - Only due to it being hidden 
 
 Updated:
 
