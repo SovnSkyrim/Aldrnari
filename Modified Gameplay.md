@@ -125,8 +125,6 @@ We use both the Main mod and it's Food addon!
 
 You have all the tools to conquer the world thanks to the absurd strength and overpowered items, but those tools are also available to your enemies which will be forever challenging.
 
-Now that the bulk of the gameplay has been covered, I will continue on the atmosphere of the list.
-
 ## Gameplay - Less known available tools.
 
 The main overhauls are what define most of your strenght; but a lot has been added on the side so you can clutch boss fights with a well prepared arsenal.
@@ -181,10 +179,12 @@ Only downside: gatekept behind 80 Destruction, so it's not available right off t
 
 Check out the [modpage](https://www.nexusmods.com/skyrimspecialedition/mods/14890) if you wanna dive deeper into it. But keep in mind the mod's obtention of the spells and shouts are behind the perk, a specificity of the list!
 
+Now that the bulk of the gameplay has been covered, I will continue on the atmosphere of the list.
+
 ## Visuals - Atmosphere and Weathers
 ### Welcome to Berserkyr ENB
 
-**[Berserkyr ENB](https://www.nexusmods.com/skyrimspecialedition/mods/62381) by JPSteel2 is probably the most nordic looking ENB Preset out there.
+**[Berserkyr ENB](https://www.nexusmods.com/skyrimspecialedition/mods/62381)** by JPSteel2 is probably the most nordic looking ENB Preset out there.
 
 If you wish to try other stuff, **[PRT XII](https://www.nexusmods.com/skyrimspecialedition/mods/4743)** still holds up as the best suite of effects for you to tinker.
 
