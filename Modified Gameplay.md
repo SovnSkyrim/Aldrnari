@@ -31,7 +31,7 @@ Now for some other mods to make an ever more Dark Souls-inspired combat experien
 - [Hotkey Potions](https://www.nexusmods.com/skyrimspecialedition/mods/60243) is an add-on to ZUPA, so you don't have to go in your inventory to drink a potion!
 - [Heartbreaker](https://www.nexusmods.com/skyrimspecialedition/mods/1847) allows you to rip people's hearts straight from their chest. Metal, isn't it?
 - [SmoothCam](https://www.nexusmods.com/skyrimspecialedition/mods/41252) and [True Directional Movement](https://www.nexusmods.com/skyrimspecialedition/mods/51614) for the camera control, so it's actually usable in 3rd person.
-- [Seamless Combat Camera](https://www.nexusmods.com/skyrimspecialedition/mods/53856) will force you in 3rd person for every fight.
+- [Seamless Combat Camera](https://www.nexusmods.com/skyrimspecialedition/mods/53856) will force you in 3rd person for every fight. You will only be able to fight in third person, and that's intended. There are no first person combat mods in the list.
 - [Bow Rapid Combo](https://www.nexusmods.com/skyrimspecialedition/mods/65461) give way more tools to archers as melee charaters have so much.
 
 ### Gameplay - Combat | Enemies
