@@ -262,7 +262,7 @@ You may want to use the command ```player.sae idlestaticposeastart``` to stop yo
 After making your character a few options will appear in front of you:
 - First: Your race's history. This grants you different buffs.
 - Second: The choice between Ralof and Hadvar: Only important for Civil War Questline.
-- Third: The attack speed fix. **YOU MUST DISABLE IT**
+- Third: The attack speed fix. It doesn't really matter, as ADXP | MCO does not use Attack Speed at all.
 - Fourth: You can choose to not enable your health regeneration. You can choose either.
 
 Once the game has loaded, wait until there are no more messages on the top left corner. 
