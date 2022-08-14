@@ -71,6 +71,7 @@ Vampires are deceptively strong, do not fight them early, you will get murdered.
 
 - **[Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751)**
 - **[Static Skill Leveling - Experience Mod Add-on](https://www.nexusmods.com/skyrimspecialedition/mods/30410)**
+- **[Static Skill Leveling Alternative Level Up Menu](https://www.nexusmods.com/skyrimspecialedition/mods/62027)**
 
 You will level up by discovering places, killing any enemy, and doing quests. Your stats do not influence your leveling at all, that is [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751) Here is what the add-on changes: **You will be able to allocate your skill points before you select the bonus in Health/Stamina/Magicka in the skill menu**. This allows you to refine your character.
 
