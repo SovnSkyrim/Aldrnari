@@ -227,6 +227,7 @@ This is made so you are not cluttered with 2000 free gear at level 1.
 ### Gameplay - Main Questline, Daedric Quests, Miscellaneous Quests and DLCs
 
 - [Skip The Opening Video](https://www.nexusmods.com/skyrimspecialedition/mods/49327) is the alternate start choice of Aldrnari. You'll spawn at Helgen's exit.
+- [At Your Own Pace](https://www.nexusmods.com/skyrimspecialedition/mods/52704) is used to reduce the speed of completion of some quest; especially the Main Quest. The Thieves Guild, Dark Brotherhood and Misc modules are also in.
 - [Timing is Everything](https://www.nexusmods.com/skyrimspecialedition/mods/25464) modifies the level and quest requirements to begin the DLCs, Daedric questlines, and some miscellaneous quests. These are the new triggers to begin the respective quests:
   - Hearthfire: 15
   - Dawnguard: 20 | But you can go early without problem by going straight to the Fort, getting Dexion will be extremely harder especially Dawnguard Side
