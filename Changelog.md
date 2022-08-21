@@ -1,3 +1,47 @@
+## 2.1 | Bunch of Bugfixes² but non savefile compatible
+
+**Released at**: `Unreleased`
+
+**Notes** : Not Savefile Compatible
+
+Added:
+
+- At Your Own Pace - Main Quest
+- Ashbound - Solstheim Revisited
+- White Phial - Tweaks and Enhancements + RoM Patch
+- NPCs React To Necromancy (And More)
+- Moons And Stars
+- Cooking with Fire
+- No More Swimming In Air - Fixed Floating SwimIdle
+- Realistic HD Mushrooms Remastered - Rock Texture Integration
+- NORDIC UI - SkyUI Weapons Pack SE
+- Icy Mesh Remaster
+- Better Noble Chair
+- Kaidan 2 Shackles Fix
+- Gothic Makeup for RaceMenu
+
+Removed:
+
+- Horses On Patrol : Vanilla / Dawnguard / Stormcloaks / Orcs
+
+Updated:
+
+- Serana Dialogue Addon
+- Riften of Reverie
+- Conduit
+- Undeath Classical Lichdom
+- Smooth Moveset
+- Simplest Horses
+- Precision
+- SCAR
+- EVG Animated Traversal Patch Collection
+- FYX - The Temple of Mara
+- Immersive Displays Overhall
+- Bosmers NPCs have antlers
+- Cathedral 3D Mountain Flowers - Base Object Swapper
+- Riften Architectural Details
+
+
 ## 2.0.1 | Bunch of Bugfixes
 
 **Released at**: `13/08/2022`
