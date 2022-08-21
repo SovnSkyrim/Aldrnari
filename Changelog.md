@@ -1,6 +1,6 @@
 ## 2.1 | Bunch of Bugfixes² but non savefile compatible
 
-**Released at**: `Unreleased`
+**Released at**: `21/08/2022`
 
 **Notes** : Not Savefile Compatible
 
