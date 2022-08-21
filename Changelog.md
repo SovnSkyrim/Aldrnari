@@ -14,7 +14,6 @@ Added:
 - Cooking with Fire
 - No More Swimming In Air - Fixed Floating SwimIdle
 - Realistic HD Mushrooms Remastered - Rock Texture Integration
-- NORDIC UI - SkyUI Weapons Pack SE
 - Icy Mesh Remaster
 - Better Noble Chair
 - Kaidan 2 Shackles Fix
