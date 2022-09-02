@@ -382,6 +382,10 @@ If this is upon loading your savefile, that is normal. This list uses lots of ne
 
 If it's constantly; cap your framerate, either with BethINI, SSE Display Tweaks, or ENB.
 
+### I keep getting put into 3rd person when in combat
+
+Intended; the list is tailored to 3rd person combat
+
 ### "I am bothered by the way NPCs look in the game!" and "How do NPCs look?? Are they rugged? Are they supermodels? Are they vanilla?"
 
 I really do not care and won't take your opinion into account. I've scoured a lot of NPC overhauls (from Eeekies', Northbourne, to Bijin, Pandorable or the Re-imagined Series) and handpicked them for the list so it fits ***MY*** tastes.
