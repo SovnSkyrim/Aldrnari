@@ -15,7 +15,7 @@ LotD also displays the lowest quality armor and weapons mods in my opinion (Look
 You're free from hoarding random items, and you have cool player homes with room for displaying what you want, not what LotD deemed worthy. [This is the kind of behavior I hope to avoid](https://cdn.discordapp.com/attachments/747132474647248917/855547604561297428/unknown.png).
 Even the [Dev Aveza](https://www.nexusmods.com/skyrimspecialedition/mods/24587), my favourite part of LotD, is in, without being held back.
 
-This is not a list centered around "immersion and roleplay". Mods like [Sunhelm](https://www.nexusmods.com/skyrimspecialedition/mods/39414) are deliberately not present. Survival Mode is not patched in and incompatible out of the box. [Keep it Clean](https://www.nexusmods.com/skyrimspecialedition/mods/17846) is also not in.
+This is not a list centered around "immersion and roleplay". Mods like [Sunhelm](https://www.nexusmods.com/skyrimspecialedition/mods/39414) are deliberately not present. Survival Mode is not patched in and incompatible out of the box. [Keep it Clean](https://www.nexusmods.com/skyrimspecialedition/mods/17846) is also not in. Furthermore there are enemies from other games such as The Witcher 3 and Dark Souls Series.
 
 ## What the list is
 ## Gameplay - Combat | ADXP MCO, dodging, AIs and Parrying
