@@ -1,6 +1,6 @@
 ## 2.2 | Back on the UI
 
-**Released at**: `Unreleased`
+**Released at**: `18/09/2022`
 
 **Notes** : Not Savefile Compatible - Lots of stuff missing from changelog; development was hard to do
 
