@@ -1,3 +1,55 @@
+## 2.2 | Back on the UI
+
+**Released at**: `Unreleased`
+
+**Notes** : Not Savefile Compatible - Lots of stuff missing from changelog; development was hard to do
+
+Added:
+
+- New Weapons and armors distributed in the World
+  - Inquisitor Armor
+  - Lunar Guard Armor
+- New Weapons and armors obtainable through a specific crafting perk:
+  - EGIL General Beatrix
+- Konahrik's Accoutrements - Fixed Esp
+- Animated Armoury - No Whips No Claws Edition 2.3
+- Ryn's Saarthal
+- ADXP I MCO ER rapiers (SCAR)
+- Katana - Journey in the Shadows & HPH Overhaul
+- CFTO - Warm Clothing - SPID
+- Git Gud - Trainers have Standarts
+- Skyrim's Got Talent - Interesting NPCs (3DNPC) Addon
+- Kaidan's Arsenal
+- Epic Doors of Whiterun SE
+- Immersive Vampire Clutter - Base Object Swapper (BOS)
+- ENB Effect Shader Support
+- NVIDIA Reflex Support
+- BTPS - Nordic UI Activation Button Replacer
+- Skunk's xVASynth Cleanup for Saints and Seducers - Voiced Narrative
+- FYX - Riften Canal and Round Posts
+- Sonderbain's Chevalier - Randomized One Handed Block Animations
+- Party Damage Control SSE - Magic Patch
+- Ordinator Patch for SkySA - MCO - Combo Perks
+- Attack speed to damage conversion for MCO-ADXP
+- kjg's Patches
+- Precision Creatures
+- Lyru's Tattoo pack collection
+- Shadow Diffusion
+- HD Local Map
+- AnimObject Swapper
+
+Updated:
+
+- Lux
+- Serana Dialogue Add-on
+- Precision
+- Simplicity of Snow
+- Prince and the Pauper Refined
+- EVG Animated Traversal - Patch Collection
+- Cathedral 3D Mountain Flowers - Base Object Swapper
+- Whole bunch of mods
+
+
 ## 2.1 | Bunch of Bugfixes² but non savefile compatible
 
 **Released at**: `21/08/2022`
