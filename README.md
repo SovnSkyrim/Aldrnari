@@ -373,8 +373,6 @@ Some NPCs have a neck seam, that's known, I'm waiting for an update of [EasyNPC]
 - Pikes get greatsword perks
 - Halberds get two-handed axe perks
 - Quarter Staffs get war hammer perks
-- Claws get dagger perks
-- Whips get mace perks
 
 ### My character T-Poses!
 
@@ -382,7 +380,7 @@ If this is upon loading your savefile, that is normal. This list uses lots of ne
 
 If it's constantly; cap your framerate, either with BethINI, SSE Display Tweaks, or ENB.
 
-### I keep getting put into 3rd person when in combat
+### I keep getting put into 3rd/third person when in combat
 
 Intended; the list is tailored to 3rd person combat
 
