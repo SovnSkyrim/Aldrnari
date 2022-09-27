@@ -50,7 +50,7 @@ It is deeply inspired by games like Dark Souls and Hellblade: Senua's Sacrifice,
 
 If you have any questions regarding the list, feel free to ask in the [Official Wabbajack Discord](https://discord.gg/wabbajack) or on the [Elysium and Aldrnari Community Discord](https://discord.gg/FAfPb9T).
 
-This project started as a collaboration between Althro and I on Tinvaak 2. Over time, however, we realised our end goals were different, and he gave permission for me to use the base that had been created. Aldrnari would not exist without Althro and the work he put into creating and patching Tinvaak 2. Go show him some love and play [Tinvaak 2](https://github.com/Althro/Tinvaak2). [Permission proof](http://i.prntscr.com/NwKOu-apRU6DrMDb9R5eOw.png)
+This project started as a collaboration between Althro and I on Tinvaak 2. Over time, however, we realised our end goals were different, and he gave permission for me to use the base that had been created; now only Aldrnari remains as Tinvaak 2 has been taken down. Aldrnari would not exist without Althro and the work he put into creating and patching Tinvaak 2. [Permission proof](http://i.prntscr.com/NwKOu-apRU6DrMDb9R5eOw.png)
 
 Due to being in programming studies, I (Sovn) will be updating the list less than some more active list developpers, but this list isn't going to die soon.
 
