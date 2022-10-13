@@ -89,7 +89,7 @@ Disclaimer: Any questions regarding the specs and performance of the list will b
 
 #### Size on Drive
 
-Aldrnari is a big list, but it is in a constant evolution. Check the Wabbajack UI by simply hovering your mouse on the card for the list to check it's size. You need to ADD UP both download and install size to get the true number. It is atleast 350GB+ so you will NEED an SSD, for the game. You can always put the downloads folder on an HDD, it'll only make the installation slower.
+Aldrnari is a big list, but it is in a constant evolution. Check the Wabbajack UI by simply hovering your mouse on the card for the list to check its size. You need to ADD UP both download and install size to get the true number. It is atleast 350GB+ so you will NEED an SSD, for the game. You can always put the downloads folder on an HDD, it'll only make the installation slower.
 
 ### Pre-Installation
 
