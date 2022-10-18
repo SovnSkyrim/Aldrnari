@@ -72,14 +72,15 @@ An entire document has been made to give you as much information as I could with
 # Installation
 ### Prerequisites
 #### PC Specifications
-Aldrnari is meant to use every single inch of my computer, and here are my specs:
-  - I7-7700k
-  - 1080Ti Zotac - 11GB of VRAM
-  - 32GB of 3200mhz DDR4 RAM
 
-Full PC Part Picker setup is [here](https://fr.pcpartpicker.com/list/ZHQQgt). I would recommend atleast 8GB+ of VRAM for 1080p, and for 1440p you will need a minimum of 10GB of VRAM, although more is highly recommended. There are tweaks at the bottom of this readme for 6GB of VRAM users, but they void support. I do not have stable 60FPS on 1440p everywhere with my setup because, frankly, I do not care about framerate if combat is fluid and I can take sexy screenshots. I also cap at 40fps and never get drops at 1080p because my screen is a 3840x1080p (no I don't play in ultrawide, that's pointless and no support will be offered for that either).
+Aldrnari is meant to use my computer; its main specs are as follows:
+	- Ryzen 7 5800x3D
+	- ASUS TUF 3090
+	- 32GB of RAM
 
-It's definitely heavier than Elysium in the direct comparison. Memory is more important than a multithreaded CPU. This is due to the sheer number of new stuff in the world.
+So I cannot give you a true answer if your much lower ended computer will work with it. The general consensus is that you will not get a steady 60 FPS/1440p game unless you have similar specs as I do [(PCPartPicker list here)](https://fr.pcpartpicker.com/list/PMTq9r).
+
+My old 1080ti with I7 7700k could run this list at 1080p; capping at 40fps (yes that's how I used to play); as the goal of the list is to have innovative gameplay and amazing visuals.
 
 If you want to join the community Discord; click [here](https://discord.gg/FAfPb9T)!
 
