@@ -81,7 +81,7 @@ Aldrnari is meant to use my computer; its main specs are as follows:
 
 So I cannot give you a true answer if your much lower ended computer will work with it. The general consensus is that you will not get a steady 60 FPS/1440p game unless you have similar specs as I do [(PCPartPicker list here)](https://fr.pcpartpicker.com/list/PMTq9r).
 
-My old 1080ti with I7 7700k could run this list at 1080p; capping at 40fps (yes that's how I used to play); as the goal of the list is to have innovative gameplay and amazing visuals.
+My old 1080ti with I7 7700k could run this list at 1080p; capping at 40fps (yes that's how I used to play); as the goal of the list is to have innovative gameplay and amazing visuals. It is also more memory bound than CPU bound so a 6GB of VRAM GPU with 32GB of RAM will do better than a 8GB of VRAM GPU with 16GB of RAM.
 
 If you want to join the community Discord; click [here](https://discord.gg/FAfPb9T)!
 
