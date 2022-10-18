@@ -74,9 +74,10 @@ An entire document has been made to give you as much information as I could with
 #### PC Specifications
 
 Aldrnari is meant to use my computer; its main specs are as follows:
-	- Ryzen 7 5800x3D
-	- ASUS TUF 3090
-	- 32GB of RAM
+
+ - Ryzen 7 5800x3D
+ - ASUS TUF 3090
+ - 32GB of RAM
 
 So I cannot give you a true answer if your much lower ended computer will work with it. The general consensus is that you will not get a steady 60 FPS/1440p game unless you have similar specs as I do [(PCPartPicker list here)](https://fr.pcpartpicker.com/list/PMTq9r).
 
