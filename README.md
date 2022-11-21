@@ -384,7 +384,11 @@ If it's constantly; cap your framerate, either with BethINI, SSE Display Tweaks,
 
 ### I keep getting put into 3rd/third person when in combat
 
-Intended; the list is tailored to 3rd person combat
+Intended; the list is tailored to 3rd person combat. More information in the [Modified Gameplay.md](https://github.com/SovnSkyrim/Aldrnari/blob/main/Modified%20Gameplay.md).
+
+### Dragons.. They regenerate health, they circle around, can't kill them, and after Mirmulnir, 3 spawned at Whiterun...
+
+Intended. Dragons unlock shouts which are one of the strongest tools available to you; thus dragons are quite hard to take on. You **will** be strong enough at some point.
 
 ### "I am bothered by the way NPCs look in the game!" and "How do NPCs look?? Are they rugged? Are they supermodels? Are they vanilla?"
 
