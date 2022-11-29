@@ -105,6 +105,8 @@ I doubt you need to do this since you likely already have this installed. This p
 
 Please ensure you have .NET v5.0 installed (even if you have .NET v6.X!!). Download the **desktop app installer and console app x64** from Microsoft here https://dotnet.microsoft.com/download/dotnet/5.0/runtime.
 
+![Dot Net](https://raw.githubusercontent.com/Lost-Outpost/lost-legacy/main/images/microsoft-net-5-0-installation.png)
+
 ## FAILING TO INSTALL MICROSOFT VISUAL C++ AND MICROSOFT .NET 5.0 WILL RESULT IN CTDS WHEN LAUNCHING THE GAME. PLEASE INSTALL THEM.
 
 #### Steam Library
