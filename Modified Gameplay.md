@@ -18,6 +18,10 @@ Even the [Dev Aveza](https://www.nexusmods.com/skyrimspecialedition/mods/24587),
 This is not a list centered around "immersion and roleplay". Mods like [Sunhelm](https://www.nexusmods.com/skyrimspecialedition/mods/39414) are deliberately not present. Survival Mode is not patched in and incompatible out of the box. [Keep it Clean](https://www.nexusmods.com/skyrimspecialedition/mods/17846) is also not in. Furthermore there are enemies from other games such as The Witcher 3 and Dark Souls Series.
 
 ## What the list is
+
+## You will be OP.
+[Here is a few examples of what can be done within the list stat wise](https://imgur.com/a/0MZG7NF). Despite all the list's difficulties, you will be op and therefore early also will be harder than in most lists. 
+
 ## Gameplay - Combat | ADXP MCO, dodging, AIs and Parrying
 
 [ADXP MCO](https://www.skyrim-guild.com/distars-mods/adxp-mco) is the core combat mod of the list; in a nutshell, it's attack commitment. If you attack, you commit to it therefor you cannot moove. You also loose stamina. It's the core, all animations revolve around it. Don't worry though [Everyone's Stamina Matters](https://www.nexusmods.com/skyrimspecialedition/mods/50502) makes it so your enemies are also struggling.
