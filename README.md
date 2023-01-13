@@ -299,6 +299,8 @@ Aldrnari has a multitude of new keys, here are the main changes:
   - Make sure no input shares the same key, your gamepad/other inputs aren't conflicting (by unplugging them if dodge does not work) and that animations have loaded by not T-posing in 3rd person.
 - Smoothcam: Shoulder camera swap is on C aswell
   - Modifiable in MCM
+- Ultimate Immersion Toggle: X to hide all the HUD
+  - Modifiable in MCM
 - Simple Horse: H to call the horse
   - Modifiable in MCM
 - Quick Light: L to light the lantern on when equipped
