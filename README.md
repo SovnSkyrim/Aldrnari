@@ -361,7 +361,7 @@ Check under the "Generated FIles" Separator in the left panel of MO2 and tick [U
 
 ### Ultrawide Options
 
-I have an ultra-wide, but it's just not worth the hassle of setting Skyrim up for it, in my opinion. You can try using [this](https://www.nexusmods.com/skyrimspecialedition/mods/53909) but I will not offer any kind of support regarding HUD/UI problems to you.
+I have an ultra-wide, but it's just not worth the hassle of setting Skyrim up for it, in my opinion. The list does not support wide screens.
 
 ### I have a question
 
