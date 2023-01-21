@@ -93,6 +93,8 @@ Disclaimer: Any questions regarding the specs and performance of the list will b
 
 Aldrnari is a big list, but it is in a constant evolution. Check the Wabbajack UI by simply hovering your mouse on the card for the list to check its size. You need to ADD UP both download and install size to get the true number. It is atleast 350GB+ so you will NEED an SSD, for the game. You can always put the downloads folder on an HDD, it'll only make the installation slower.
 
+You **cannot** use any kind of **external SSD/HDD** loaded through a **USB**. The list is **too big** for a USB Controller to output enough data. Use of SATA or NVMe ports is required.
+
 ### Pre-Installation
 
 These steps are only needed if you install the Modlist for the first time. If you are updating the Modlist, jump straight to [Updating](#updating).
