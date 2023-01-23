@@ -292,6 +292,8 @@ The MCMs have been automated thanks to [MCM Recorder](https://www.nexusmods.com/
 
 #### Keybindings
 
+Before giving you the list of keys; here's a tip: If you wish to bind any to your mouse; bind your mouse to a keyboard key (like U) instead of modifying the keybind to use "Mouse 1/2/3/4/5". This is known to cause issues.
+
 Aldrnari has a multitude of new keys, here are the main changes:
 
 - **Power Attacks: U**
