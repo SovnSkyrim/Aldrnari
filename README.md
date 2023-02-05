@@ -365,7 +365,7 @@ Check under the "Generated FIles" Separator in the left panel of MO2 and tick [U
 
 ### Ultrawide Options
 
-I have an ultra-wide, but it's just not worth the hassle of setting Skyrim up for it, in my opinion. The list does not support wide screens.
+Remove the mod ```Static Skill Leveling Upgraded``` in Mod Organizer then you can install a compatibility mod for the UI; aka this: [Nordic UI Widescreen Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/63339?tab=files).
 
 ### I have a question
 
