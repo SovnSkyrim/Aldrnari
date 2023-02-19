@@ -149,7 +149,7 @@ Start the game and exit once you're in the main menu.
 
 Download the release to a _working folder_. This folder **must not** be in a _common folder_ like your Desktop, Downloads or Program Files folder. It's best to create a Wabbajack folder near the root level of your drive like `C:/Wabbajack`.
 
-Grab [Wabbajack 2.5.3.28](https://github.com/wabbajack-tools/wabbajack/releases/tag/2.5.3.28), extract the folder in the _working folder_ and open the Wabbajack.exe in it. What you're downloading is directly that version as Wabbajack 3.0 and above has issues the team is not willing to fix.
+Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-tools/wabbajack/releases) and place the `Wabbajack.exe` file in the _working folder_.
 Wabbajack will not work with Windows 7, I will not offer any kind of support for users of that operating system.
 
 The following files are **NOT** going to download themselves through Wabbajack. As annoying as this is, it is currently neccessary to **MANUALLY DOWNLOAD** the following files **BEFORE** starting the Wabbajack installation process.
