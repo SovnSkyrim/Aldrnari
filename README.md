@@ -297,9 +297,9 @@ Before giving you the list of keys; here's a tip: If you wish to bind any to you
 Aldrnari has a multitude of new keys, here are the main changes:
 
 - **Power Attacks: U**
-  - To modify that key, open the ```One Click Power Attack``` mod in explorer and go to ```\SKSE\Plugins``` and open the ```OneClickPowerAttack.ini```. Modify the ```ForceRightKey``` keycode with the one you want in [this chart](https://www.creationkit.com/index.php?title=Input_Script)
+  - To modify that key, open the ```One Click Power Attack``` mod in explorer and go to ```\SKSE\Plugins``` and open the ```OneClickPowerAttack.ini```. Modify the ```ForceRightKey``` keycode with the one you want in [this chart]([https://www.creationkit.com/index.php?title=Input_Script](https://wiki.bethesda.net/wiki/creationkit/Skyrim/Input_Script/#HDXScanCodes))
 - TK Dodge: the Dodge key is on C, if you plan to keep it on C be sure to change the keybind for the "Autorun" button in Skyrim controls.
-  - to modify that key, open the mod in explorer and go to ```\SKSE\Plugins``` and open the ```TK Dodge RE.ini```. Modify the ```DodgeHotkey``` keycode with the one you want in [this chart](https://www.creationkit.com/index.php?title=Input_Script)
+  - to modify that key, open the mod in explorer and go to ```\SKSE\Plugins``` and open the ```TK Dodge RE.ini```. Modify the ```DodgeHotkey``` keycode with the one you want in [this chart]([https://www.creationkit.com/index.php?title=Input_Script](https://wiki.bethesda.net/wiki/creationkit/Skyrim/Input_Script/#HDXScanCodes))
   - Make sure no input shares the same key, your gamepad/other inputs aren't conflicting (by unplugging them if dodge does not work) and that animations have loaded by not T-posing in 3rd person.
 - Smoothcam: Shoulder camera swap is on C aswell
   - Modifiable in MCM
