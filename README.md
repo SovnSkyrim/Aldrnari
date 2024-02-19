@@ -135,7 +135,7 @@ I highly recommend uninstalling the game through Steam, deleting the game folder
 
 [THIS](https://imgur.com/a/1dySo8q) is approximately what a clean Skyrim install should look like after shredding or cleaning it manually.
 
-Skyrim got an update on the 11th of November, with free Creation Club content. We use this update for ease of installation, despite downgrading the .exe through Wabbajack and not using any Creation Club Content. This list does not require the Anniversary Edition Upgrade, if you have this version installed Wabbajack should still recognize your Skyrim installation; it will simply not use any Creation Club Content installed.
+We always will use the latest Skyrim version available on Steam. We use this update for ease of installation, despite downgrading the .exe through Wabbajack and not using any Creation Club Content. This list does not require the Anniversary Edition Upgrade, if you have this version installed Wabbajack will recognize your Skyrim installation; it will simply not use any Creation Club Content installed.
 
 ## Start Skyrim
 
