@@ -294,7 +294,7 @@ The MCMs have been automated thanks to [MCM Recorder](https://www.nexusmods.com/
 
 Before giving you the list of keys; here's a tip: If you wish to bind any to your mouse; bind your mouse to a keyboard key (like U) instead of modifying the keybind to use "Mouse 1/2/3/4/5". This is known to cause issues.
 
-Aldrnari has a multitude of new keys, [heck this chart could even help you more](https://cdn.discordapp.com/attachments/903208734552096768/1209086554950213664/image.png?ex=65e5a49a&is=65d32f9a&hm=df3b4453065136019d4fbe01d8d922d4678ec41393617c7f97844d6a40356fd6&), here are the main changes:
+Aldrnari has a multitude of new keys, [heck this chart could even help you more](https://raw.githubusercontent.com/SovnSkyrim/Aldrnari/main/keybindchart.webp), here are the main changes:
 
 - **Power Attacks: U**
   - To modify that key, open the ```One Click Power Attack``` mod in explorer and go to ```\SKSE\Plugins``` and open the ```OneClickPowerAttack.ini```. Modify the ```ForceRightKey``` keycode with the one you want in [this chart](https://ck.uesp.net/wiki/Input_Script)
