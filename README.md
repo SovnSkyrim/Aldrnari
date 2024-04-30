@@ -229,7 +229,7 @@ If you've never touched the pagefile, perform the following steps to prevent fro
 5. If you have more than one drive, try enabling it for at least one more drive as a backup (make sure it has a decent bit of free space, like 15GB). Set the size to 'System managed size'.
 Otherwise, set a custom size for the drive it's currently on and increase the maximum size to be at least 20GB.
 
-Here's [my setup, for example](https://cdn.discordapp.com/attachments/879580504351981598/929791582125846618/unknown.png).
+Here's [my setup, for example](https://prnt.sc/Lqn9qpACeusB).
 
 ## Getting an ENB
 
