@@ -24,7 +24,7 @@ This is not a list centered around "immersion and roleplay". Mods like [Sunhelm]
 
 ## Gameplay - Combat | ADXP MCO, dodging, AIs and Parrying
 
-[ADXP MCO](https://www.skyrim-guild.com/distars-mods/adxp-mco) is the core combat mod of the list; in a nutshell, it's attack commitment. If you attack, you commit to it therefor you cannot moove. You also loose stamina. It's the core, all animations revolve around it. Don't worry though [Everyone's Stamina Matters](https://www.nexusmods.com/skyrimspecialedition/mods/50502) makes it so your enemies are also struggling.
+[ADXP MCO](https://www.distaranimation.com/mods/attack) is the core combat mod of the list; in a nutshell, it's attack commitment. If you attack, you commit to it therefor you cannot moove. You also loose stamina. It's the core, all animations revolve around it. Don't worry though [Everyone's Stamina Matters](https://www.nexusmods.com/skyrimspecialedition/mods/50502) makes it so your enemies are also struggling.
 
 Now to dodge, there's [TK Dodge RE](https://www.nexusmods.com/skyrimspecialedition/mods/56956), to overhaul AI there's [SCAR](https://www.nexusmods.com/skyrimspecialedition/mods/72014), to make sure you hit all enemies we got [Precision](https://www.nexusmods.com/skyrimspecialedition/mods/72347). Finally, to overhaul parrying we got [Elden Parry](https://www.nexusmods.com/skyrimspecialedition/mods/70240) combined with [Elden Counter](https://www.nexusmods.com/skyrimspecialedition/mods/65579).
 
