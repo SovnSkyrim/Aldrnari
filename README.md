@@ -367,6 +367,10 @@ Check under the "Generated FIles" Separator in the left panel of MO2 and tick [U
 
 Remove the mod ```Static Skill Leveling Upgraded``` in Mod Organizer then you can install a compatibility mod for the UI; aka this: [Nordic UI Widescreen Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/63339?tab=files).
 
+Note: *Nordic UI Widescreen Fixes* includes optional patches for Frostfall and SunHelm.
+Nexus will prompt you to install these mods as "requirements", but they are not actually required.
+Also, in the FOMOD installer GUI, you should select "None" in the "Survival Mod Patches" section.
+
 ### I have a question
 
 Ask it in our Community discord, [link here](https://discord.gg/sxBH2c2MqF). Please make sure to grab the appropriate roles in order to see the modlist specific channels.
